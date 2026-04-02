@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
-import Link from 'next/link';
 import { Article } from '@/lib/types';
 import { ArticleCard } from './ArticleCard';
 import { CategoryTabs } from './CategoryTabs';
@@ -102,46 +101,26 @@ export function Dashboard() {
             </div>
           </div>
 
-          <div style={{ display: 'flex', gap: '12px' }}>
-            <Link
-              href="/digest"
-              style={{
-                background: 'linear-gradient(135deg, #10b981, #3b82f6)',
-                color: '#fff',
-                border: 'none',
-                padding: '10px 20px',
-                borderRadius: '10px',
-                fontSize: '14px',
-                fontWeight: '600',
-                textDecoration: 'none',
-                display: 'flex',
-                alignItems: 'center',
-                gap: '8px'
-              }}
-            >
-              📬 Slackまとめ
-            </Link>
-            <button
-              onClick={handleCollect}
-              disabled={isCollecting}
-              style={{
-                background: 'linear-gradient(135deg, #3b82f6, #8b5cf6)',
-                color: '#fff',
-                border: 'none',
-                padding: '10px 20px',
-                borderRadius: '10px',
-                fontSize: '14px',
-                fontWeight: '600',
-                cursor: isCollecting ? 'not-allowed' : 'pointer',
-                opacity: isCollecting ? 0.6 : 1,
-                display: 'flex',
-                alignItems: 'center',
-                gap: '8px'
-              }}
-            >
-              {isCollecting ? '収集中...' : '🔄 Collect Tips'}
-            </button>
-          </div>
+          <button
+            onClick={handleCollect}
+            disabled={isCollecting}
+            style={{
+              background: 'linear-gradient(135deg, #3b82f6, #8b5cf6)',
+              color: '#fff',
+              border: 'none',
+              padding: '10px 20px',
+              borderRadius: '10px',
+              fontSize: '14px',
+              fontWeight: '600',
+              cursor: isCollecting ? 'not-allowed' : 'pointer',
+              opacity: isCollecting ? 0.6 : 1,
+              display: 'flex',
+              alignItems: 'center',
+              gap: '8px'
+            }}
+          >
+            {isCollecting ? '収集中...' : '🔄 Collect Tips'}
+          </button>
         </div>
       </header>
 
