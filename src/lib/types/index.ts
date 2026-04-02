@@ -82,6 +82,51 @@ export interface WeeklyDigest {
   generatedAt: string;
 }
 
+// Slack配信用まとめ
+export interface SlackDigestSummary {
+  // 基本情報
+  title: string;
+  period: string;
+  totalArticles: number;
+  newArticles: number;
+
+  // ハイライト
+  topHighlights: {
+    title: string;
+    summary: string;
+    useCase: string;
+    url: string;
+  }[];
+
+  // カテゴリ別サマリー
+  categoryBreakdown: {
+    category: Category;
+    label: string;
+    count: number;
+    keyPoints: string[];
+  }[];
+
+  // 今週のおすすめアクション
+  recommendedActions: {
+    action: string;
+    reason: string;
+    priority: 'high' | 'medium' | 'low';
+  }[];
+
+  // 前週との比較
+  comparison: {
+    newTopics: string[];
+    trendingKeywords: string[];
+    insights: string;
+  };
+
+  // ユースケース別Tips
+  useCaseTips: {
+    persona: string;
+    tips: string[];
+  }[];
+}
+
 // API レスポンス
 export interface ApiResponse<T> {
   success: boolean;
