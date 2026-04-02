@@ -11,12 +11,21 @@ const parser = new Parser({
 
 // RSSフィード一覧（動作確認済み）
 const RSS_FEEDS = [
-  // 日本語ソース
+  // 日本語ニュースソース
   { url: 'https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml', name: 'ITmedia' },
   { url: 'https://rss.itmedia.co.jp/rss/2.0/aiplus.xml', name: 'ITmedia AI+' },
   { url: 'https://rss.itmedia.co.jp/rss/2.0/enterprise.xml', name: 'ITmedia エンタープライズ' },
   { url: 'https://b.hatena.ne.jp/search/tag?q=Zoom&mode=rss', name: 'はてなブックマーク' },
-  { url: 'https://news.google.com/rss/search?q=Zoom+テレワーク&hl=ja&gl=JP&ceid=JP:ja', name: 'Google News JP' },
+  { url: 'https://news.google.com/rss/search?q=Zoom+%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF&hl=ja&gl=JP&ceid=JP:ja', name: 'Google News JP' },
+  // 日本語ブログプラットフォーム
+  { url: 'https://zenn.dev/topics/zoom/feed', name: 'Zenn (Zoom)' },
+  { url: 'https://zenn.dev/topics/remotework/feed', name: 'Zenn (リモートワーク)' },
+  { url: 'https://zenn.dev/topics/slack/feed', name: 'Zenn (Slack)' },
+  { url: 'https://note.com/hashtag/zoom/rss', name: 'note (Zoom)' },
+  { url: 'https://note.com/hashtag/%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF/rss', name: 'note (テレワーク)' },
+  { url: 'https://note.com/hashtag/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF/rss', name: 'note (リモートワーク)' },
+  { url: 'https://qiita.com/tags/zoom/feed', name: 'Qiita (Zoom)' },
+  { url: 'https://qiita.com/tags/slack/feed', name: 'Qiita (Slack)' },
   // 英語ソース
   { url: 'https://techcrunch.com/feed/', name: 'TechCrunch' },
   { url: 'https://feeds.feedburner.com/Techcrunch', name: 'TechCrunch FB' },
