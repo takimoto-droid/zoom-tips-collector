@@ -1,0 +1,200 @@
+[
+  {
+    "id": "article_mngoh3kg_x8e85h",
+    "title": "Zoom 6.0: AI機能が大幅強化！ミーティング要約が自",
+    "summary": "Zoomの最新アップデートでは、AIを活用した新機能が多数追加されました。 特に注目すべきは、ミーティング後に自動で要約を生成する機能です。 この機能により、会議に参加できなかったメンバーも、重要なポイントを 素早く把握できるようになります。...",
+    "category": "productivity",
+    "tips": [
+      "AIによるミーティング要約の自動生成",
+      "リアルタイム翻訳の対応言語追加（日本語含む）",
+      "スマートチャプター機能でレコーディングを効率的に閲覧"
+    ],
+    "originalUrl": "https://blog.zoom.us/zoom-6-0-ai-features/",
+    "source": "rss",
+    "publishedAt": "2024-03-15T00:00:00.000Z",
+    "createdAt": "2026-04-01T23:29:31.216Z"
+  },
+  {
+    "id": "article_mngoh3ye_rprui5",
+    "title": "Zoomのセキュリティ設定ベストプラクティス2024",
+    "summary": "リモートワークが定着する中、Zoomミーティングのセキュリティ対策は ますます重要になっています。このガイドでは、最新のセキュリティ 設定とベストプラクティスをご紹介します。 推奨設定: - 待機室の有効化 - パスコ...",
+    "category": "security",
+    "tips": [
+      "待機室の有効化",
+      "パスコードの必須化",
+      "認証されたユーザーのみ参加可能に設定"
+    ],
+    "originalUrl": "https://blog.zoom.us/security-best-practices-2024/",
+    "source": "rss",
+    "publishedAt": "2024-03-10T00:00:00.000Z",
+    "createdAt": "2026-04-01T23:29:31.718Z"
+  },
+  {
+    "id": "article_mngoh4h7_5wruti",
+    "title": "Zoom Team ChatとSlackの連携方法",
+    "summary": "ZoomとSlackを連携させることで、コミュニケーションツール間の 切り替えを減らし、業務効率を向上させることができます。 連携でできること: - SlackからワンクリックでZoomミーティングを開始 - Zoomミーティングの予...",
+    "category": "chat",
+    "tips": [
+      "SlackからワンクリックでZoomミーティングを開始",
+      "Zoomミーティングの予定をSlackで通知",
+      "Zoom Team Chatのメッセージをslackに転送"
+    ],
+    "originalUrl": "https://blog.zoom.us/zoom-slack-integration/",
+    "source": "rss",
+    "publishedAt": "2024-03-05T00:00:00.000Z",
+    "createdAt": "2026-04-01T23:29:32.395Z"
+  },
+  {
+    "id": "article_mngoh4v3_36ypfv",
+    "title": "ブレイクアウトルームを活用した効果的なワークショップ運営",
+    "summary": "オンラインワークショップやトレーニングで、参加者のエンゲージメントを 高めるためのブレイクアウトルーム活用テクニックをご紹介します。 Tips: - 事前にブレイクアウトルームを設定しておく - タイマー機能で時間管理...",
+    "category": "other",
+    "tips": [
+      "事前にブレイクアウトルームを設定しておく",
+      "タイマー機能で時間管理",
+      "ブロードキャスト機能で全体への指示"
+    ],
+    "originalUrl": "https://blog.zoom.us/breakout-rooms-workshop/",
+    "source": "rss",
+    "publishedAt": "2024-03-01T00:00:00.000Z",
+    "createdAt": "2026-04-01T23:29:32.895Z"
+  },
+  {
+    "id": "article_mngoh590_ujbpal",
+    "title": "Zoom Whiteboard新機能: テンプレートライブラ",
+    "summary": "Zoom Whiteboardに新しいテンプレートが追加されました。 ブレインストーミング、プロジェクト計画、レトロスペクティブなど、 様々なユースケースに対応したテンプレートが利用可能です。 新テンプレート: - アジャイルスプリン...",
+    "category": "other",
+    "tips": [
+      "アジャイルスプリントボード",
+      "SWOT分析",
+      "カスタマージャーニーマップ"
+    ],
+    "originalUrl": "https://blog.zoom.us/whiteboard-templates/",
+    "source": "rss",
+    "publishedAt": "2024-02-28T00:00:00.000Z",
+    "createdAt": "2026-04-01T23:29:33.396Z"
+  },
+  {
+    "id": "article_mngoh5mx_02pwc4",
+    "title": "Zoom Desktop Client リリースノート - ",
+    "summary": "【新機能】 ・ AIコンパニオン機能の強化 - ミーティング中のリアルタイム要約 - アクションアイテムの自動抽出 - スマートレコーディングチャプター ・ ミーティング機能の改善 -...",
+    "category": "chat",
+    "tips": [
+      "AIコンパニオン機能の強化",
+      "ミーティング中のリアルタイム要約",
+      "アクションアイテムの自動抽出"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/en-us/articles/desktop-client-release-notes",
+    "source": "web",
+    "publishedAt": "2024-03-18T00:00:00.000Z",
+    "createdAt": "2026-04-01T23:29:33.897Z"
+  },
+  {
+    "id": "article_mngoh60v_xclkzo",
+    "title": "Zoom Rooms アップデート - ハイブリッドワーク対",
+    "summary": "Zoom Roomsの最新アップデートでは、ハイブリッドワーク環境を サポートする機能が大幅に強化されました。 主なアップデート: - スマートギャラリー機能の改善（AIによる参加者の自動フレーミング） - 会議室予約システムとの連携...",
+    "category": "integration",
+    "tips": [
+      "スマートギャラリー機能の改善（AIによる参加者の自動フレーミング）",
+      "会議室予約システムとの連携強化",
+      "デジタルサイネージ機能の追加"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/en-us/articles/zoom-rooms-updates",
+    "source": "web",
+    "publishedAt": "2024-03-12T00:00:00.000Z",
+    "createdAt": "2026-04-01T23:29:34.399Z"
+  },
+  {
+    "id": "article_mngoh6er_khatfh",
+    "title": "Zoom Phone 新機能: AI音声文字起こし",
+    "summary": "Zoom Phoneに待望のAI音声文字起こし機能が追加されました。 通話内容をリアルタイムでテキスト化し、後から検索可能になります。 利用可能な機能: - リアルタイム文字起こし - 通話後の自動要約生成 - キーワ...",
+    "category": "other",
+    "tips": [
+      "リアルタイム文字起こし",
+      "通話後の自動要約生成",
+      "キーワード検索"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/en-us/articles/zoom-phone-transcription",
+    "source": "web",
+    "publishedAt": "2024-03-08T00:00:00.000Z",
+    "createdAt": "2026-04-01T23:29:34.899Z"
+  },
+  {
+    "id": "article_mngoh6sp_n49dwp",
+    "title": "Zoomで知らなかった便利機能！ミーティング中に「Alt+Y",
+    "summary": "Zoomで知らなかった便利機能！ミーティング中に「Alt+Y」で手を挙げられるって知ってました？大人数の会議で発言したい時に便利です。#ZoomTips #リモートワーク...",
+    "category": "meeting",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://twitter.com/tech_tips_jp/status/1234567890",
+    "source": "twitter",
+    "publishedAt": "2024-03-17T10:30:00.000Z",
+    "createdAt": "2026-04-01T23:29:35.401Z"
+  },
+  {
+    "id": "article_mngoh76m_0qmkk4",
+    "title": "今日発見したZoomの新機能。ミーティング後に自動で要約が生",
+    "summary": "今日発見したZoomの新機能。ミーティング後に自動で要約が生成されるようになってた！これでメモ取りながら会議に集中しなくても良くなった。AI時代すごい。 #Zoom #AI #生産性向上...",
+    "category": "productivity",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://twitter.com/remote_worker_123/status/1234567891",
+    "source": "twitter",
+    "publishedAt": "2024-03-16T14:20:00.000Z",
+    "createdAt": "2026-04-01T23:29:35.902Z"
+  },
+  {
+    "id": "article_mngoh7kk_mdifad",
+    "title": "Zoomのバーチャル背景、最近は動画も設定できるようになって",
+    "summary": "Zoomのバーチャル背景、最近は動画も設定できるようになってるんですね。自分の部屋が散らかってても安心w #Zoom #在宅勤務 #バーチャル背景...",
+    "category": "other",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://twitter.com/wfh_life/status/1234567892",
+    "source": "twitter",
+    "publishedAt": "2024-03-15T09:45:00.000Z",
+    "createdAt": "2026-04-01T23:29:36.404Z"
+  },
+  {
+    "id": "article_mngoh7yh_hp6c5q",
+    "title": "Zoom×Slack連携を設定してみた。Slackから直接ミ",
+    "summary": "Zoom×Slack連携を設定してみた。Slackから直接ミーティング開始できるの便利すぎる。/zoomコマンドだけでOK。もっと早く知りたかった... #Zoom #Slack #業務効率化...",
+    "category": "integration",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://twitter.com/productivity_hack/status/1234567893",
+    "source": "twitter",
+    "publishedAt": "2024-03-14T16:10:00.000Z",
+    "createdAt": "2026-04-01T23:29:36.905Z"
+  },
+  {
+    "id": "article_mngoh8cz_l9dc20",
+    "title": "Zoomのブレイクアウトルーム、事前に参加者を割り当てておけ",
+    "summary": "Zoomのブレイクアウトルーム、事前に参加者を割り当てておけるの知ってました？ワークショップ運営がめっちゃ楽になる。CSVでインポートもできます。 #Zoom #オンラインセミナー #Tips...",
+    "category": "other",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://twitter.com/online_event_pro/status/1234567894",
+    "source": "twitter",
+    "publishedAt": "2024-03-13T11:25:00.000Z",
+    "createdAt": "2026-04-01T23:29:37.427Z"
+  },
+  {
+    "id": "article_mngoh8qy_hd1y68",
+    "title": "Zoomの録画、クラウドに保存すると自動で文字起こしされるの",
+    "summary": "Zoomの録画、クラウドに保存すると自動で文字起こしされるの神機能。議事録作成の時間が半分になった。有料プランだけど元は取れてる。 #Zoom #議事録 #時短...",
+    "category": "other",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://twitter.com/meeting_master/status/1234567895",
+    "source": "twitter",
+    "publishedAt": "2024-03-12T13:50:00.000Z",
+    "createdAt": "2026-04-01T23:29:37.930Z"
+  }
+]
