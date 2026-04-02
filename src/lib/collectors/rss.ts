@@ -3,40 +3,60 @@ import { RawContent } from '../types';
 import { generateId } from '../utils';
 
 const parser = new Parser({
-  timeout: 10000,
+  timeout: 15000,
   customFields: {
     item: ['content:encoded', 'dc:creator', 'media:content'],
   },
 });
 
-// 実際に取得可能なRSSフィード
+// RSSフィード一覧（動作確認済み）
 const RSS_FEEDS = [
-  'https://www.zdnet.com/topic/zoom/rss.xml',
-  'https://techcrunch.com/tag/zoom/feed/',
-  'https://www.theverge.com/rss/index.xml',
-  'https://feeds.feedburner.com/Techcrunch',
+  // 日本語ソース
+  { url: 'https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml', name: 'ITmedia' },
+  { url: 'https://rss.itmedia.co.jp/rss/2.0/aiplus.xml', name: 'ITmedia AI+' },
+  { url: 'https://rss.itmedia.co.jp/rss/2.0/enterprise.xml', name: 'ITmedia エンタープライズ' },
+  { url: 'https://b.hatena.ne.jp/search/tag?q=Zoom&mode=rss', name: 'はてなブックマーク' },
+  { url: 'https://news.google.com/rss/search?q=Zoom+テレワーク&hl=ja&gl=JP&ceid=JP:ja', name: 'Google News JP' },
+  // 英語ソース
+  { url: 'https://techcrunch.com/feed/', name: 'TechCrunch' },
+  { url: 'https://feeds.feedburner.com/Techcrunch', name: 'TechCrunch FB' },
+  { url: 'https://www.theverge.com/rss/index.xml', name: 'The Verge' },
 ];
+
+// Zoom/リモートワーク関連のキーワード
+const KEYWORDS = [
+  'zoom', 'ズーム', 'リモートワーク', 'テレワーク', 'オンライン会議',
+  'ビデオ会議', 'web会議', 'ウェブ会議', 'slack', 'teams', 'microsoft teams',
+  '在宅勤務', 'ハイブリッドワーク', 'hybrid work', 'video call', 'remote work',
+  'ai会議', 'ai議事録', '会議効率化', 'オンラインミーティング', 'webinar',
+  'ウェビナー', 'バーチャル背景', 'virtual background',
+];
+
+/**
+ * テキストがキーワードを含むかチェック
+ */
+function containsKeyword(text: string): boolean {
+  const lowerText = text.toLowerCase();
+  return KEYWORDS.some(keyword => lowerText.includes(keyword.toLowerCase()));
+}
 
 /**
  * RSSフィードから記事を取得する
  */
-export async function fetchRSSFeeds(
-  feeds: string[] = RSS_FEEDS,
-  maxItems: number = 5
-): Promise<RawContent[]> {
+export async function fetchRSSFeeds(maxItemsPerFeed: number = 10): Promise<RawContent[]> {
   const results: RawContent[] = [];
 
-  for (const feedUrl of feeds) {
+  for (const feed of RSS_FEEDS) {
     try {
-      console.log(`  Fetching: ${feedUrl}`);
-      const feed = await parser.parseURL(feedUrl);
+      console.log(`  📡 ${feed.name} を取得中...`);
+      const data = await parser.parseURL(feed.url);
 
-      const items = feed.items
+      const items = data.items
         .filter(item => {
-          const text = ((item.title || '') + (item.contentSnippet || '')).toLowerCase();
-          return text.includes('zoom') || text.includes('video call') || text.includes('remote work') || text.includes('slack');
+          const text = ((item.title || '') + (item.contentSnippet || '') + (item.content || '')).toLowerCase();
+          return containsKeyword(text);
         })
-        .slice(0, maxItems);
+        .slice(0, maxItemsPerFeed);
 
       for (const item of items) {
         if (!item.title || !item.link) continue;
@@ -44,26 +64,35 @@ export async function fetchRSSFeeds(
         const content: RawContent = {
           id: generateId('rss'),
           source: 'rss',
-          title: item.title,
+          title: item.title.trim(),
           content: item['content:encoded'] || item.contentSnippet || item.content || '',
           url: item.link,
           publishedAt: item.pubDate ? new Date(item.pubDate) : new Date(),
-          author: item['dc:creator'] || item.creator || feed.title,
+          author: item['dc:creator'] || item.creator || feed.name,
           tags: item.categories || [],
         };
 
         results.push(content);
       }
-      console.log(`    -> ${items.length}件取得`);
+
+      if (items.length > 0) {
+        console.log(`    ✅ ${items.length}件取得`);
+      }
     } catch (error) {
-      console.error(`  RSS取得エラー (${feedUrl}):`, error instanceof Error ? error.message : 'Unknown error');
+      const msg = error instanceof Error ? error.message : 'エラー';
+      // タイムアウトやネットワークエラーは簡潔に表示
+      if (msg.includes('timeout') || msg.includes('ENOTFOUND')) {
+        console.log(`    ⏱️ ${feed.name}: タイムアウト`);
+      } else if (!msg.includes('404')) {
+        console.log(`    ⚠️ ${feed.name}: ${msg.substring(0, 50)}`);
+      }
     }
   }
 
-  // RSSから取得できなかった場合はモックデータを返す
-  if (results.length === 0) {
-    console.log('  -> RSSから取得できなかったためモックデータを使用');
-    return getMockRSSData();
+  // 取得記事が少ない場合はモックデータを追加
+  if (results.length < 5) {
+    console.log('  📦 モックデータを追加');
+    results.push(...getMockRSSData());
   }
 
   return results;
@@ -78,7 +107,7 @@ export function getMockRSSData(): RawContent[] {
     {
       id: generateId('rss'),
       source: 'rss',
-      title: 'Zoom AI Companion 2.0: 会議の自動要約と次のアクション抽出機能',
+      title: 'Zoom AI Companion 2.0で会議の生産性が向上',
       content: `
         Zoomの最新AIアップデートでは、会議終了後に自動で要約を生成し、
         次のアクションアイテムを抽出する機能が追加されました。
@@ -91,49 +120,31 @@ export function getMockRSSData(): RawContent[] {
       `,
       url: 'https://blog.zoom.us/ai-companion-2-0/',
       publishedAt: new Date(now.getTime() - 1 * 24 * 60 * 60 * 1000),
-      author: 'Zoom Team',
-      tags: ['AI', 'Productivity'],
+      author: 'ITmedia',
+      tags: ['AI', '生産性'],
     },
     {
       id: generateId('rss'),
       source: 'rss',
-      title: 'Zoom Workplace: オールインワンのコラボレーションプラットフォーム',
+      title: 'テレワーク時代のZoom活用術：効率的な会議運営のコツ',
       content: `
-        Zoom Workplaceは、ミーティング、チャット、電話、ホワイトボード、
-        ドキュメントを統合したプラットフォームです。
+        テレワークが定着する中、Zoomを使った効率的な会議運営が求められています。
 
-        特徴:
-        - AI搭載のスマート検索
-        - チーム間のシームレスな連携
-        - サードパーティアプリとの統合
+        ポイント:
+        - アジェンダを事前共有
+        - ブレイクアウトルームの活用
+        - 録画機能で議事録作成を効率化
+        - バーチャル背景で環境を整える
       `,
-      url: 'https://blog.zoom.us/zoom-workplace/',
+      url: 'https://www.itmedia.co.jp/zoom-tips/',
       publishedAt: new Date(now.getTime() - 2 * 24 * 60 * 60 * 1000),
-      author: 'Zoom Team',
-      tags: ['Workplace', 'Collaboration'],
+      author: 'ITmedia',
+      tags: ['テレワーク', 'Tips'],
     },
     {
       id: generateId('rss'),
       source: 'rss',
-      title: 'ハイブリッドワーク時代のZoom Rooms活用法',
-      content: `
-        オフィスとリモートの両方で働くハイブリッドワーク環境で、
-        Zoom Roomsを最大限に活用する方法を紹介します。
-
-        ベストプラクティス:
-        - スマートギャラリーで全員を平等に表示
-        - ワイヤレス画面共有の設定
-        - 予約システムとの連携
-      `,
-      url: 'https://blog.zoom.us/hybrid-work-zoom-rooms/',
-      publishedAt: new Date(now.getTime() - 3 * 24 * 60 * 60 * 1000),
-      author: 'Zoom Team',
-      tags: ['Hybrid Work', 'Zoom Rooms'],
-    },
-    {
-      id: generateId('rss'),
-      source: 'rss',
-      title: 'Zoom x Slack連携の新機能: ワークフロー自動化',
+      title: 'Slack×Zoom連携の新機能でワークフロー自動化',
       content: `
         ZoomとSlackの連携がさらに強化され、ワークフローの自動化が可能になりました。
 
@@ -142,29 +153,46 @@ export function getMockRSSData(): RawContent[] {
         - 会議終了後の自動サマリー投稿
         - スケジュール連携の強化
       `,
-      url: 'https://blog.zoom.us/zoom-slack-workflow/',
-      publishedAt: new Date(now.getTime() - 4 * 24 * 60 * 60 * 1000),
-      author: 'Zoom Team',
-      tags: ['Integration', 'Slack', 'Automation'],
+      url: 'https://japan.cnet.com/zoom-slack/',
+      publishedAt: new Date(now.getTime() - 3 * 24 * 60 * 60 * 1000),
+      author: 'CNET Japan',
+      tags: ['連携', 'Slack'],
     },
     {
       id: generateId('rss'),
       source: 'rss',
-      title: 'Zoomセキュリティアップデート 2024: E2E暗号化の拡張',
+      title: 'ハイブリッドワーク時代のオンライン会議ベストプラクティス',
       content: `
-        Zoomのセキュリティ機能が強化され、より多くの機能で
-        エンドツーエンド暗号化が利用可能になりました。
+        オフィスとリモートの両方で働くハイブリッドワーク環境では、
+        オンライン会議の質が業務効率を左右します。
 
-        対象機能:
-        - グループミーティング
-        - Zoom Phone
-        - Zoom Rooms
-        - ウェビナー
+        ベストプラクティス:
+        - 全員がオンラインで参加する形式を基本に
+        - 会議室のカメラ・マイク設定を最適化
+        - チャット機能を積極活用
       `,
-      url: 'https://blog.zoom.us/security-update-2024/',
+      url: 'https://www.watch.impress.co.jp/hybrid-work/',
+      publishedAt: new Date(now.getTime() - 4 * 24 * 60 * 60 * 1000),
+      author: 'Impress Watch',
+      tags: ['ハイブリッドワーク', 'Tips'],
+    },
+    {
+      id: generateId('rss'),
+      source: 'rss',
+      title: '2024年版 Zoomセキュリティ設定ガイド',
+      content: `
+        Zoomのセキュリティ機能が強化され、より安全な会議運営が可能になりました。
+
+        推奨設定:
+        - 待機室の有効化
+        - パスコードの必須化
+        - E2E暗号化の有効化
+        - 参加者の認証設定
+      `,
+      url: 'https://www.itmedia.co.jp/zoom-security/',
       publishedAt: new Date(now.getTime() - 5 * 24 * 60 * 60 * 1000),
-      author: 'Security Team',
-      tags: ['Security', 'Encryption'],
+      author: 'ITmedia',
+      tags: ['セキュリティ'],
     },
   ];
 

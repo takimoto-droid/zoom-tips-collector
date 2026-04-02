@@ -1,81 +1,234 @@
 [
   {
-    "id": "article_mngvzuxs_k5hoy0",
-    "title": "Zoom、AI搭載オフィススイートを発表",
-    "summary": "ZoomがAI搭載のオフィススイートを発表。ミーティング用のAIアバター機能も近日公開予定。リアルタイムのディープフェイク検出技術も導入される。",
-    "category": "productivity",
+    "id": "article_mngxvqmb_qxuquw",
+    "title": "[ITmedia PC USER] 最大40%オフ！　テ...",
+    "summary": "ハーマンインターナショナルが、アマゾンジャパンが開催中の先行セールを含む「Amazon 新生活セール Final」に、JBLブランドの製品を出品している。最大値引き率は40%だ。",
+    "category": "other",
     "tips": [
-      "AI機能で会議の生産性を向上",
-      "AIアバターで会議参加の負担軽減",
-      "ディープフェイク検出でセキュリティ強化"
+      "詳細は元の記事をご確認ください"
     ],
-    "originalUrl": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
+    "originalUrl": "https://www.itmedia.co.jp/pcuser/articles/2604/02/news062.html",
     "source": "rss",
-    "publishedAt": "2026-03-10T13:00:00.000Z",
-    "createdAt": "2026-04-02T03:00:03.808Z"
+    "publishedAt": "2026-04-01T21:00:00.000Z",
+    "createdAt": "2026-04-02T03:52:50.819Z"
   },
   {
-    "id": "article_mngvzv0l_dp2kbo",
-    "title": "Zoom AIアシスタント、無料ユーザーにも提供開始",
-    "summary": "ZoomがAIアシスタント機能をWeb版で提供開始。無料ユーザーも限定的に利用可能に。会議の要約やアクションアイテムの抽出が可能。",
-    "category": "productivity",
+    "id": "article_mngxvqp5_vno4fa",
+    "title": "Slack、Slackbotでエージェント連携を強化　“...",
+    "summary": "Slackは、内蔵AIアシスタント「Slackbot」の大幅な機能拡張を発表した。分析機能「Deep Thoughts」による戦略立案、デスクトップ上の自動データ入力、他社製エージェントを繋ぐハブ機能、会議中のリアルタイムCRM更新などを実装。個人の支援ツールから、組織全体を繋ぐ究極のチームメイトへ...",
+    "category": "integration",
     "tips": [
-      "無料プランでもAI機能を試せる",
-      "Web版でAIアシスタントを活用",
-      "会議要約機能で議事録作成を効率化"
+      "AI機能を活用して業務効率化",
+      "Slack連携で効率化"
     ],
-    "originalUrl": "https://techcrunch.com/2025/12/15/zoom-brings-its-ai-assistant-to-the-web-with-access-to-free-users/",
+    "originalUrl": "https://www.itmedia.co.jp/aiplus/articles/2604/01/news101.html",
     "source": "rss",
-    "publishedAt": "2025-12-15T16:58:46.000Z",
-    "createdAt": "2026-04-02T03:00:03.909Z"
+    "publishedAt": "2026-04-01T06:08:00.000Z",
+    "createdAt": "2026-04-02T03:52:50.921Z"
   },
   {
-    "id": "article_mngvzv3f_48x4ij",
-    "title": "Zoom CEO「AIで週3〜4日勤務が実現する」",
-    "summary": "Zoom CEOのエリック・ユアン氏が、数年後にはAIの進化により週3〜4日勤務が実現するとの見解を示した。",
-    "category": "productivity",
+    "id": "article_mngxvqry_yr3owk",
+    "title": "オンラインビデオ会議サービス「Zoom」のアプリ、2年ぶ...",
+    "summary": "オンラインビデオ会議サービス「Zoom」のアプリ、2年ぶりのメジャーバージョンアップ／メモリ最適化機能、音声翻訳、カスタム絵文字などの新要素...",
+    "category": "meeting",
     "tips": [
-      "AIによる業務効率化を推進",
-      "将来の働き方の変化に備える",
-      "AI活用で生産性を高める"
+      "詳細は元の記事をご確認ください"
     ],
-    "originalUrl": "https://techcrunch.com/2025/10/27/zoom-ceo-eric-yuan-says-ai-will-shorten-our-workweek/",
+    "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2096333.html",
     "source": "rss",
-    "publishedAt": "2025-10-28T00:14:39.000Z",
-    "createdAt": "2026-04-02T03:00:04.011Z"
+    "publishedAt": "2026-04-02T03:52:48.298Z",
+    "createdAt": "2026-04-02T03:52:51.022Z"
   },
   {
-    "id": "article_mngvzv68_uqizdd",
-    "title": "Zoom、アプリ横断AI議事録機能をリリース",
-    "summary": "Zoomがアプリ横断型のAI議事録機能とAIアバター機能をリリース。ミーティングと生産性プラットフォームの最新アップデート。",
-    "category": "productivity",
+    "id": "article_mngxvqus_gmey71",
+    "title": "完全テレワークで入社したのに「やっぱり出社して」と言われ...",
+    "summary": "完全テレワークで入社したのに「やっぱり出社して」と言われ…コロナ前の働き方に逆戻りしてミスマッチ拡大中：東京新聞デジタル首都圏のコンサルティング会社に勤務する関西在住の女性（29）は、結婚で関東から引っ越すタイミングで、現在の会社に転職した。当初聞いていたのは完全リモートでの業務。入社後しばらくは、...",
+    "category": "other",
     "tips": [
-      "AI議事録で会議内容を自動記録",
-      "AIアバターでビデオ会議に参加",
-      "複数アプリ間でシームレスに連携"
+      "詳細は元の記事をご確認ください"
     ],
-    "originalUrl": "https://techcrunch.com/2025/09/17/zoom-launches-a-cross-application-ai-notetaker-ai-avatars-and-more-in-its-latest-update/",
+    "originalUrl": "https://www.tokyo-np.co.jp/article/469403",
     "source": "rss",
-    "publishedAt": "2025-09-17T17:00:00.000Z",
-    "createdAt": "2026-04-02T03:00:04.112Z"
+    "publishedAt": "2026-04-02T03:52:48.298Z",
+    "createdAt": "2026-04-02T03:52:51.124Z"
   },
   {
-    "id": "article_mngvzv91_z7y08m",
-    "title": "Zoom CEOもAIアバターで決算発表",
-    "summary": "KlarnaのCEOに続き、Zoom CEOも決算発表でAIアバターを使用。AIアバターによるビデオコミュニケーションの活用が広がる。",
-    "category": "productivity",
+    "id": "article_mngxvqxl_kwswt6",
+    "title": "フランスが「Microsoft Teams」と「Zoom...",
+    "summary": "フランスが「Microsoft Teams」と「Zoom」を排除した理由--何に代替するのかフランス政府が米国のテクノロジー企業を信頼していないというのは、あながち間違いではない。実際のところ、フランスは自国のデータやサービスを米国企業に委ねることに強い不信感を抱いている。 フランスの公務・国家改革...",
+    "category": "other",
     "tips": [
-      "AIアバターの活用事例として参考に",
-      "オンライン会議の新しい形を検討",
-      "AI技術の進化に注目"
+      "詳細は元の記事をご確認ください"
     ],
-    "originalUrl": "https://techcrunch.com/2025/05/22/after-klarna-zooms-ceo-also-uses-an-ai-avatar-on-quarterly-call/",
+    "originalUrl": "https://japan.zdnet.com/article/35243443/",
     "source": "rss",
-    "publishedAt": "2025-05-23T06:34:16.000Z",
-    "createdAt": "2026-04-02T03:00:04.213Z"
+    "publishedAt": "2026-04-02T03:52:48.298Z",
+    "createdAt": "2026-04-02T03:52:51.225Z"
   },
   {
-    "id": "article_mngvzvbv_48qxxb",
+    "id": "article_mngxvr0f_8h2dwb",
+    "title": "「Zoom」に非認証ユーザーによる権限昇格などの脆弱性 ...",
+    "summary": "「Zoom」に非認証ユーザーによる権限昇格などの脆弱性 ～最新版への更新を／最大深刻度は「High」、Windows/macOS版に影響...",
+    "category": "productivity",
+    "tips": [
+      "AI機能を活用して業務効率化"
+    ],
+    "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2070456.html",
+    "source": "rss",
+    "publishedAt": "2026-04-02T03:52:48.298Z",
+    "createdAt": "2026-04-02T03:52:51.327Z"
+  },
+  {
+    "id": "article_mngxvr38_07okyn",
+    "title": "「Cloudflare」に再び障害 ～「Zoom」「メル...",
+    "summary": "「Cloudflare」に再び障害 ～「Zoom」「メルカリ」「Square」「Canva」など影響多数【20:20追記】／20時15分現在、障害は解消している模様。すべてのステータスが『Operational』に...",
+    "category": "other",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2069133.html",
+    "source": "rss",
+    "publishedAt": "2026-04-02T03:52:48.298Z",
+    "createdAt": "2026-04-02T03:52:51.428Z"
+  },
+  {
+    "id": "article_mngxvr62_xhqa7r",
+    "title": "「Zoom」に複数の脆弱性 ～非認証ユーザーによる権限昇...",
+    "summary": "「Zoom」に複数の脆弱性 ～非認証ユーザーによる権限昇格など／最大深刻度は「High」、Windows/macOS/Linux/iOS/Android版に影響...",
+    "category": "productivity",
+    "tips": [
+      "AI機能を活用して業務効率化"
+    ],
+    "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2062979.html",
+    "source": "rss",
+    "publishedAt": "2026-04-02T03:52:48.298Z",
+    "createdAt": "2026-04-02T03:52:51.530Z"
+  },
+  {
+    "id": "article_mngxvr8v_4alck7",
+    "title": "AWSで障害　米国東部リージョンで20サービスが停止・遅...",
+    "summary": "AWSで障害 米国東部リージョンで20サービスが停止・遅延 Zoomや任天堂のサービスなどに影響かクラウドサービス「Amazon Web Services」の米国東部リージョン（US-EAST-1）で、10月20日午後4時ごろ（日本時間）から障害が発生している。データベースサービス「Amazon D...",
+    "category": "other",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://www.itmedia.co.jp/news/articles/2510/20/news092.html",
+    "source": "rss",
+    "publishedAt": "2026-04-02T03:52:48.298Z",
+    "createdAt": "2026-04-02T03:52:51.631Z"
+  },
+  {
+    "id": "article_mngxvrbo_5zr6qu",
+    "title": "「Zoom」にサービス拒否や権限昇格など全7件の脆弱性 ...",
+    "summary": "「Zoom」にサービス拒否や権限昇格など全7件の脆弱性 ～最新版へのアップデートを／最大深刻度は「High」、Windows/macOS/Linux/iOS/Android版に影響...",
+    "category": "productivity",
+    "tips": [
+      "AI機能を活用して業務効率化"
+    ],
+    "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2046387.html",
+    "source": "rss",
+    "publishedAt": "2026-04-02T03:52:48.298Z",
+    "createdAt": "2026-04-02T03:52:51.732Z"
+  },
+  {
+    "id": "article_mngxvrei_shl9qf",
+    "title": "「Microsoft Teams」にSQLっぽい検索コマ...",
+    "summary": "「Microsoft Teams」にSQLっぽい検索コマンド、「Slack」「Zoom」っぽいショートカットも／「イマーシブ イベント」「Microsoft Places」にも注目したい2025年8月アップデート...",
+    "category": "integration",
+    "tips": [
+      "Slack連携で効率化"
+    ],
+    "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2045346.html",
+    "source": "rss",
+    "publishedAt": "2026-04-02T03:52:48.298Z",
+    "createdAt": "2026-04-02T03:52:51.834Z"
+  },
+  {
+    "id": "article_mngxvrhb_ummgn2",
+    "title": "オンラインビデオ会議サービス「Zoom」に致命的な脆弱性...",
+    "summary": "オンラインビデオ会議サービス「Zoom」に致命的な脆弱性／最大深刻度は「Critical」、最新版への更新を...",
+    "category": "meeting",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2039094.html",
+    "source": "rss",
+    "publishedAt": "2026-04-02T03:52:48.298Z",
+    "createdAt": "2026-04-02T03:52:51.935Z"
+  },
+  {
+    "id": "article_mngxvrk4_m8jsut",
+    "title": "Salesforce announces an AI-h...",
+    "summary": "Slack just got a whole lot more useful....",
+    "category": "integration",
+    "tips": [
+      "AI機能を活用して業務効率化",
+      "Slack連携で効率化"
+    ],
+    "originalUrl": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "source": "rss",
+    "publishedAt": "2026-03-31T22:46:25.000Z",
+    "createdAt": "2026-04-02T03:52:52.036Z"
+  },
+  {
+    "id": "article_mngxvrmy_5cqlep",
+    "title": "How I Get Free Traffic from ...",
+    "summary": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's t...",
+    "category": "chat",
+    "tips": [
+      "AI機能を活用して業務効率化",
+      "ミーティングの生産性を向上"
+    ],
+    "originalUrl": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
+    "source": "rss",
+    "publishedAt": "2025-12-04T05:37:00.000Z",
+    "createdAt": "2026-04-02T03:52:52.138Z"
+  },
+  {
+    "id": "article_mngxvrps_as3w3l",
+    "title": "Top 10 AI Tools That Will Tr...",
+    "summary": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have b...",
+    "category": "chat",
+    "tips": [
+      "AI機能を活用して業務効率化",
+      "ミーティングの生産性を向上",
+      "AIアバターで会議参加の負担軽減"
+    ],
+    "originalUrl": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
+    "source": "rss",
+    "publishedAt": "2025-01-02T09:26:00.000Z",
+    "createdAt": "2026-04-02T03:52:52.240Z"
+  },
+  {
+    "id": "article_mngxvrsl_p2fsou",
+    "title": "Ahrefs vs SEMrush: Which SEO...",
+    "summary": "SEMrush and Ahrefs are among the most popular tools in the SEO industry. Both companies have been in business for years and have thousands of customer...",
+    "category": "integration",
+    "tips": [
+      "AI機能を活用して業務効率化",
+      "ミーティングの生産性を向上"
+    ],
+    "originalUrl": "https://techncruncher.blogspot.com/2022/03/ahrefs-vs-semrush-which-seo-tool-should.html",
+    "source": "rss",
+    "publishedAt": "2022-03-01T12:16:00.000Z",
+    "createdAt": "2026-04-02T03:52:52.341Z"
+  },
+  {
+    "id": "article_mngxvrvf_m1qfat",
+    "title": "Top 10 Best PLR(Private Labe...",
+    "summary": "Content creation is one of the biggest struggles for many marketers and business owners. It often requires both time and financial resources, especial...",
+    "category": "security",
+    "tips": [
+      "AI機能を活用して業務効率化",
+      "セキュリティ設定を確認・強化"
+    ],
+    "originalUrl": "https://techncruncher.blogspot.com/2022/02/top-10-best-plrprivate-label-rights.html",
+    "source": "rss",
+    "publishedAt": "2022-02-26T13:36:00.000Z",
+    "createdAt": "2026-04-02T03:52:52.443Z"
+  },
+  {
+    "id": "article_mngxvry9_mnpqgr",
     "title": "Canva Review 2022: Details, ...",
     "summary": "Are you looking for a new graphic design tool? Would you like to read a detailed review of Canva? As it's one of the tools I love using. I am also wri...",
     "category": "integration",
@@ -86,10 +239,10 @@
     "originalUrl": "https://techncruncher.blogspot.com/2022/02/canva-review-2022-details-pricing.html",
     "source": "rss",
     "publishedAt": "2022-02-20T12:02:00.000Z",
-    "createdAt": "2026-04-02T03:00:04.315Z"
+    "createdAt": "2026-04-02T03:52:52.545Z"
   },
   {
-    "id": "article_mngvzvep_x004r0",
+    "id": "article_mngxvs12_zaqr8i",
     "title": "10 Best Chrome Extensions Th...",
     "summary": "Are you a great Chrome user? That’s nice to hear. But first, consider whether or not there are any essential Chrome extensions you are currently missi...",
     "category": "security",
@@ -101,10 +254,10 @@
     "originalUrl": "https://techncruncher.blogspot.com/2022/01/10-best-chrome-extensions-that-are.html",
     "source": "rss",
     "publishedAt": "2022-01-31T10:56:00.000Z",
-    "createdAt": "2026-04-02T03:00:04.417Z"
+    "createdAt": "2026-04-02T03:52:52.646Z"
   },
   {
-    "id": "article_mngvzvhi_y364lf",
+    "id": "article_mngxvs3v_yin9jq",
     "title": "Zoomで知らなかった便利機能！ミーティング中に「Alt...",
     "summary": "Zoomで知らなかった便利機能！ミーティング中に「Alt+Y」で手を挙げられるって知ってました？大人数の会議で発言したい時に便利です。#ZoomTips #リモートワーク...",
     "category": "meeting",
@@ -114,10 +267,10 @@
     "originalUrl": "https://twitter.com/tech_tips_jp/status/1234567890",
     "source": "twitter",
     "publishedAt": "2024-03-17T10:30:00.000Z",
-    "createdAt": "2026-04-02T03:00:04.518Z"
+    "createdAt": "2026-04-02T03:52:52.747Z"
   },
   {
-    "id": "article_mngvzvkb_mk8xfh",
+    "id": "article_mngxvs6p_f8d4mx",
     "title": "今日発見したZoomの新機能。ミーティング後に自動で要約...",
     "summary": "今日発見したZoomの新機能。ミーティング後に自動で要約が生成されるようになってた！これでメモ取りながら会議に集中しなくても良くなった。AI時代すごい。 #Zoom #AI #生産性向上...",
     "category": "productivity",
@@ -127,10 +280,10 @@
     "originalUrl": "https://twitter.com/remote_worker_123/status/1234567891",
     "source": "twitter",
     "publishedAt": "2024-03-16T14:20:00.000Z",
-    "createdAt": "2026-04-02T03:00:04.619Z"
+    "createdAt": "2026-04-02T03:52:52.849Z"
   },
   {
-    "id": "article_mngvzvn5_s0o8bm",
+    "id": "article_mngxvs9i_rtkfai",
     "title": "Zoomのバーチャル背景、最近は動画も設定できるようにな...",
     "summary": "Zoomのバーチャル背景、最近は動画も設定できるようになってるんですね。自分の部屋が散らかってても安心w #Zoom #在宅勤務 #バーチャル背景...",
     "category": "other",
@@ -140,10 +293,10 @@
     "originalUrl": "https://twitter.com/wfh_life/status/1234567892",
     "source": "twitter",
     "publishedAt": "2024-03-15T09:45:00.000Z",
-    "createdAt": "2026-04-02T03:00:04.721Z"
+    "createdAt": "2026-04-02T03:52:52.950Z"
   },
   {
-    "id": "article_mngvzvpz_pom5p8",
+    "id": "article_mngxvscb_t0dww2",
     "title": "Zoom×Slack連携を設定してみた。Slackから直...",
     "summary": "Zoom×Slack連携を設定してみた。Slackから直接ミーティング開始できるの便利すぎる。/zoomコマンドだけでOK。もっと早く知りたかった... #Zoom #Slack #業務効率化...",
     "category": "integration",
@@ -153,10 +306,10 @@
     "originalUrl": "https://twitter.com/productivity_hack/status/1234567893",
     "source": "twitter",
     "publishedAt": "2024-03-14T16:10:00.000Z",
-    "createdAt": "2026-04-02T03:00:04.823Z"
+    "createdAt": "2026-04-02T03:52:53.051Z"
   },
   {
-    "id": "article_mngvzvss_b238qy",
+    "id": "article_mngxvsf5_v9vh38",
     "title": "Zoomのブレイクアウトルーム、事前に参加者を割り当てて...",
     "summary": "Zoomのブレイクアウトルーム、事前に参加者を割り当てておけるの知ってました？ワークショップ運営がめっちゃ楽になる。CSVでインポートもできます。 #Zoom #オンラインセミナー #Tips...",
     "category": "other",
@@ -166,10 +319,10 @@
     "originalUrl": "https://twitter.com/online_event_pro/status/1234567894",
     "source": "twitter",
     "publishedAt": "2024-03-13T11:25:00.000Z",
-    "createdAt": "2026-04-02T03:00:04.924Z"
+    "createdAt": "2026-04-02T03:52:53.153Z"
   },
   {
-    "id": "article_mngvzvvl_pqkb1o",
+    "id": "article_mngxvshx_xwjfo9",
     "title": "Zoomの録画、クラウドに保存すると自動で文字起こしされ...",
     "summary": "Zoomの録画、クラウドに保存すると自動で文字起こしされるの神機能。議事録作成の時間が半分になった。有料プランだけど元は取れてる。 #Zoom #議事録 #時短...",
     "category": "other",
@@ -179,6 +332,6 @@
     "originalUrl": "https://twitter.com/meeting_master/status/1234567895",
     "source": "twitter",
     "publishedAt": "2024-03-12T13:50:00.000Z",
-    "createdAt": "2026-04-02T03:00:05.025Z"
+    "createdAt": "2026-04-02T03:52:53.253Z"
   }
 ]
