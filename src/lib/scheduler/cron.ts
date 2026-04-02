@@ -30,9 +30,11 @@ export async function collectAllSources(useMock: boolean = true): Promise<RawCon
     allContents.push(...rssContents);
   }
 
-  // Webスクレイピング
-  console.log('  - Webページをスクレイピング中...');
-  allContents.push(...getMockScrapedData());
+  // Webスクレイピング（モックデータを使用）
+  console.log('  - Webページ情報を追加中...');
+  if (useMock) {
+    allContents.push(...getMockScrapedData());
+  }
 
   // Twitter検索
   console.log('  - X (Twitter) を検索中...');

@@ -7,7 +7,7 @@ export async function POST() {
     console.log('📡 手動収集開始...');
 
     const articles = await manualCollect({
-      useMock: true, // デモ用にモックデータを使用
+      useMock: false, // 実際のRSSフィードから取得
     });
 
     console.log(`✅ ${articles.length}件の記事を収集しました`);
