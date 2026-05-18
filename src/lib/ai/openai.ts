@@ -79,7 +79,7 @@ ${stripHtml(content.content).substring(0, 2000)}
 {
   "title": "日本語のわかりやすいタイトル（30文字以内）",
   "summary": "記事の要約（日本語で100-150文字程度）",
-  "category": "以下から1つ選択: meeting, chat, security, integration, productivity, other",
+  "category": "以下から1つ選択: meeting, phone, chat, security, integration, productivity, other",
   "tips": ["実践的なTips1（日本語）", "実践的なTips2（日本語）", "実践的なTips3（日本語）"]
 }
 
@@ -125,7 +125,9 @@ function generateMockSummary(content: RawContent): ArticleSummary {
   let category: Category = 'other';
 
   // カテゴリを推測
-  if (text.includes('security') || text.includes('セキュリティ') || text.includes('encryption')) {
+  if (text.includes('phone') || text.includes('電話') || text.includes('pbx') || text.includes('通話') || text.includes('内線') || text.includes('外線') || text.includes('ボイスメール') || text.includes('voicemail') || text.includes('ivr') || text.includes('ソフトフォン')) {
+    category = 'phone';
+  } else if (text.includes('security') || text.includes('セキュリティ') || text.includes('encryption')) {
     category = 'security';
   } else if (text.includes('chat') || text.includes('チャット') || text.includes('message')) {
     category = 'chat';

@@ -158,6 +158,7 @@ export function generateSlackDigestSummary(
   // カテゴリ別に分類
   const categoryGroups: Record<Category, Article[]> = {
     meeting: [],
+    phone: [],
     chat: [],
     security: [],
     integration: [],

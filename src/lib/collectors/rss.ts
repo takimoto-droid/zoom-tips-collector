@@ -26,6 +26,11 @@ const RSS_FEEDS = [
   { url: 'https://note.com/hashtag/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF/rss', name: 'note (リモートワーク)' },
   { url: 'https://qiita.com/tags/zoom/feed', name: 'Qiita (Zoom)' },
   { url: 'https://qiita.com/tags/slack/feed', name: 'Qiita (Slack)' },
+  // Zoom Phone / クラウドPBX関連
+  { url: 'https://news.google.com/rss/search?q=Zoom+Phone&hl=ja&gl=JP&ceid=JP:ja', name: 'Google News JP (Zoom Phone)' },
+  { url: 'https://news.google.com/rss/search?q=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89PBX&hl=ja&gl=JP&ceid=JP:ja', name: 'Google News JP (クラウドPBX)' },
+  { url: 'https://b.hatena.ne.jp/search/tag?q=Zoom+Phone&mode=rss', name: 'はてなブックマーク (Zoom Phone)' },
+  { url: 'https://note.com/hashtag/ZoomPhone/rss', name: 'note (Zoom Phone)' },
   // 英語ソース
   { url: 'https://techcrunch.com/feed/', name: 'TechCrunch' },
   { url: 'https://feeds.feedburner.com/Techcrunch', name: 'TechCrunch FB' },
@@ -39,6 +44,10 @@ const KEYWORDS = [
   '在宅勤務', 'ハイブリッドワーク', 'hybrid work', 'video call', 'remote work',
   'ai会議', 'ai議事録', '会議効率化', 'オンラインミーティング', 'webinar',
   'ウェビナー', 'バーチャル背景', 'virtual background',
+  'zoom phone', 'クラウドPBX', 'クラウドpbx', 'cloud pbx', 'ip電話', 'ip phone',
+  'ソフトフォン', 'softphone', '内線', '外線', 'ivr', '自動応答',
+  'コールルーティング', 'call routing', 'ボイスメール', 'voicemail',
+  '通話録音', 'call recording', '電話システム', 'pbx',
 ];
 
 /**

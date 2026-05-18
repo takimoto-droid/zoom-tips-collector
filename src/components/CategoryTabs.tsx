@@ -11,6 +11,7 @@ interface CategoryTabsProps {
 const categories: { key: Category | 'all'; label: string; icon: string }[] = [
   { key: 'all', label: 'All', icon: '📋' },
   { key: 'meeting', label: 'Meeting', icon: '📹' },
+  { key: 'phone', label: 'Phone', icon: '📞' },
   { key: 'chat', label: 'Chat', icon: '💬' },
   { key: 'security', label: 'Security', icon: '🔒' },
   { key: 'integration', label: 'Integration', icon: '🔗' },

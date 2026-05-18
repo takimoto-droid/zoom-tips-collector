@@ -4,6 +4,7 @@ export type SourceType = 'rss' | 'web' | 'twitter' | 'api';
 // カテゴリ
 export type Category =
   | 'meeting'      // ミーティング機能
+  | 'phone'        // Zoom Phone / 電話機能
   | 'chat'         // チャット機能
   | 'security'     // セキュリティ
   | 'integration'  // 連携機能
@@ -178,6 +179,7 @@ export const DEFAULT_CONFIG: CollectorConfig = {
 // カテゴリ表示名
 export const CATEGORY_LABELS: Record<Category, string> = {
   meeting: '📹 ミーティング',
+  phone: '📞 Zoom Phone',
   chat: '💬 チャット',
   security: '🔒 セキュリティ',
   integration: '🔗 連携',
@@ -188,6 +190,7 @@ export const CATEGORY_LABELS: Record<Category, string> = {
 // カテゴリの色（Tailwind CSS用）
 export const CATEGORY_COLORS: Record<Category, string> = {
   meeting: 'bg-blue-100 text-blue-800',
+  phone: 'bg-teal-100 text-teal-800',
   chat: 'bg-green-100 text-green-800',
   security: 'bg-red-100 text-red-800',
   integration: 'bg-purple-100 text-purple-800',
