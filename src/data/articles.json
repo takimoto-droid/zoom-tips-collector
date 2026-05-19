@@ -1,6 +1,6 @@
 [
   {
-    "id": "article_mpc163cz_7xavbd",
+    "id": "article_mpc254fv_6s5dli",
     "title": "Zoom AI Companion 2.0で会議の生産性...",
     "summary": "Zoomの最新AIアップデートでは、会議終了後に自動で要約を生成し、 次のアクションアイテムを抽出する機能が追加されました。 主な機能: - ミーティング要約の自動生成 - アクションアイテムの自動抽出 - 参加者への...",
     "category": "productivity",
@@ -11,11 +11,11 @@
     "articleType": "new_feature",
     "originalUrl": "https://blog.zoom.us/ai-companion-2-0/",
     "source": "rss",
-    "publishedAt": "2026-05-18T02:45:26.530Z",
-    "createdAt": "2026-05-19T02:45:26.531Z"
+    "publishedAt": "2026-05-18T03:12:40.889Z",
+    "createdAt": "2026-05-19T03:12:40.892Z"
   },
   {
-    "id": "article_mpc163fs_yokaxs",
+    "id": "article_mpc254ip_m8lqdk",
     "title": "テレワーク時代のZoom活用術：効率的な会議運営のコツ",
     "summary": "テレワークが定着する中、Zoomを使った効率的な会議運営が求められています。 ポイント: - アジェンダを事前共有 - ブレイクアウトルームの活用 - 録画機能で議事録作成を効率化 - バーチャル背景で環境を整える...",
     "category": "meeting",
@@ -26,11 +26,11 @@
     "articleType": "hack",
     "originalUrl": "https://www.itmedia.co.jp/zoom-tips/",
     "source": "rss",
-    "publishedAt": "2026-05-17T02:45:26.530Z",
-    "createdAt": "2026-05-19T02:45:26.632Z"
+    "publishedAt": "2026-05-17T03:12:40.889Z",
+    "createdAt": "2026-05-19T03:12:40.993Z"
   },
   {
-    "id": "article_mpc163il_p79u32",
+    "id": "article_mpc254lj_hn197o",
     "title": "Slack×Zoom連携の新機能でワークフロー自動化",
     "summary": "ZoomとSlackの連携がさらに強化され、ワークフローの自動化が可能になりました。 新機能: - Slackからのワンクリックミーティング開始 - 会議終了後の自動サマリー投稿 - スケジュール連携の強化...",
     "category": "integration",
@@ -41,11 +41,11 @@
     "articleType": "new_feature",
     "originalUrl": "https://japan.cnet.com/zoom-slack/",
     "source": "rss",
-    "publishedAt": "2026-05-16T02:45:26.530Z",
-    "createdAt": "2026-05-19T02:45:26.733Z"
+    "publishedAt": "2026-05-16T03:12:40.889Z",
+    "createdAt": "2026-05-19T03:12:41.095Z"
   },
   {
-    "id": "article_mpc163lf_kb9223",
+    "id": "article_mpc254oc_owdwjc",
     "title": "ハイブリッドワーク時代のオンライン会議ベストプラクティス",
     "summary": "オフィスとリモートの両方で働くハイブリッドワーク環境では、 オンライン会議の質が業務効率を左右します。 ベストプラクティス: - 全員がオンラインで参加する形式を基本に - 会議室のカメラ・マイク設定を最適化 - チャ...",
     "category": "chat",
@@ -56,11 +56,11 @@
     "articleType": "hack",
     "originalUrl": "https://www.watch.impress.co.jp/hybrid-work/",
     "source": "rss",
-    "publishedAt": "2026-05-15T02:45:26.530Z",
-    "createdAt": "2026-05-19T02:45:26.835Z"
+    "publishedAt": "2026-05-15T03:12:40.889Z",
+    "createdAt": "2026-05-19T03:12:41.196Z"
   },
   {
-    "id": "article_mpc163o9_afz2vn",
+    "id": "article_mpc254r6_w6pocs",
     "title": "2024年版 Zoomセキュリティ設定ガイド",
     "summary": "Zoomのセキュリティ機能が強化され、より安全な会議運営が可能になりました。 推奨設定: - 待機室の有効化 - パスコードの必須化 - E2E暗号化の有効化 - 参加者の認証設定...",
     "category": "security",
@@ -71,11 +71,11 @@
     "articleType": "hack",
     "originalUrl": "https://www.itmedia.co.jp/zoom-security/",
     "source": "rss",
-    "publishedAt": "2026-05-14T02:45:26.530Z",
-    "createdAt": "2026-05-19T02:45:26.937Z"
+    "publishedAt": "2026-05-14T03:12:40.889Z",
+    "createdAt": "2026-05-19T03:12:41.298Z"
   },
   {
-    "id": "article_mpc163r4_awibav",
+    "id": "article_mpc254tz_kshf19",
     "title": "Zoom Desktop Client リリースノート ...",
     "summary": "【新機能】 ・ AIコンパニオン機能の強化 - ミーティング中のリアルタイム要約 - アクションアイテムの自動抽出 - スマートレコーディングチャプター ・ ミーティング機能の改善 -...",
     "category": "chat",
@@ -88,10 +88,10 @@
     "originalUrl": "https://support.zoom.us/hc/en-us/articles/desktop-client-release-notes",
     "source": "web",
     "publishedAt": "2024-03-18T00:00:00.000Z",
-    "createdAt": "2026-05-19T02:45:27.040Z"
+    "createdAt": "2026-05-19T03:12:41.399Z"
   },
   {
-    "id": "article_mpc163ty_vl8ci6",
+    "id": "article_mpc254wt_mattar",
     "title": "Zoom Rooms アップデート - ハイブリッドワー...",
     "summary": "Zoom Roomsの最新アップデートでは、ハイブリッドワーク環境を サポートする機能が大幅に強化されました。 主なアップデート: - スマートギャラリー機能の改善（AIによる参加者の自動フレーミング） - 会議室予約システムとの連携...",
     "category": "integration",
@@ -103,10 +103,10 @@
     "originalUrl": "https://support.zoom.us/hc/en-us/articles/zoom-rooms-updates",
     "source": "web",
     "publishedAt": "2024-03-12T00:00:00.000Z",
-    "createdAt": "2026-05-19T02:45:27.142Z"
+    "createdAt": "2026-05-19T03:12:41.501Z"
   },
   {
-    "id": "article_mpc163ws_smax3q",
+    "id": "article_mpc254zn_xa1rsr",
     "title": "Zoom Phone 新機能: AI音声文字起こし",
     "summary": "Zoom Phoneに待望のAI音声文字起こし機能が追加されました。 通話内容をリアルタイムでテキスト化し、後から検索可能になります。 利用可能な機能: - リアルタイム文字起こし - 通話後の自動要約生成 - キーワ...",
     "category": "phone",
@@ -119,10 +119,10 @@
     "originalUrl": "https://support.zoom.us/hc/en-us/articles/zoom-phone-transcription",
     "source": "web",
     "publishedAt": "2024-03-08T00:00:00.000Z",
-    "createdAt": "2026-05-19T02:45:27.244Z"
+    "createdAt": "2026-05-19T03:12:41.603Z"
   },
   {
-    "id": "article_mpc163zm_1lwz2z",
+    "id": "article_mpc2552h_ofdjl0",
     "title": "Zoomで知らなかった便利機能！ミーティング中に「Alt...",
     "summary": "Zoomで知らなかった便利機能！ミーティング中に「Alt+Y」で手を挙げられるって知ってました？大人数の会議で発言したい時に便利です。#ZoomTips #リモートワーク...",
     "category": "meeting",
@@ -134,10 +134,10 @@
     "originalUrl": "https://twitter.com/tech_tips_jp/status/1234567890",
     "source": "twitter",
     "publishedAt": "2024-03-17T10:30:00.000Z",
-    "createdAt": "2026-05-19T02:45:27.346Z"
+    "createdAt": "2026-05-19T03:12:41.705Z"
   },
   {
-    "id": "article_mpc1642h_h8r1wy",
+    "id": "article_mpc2555c_ejr10e",
     "title": "今日発見したZoomの新機能。ミーティング後に自動で要約...",
     "summary": "今日発見したZoomの新機能。ミーティング後に自動で要約が生成されるようになってた！これでメモ取りながら会議に集中しなくても良くなった。AI時代すごい。 #Zoom #AI #生産性向上...",
     "category": "productivity",
@@ -149,10 +149,10 @@
     "originalUrl": "https://twitter.com/remote_worker_123/status/1234567891",
     "source": "twitter",
     "publishedAt": "2024-03-16T14:20:00.000Z",
-    "createdAt": "2026-05-19T02:45:27.449Z"
+    "createdAt": "2026-05-19T03:12:41.808Z"
   },
   {
-    "id": "article_mpc1645l_1kql15",
+    "id": "article_mpc25586_fgt3ms",
     "title": "Zoomのバーチャル背景、最近は動画も設定できるようにな...",
     "summary": "Zoomのバーチャル背景、最近は動画も設定できるようになってるんですね。自分の部屋が散らかってても安心w #Zoom #在宅勤務 #バーチャル背景...",
     "category": "other",
@@ -164,10 +164,10 @@
     "originalUrl": "https://twitter.com/wfh_life/status/1234567892",
     "source": "twitter",
     "publishedAt": "2024-03-15T09:45:00.000Z",
-    "createdAt": "2026-05-19T02:45:27.561Z"
+    "createdAt": "2026-05-19T03:12:41.910Z"
   },
   {
-    "id": "article_mpc1648e_0ncmto",
+    "id": "article_mpc255b0_5hjfl2",
     "title": "Zoom×Slack連携を設定してみた。Slackから直...",
     "summary": "Zoom×Slack連携を設定してみた。Slackから直接ミーティング開始できるの便利すぎる。/zoomコマンドだけでOK。もっと早く知りたかった... #Zoom #Slack #業務効率化...",
     "category": "integration",
@@ -179,10 +179,10 @@
     "originalUrl": "https://twitter.com/productivity_hack/status/1234567893",
     "source": "twitter",
     "publishedAt": "2024-03-14T16:10:00.000Z",
-    "createdAt": "2026-05-19T02:45:27.662Z"
+    "createdAt": "2026-05-19T03:12:42.012Z"
   },
   {
-    "id": "article_mpc164b9_24jsp1",
+    "id": "article_mpc255dv_bdiftd",
     "title": "Zoomのブレイクアウトルーム、事前に参加者を割り当てて...",
     "summary": "Zoomのブレイクアウトルーム、事前に参加者を割り当てておけるの知ってました？ワークショップ運営がめっちゃ楽になる。CSVでインポートもできます。 #Zoom #オンラインセミナー #Tips...",
     "category": "other",
@@ -194,10 +194,10 @@
     "originalUrl": "https://twitter.com/online_event_pro/status/1234567894",
     "source": "twitter",
     "publishedAt": "2024-03-13T11:25:00.000Z",
-    "createdAt": "2026-05-19T02:45:27.765Z"
+    "createdAt": "2026-05-19T03:12:42.115Z"
   },
   {
-    "id": "article_mpc164e3_4dhb0d",
+    "id": "article_mpc255gq_5pm2fa",
     "title": "Zoomの録画、クラウドに保存すると自動で文字起こしされ...",
     "summary": "Zoomの録画、クラウドに保存すると自動で文字起こしされるの神機能。議事録作成の時間が半分になった。有料プランだけど元は取れてる。 #Zoom #議事録 #時短...",
     "category": "other",
@@ -209,6 +209,873 @@
     "originalUrl": "https://twitter.com/meeting_master/status/1234567895",
     "source": "twitter",
     "publishedAt": "2024-03-12T13:50:00.000Z",
-    "createdAt": "2026-05-19T02:45:27.867Z"
+    "createdAt": "2026-05-19T03:12:42.218Z"
+  },
+  {
+    "id": "zp_001",
+    "title": "Zoom Phone IVR（自動応答）設定ガイド",
+    "summary": "Zoom Phoneの自動応答（IVR）を使えば、着信時に「1を押すと営業部、2を押すとサポート」のように振り分けが可能。営業時間外メッセージも設定でき、IS部門の電話対応負荷を大幅に軽減できる。",
+    "category": "phone",
+    "tips": [
+      "IVRは最大10階層までネスト可能。2階層以内がベスト",
+      "営業時間と休日カレンダーを設定すれば時間外は自動で留守電に切替",
+      "IVRの音声はテキスト読み上げ（TTS）も使える"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/setting-up-auto-receptionist",
+    "source": "web",
+    "publishedAt": "2026-05-19T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_002",
+    "title": "Zoom Phone コールキュー活用術",
+    "summary": "コールキューを使うと、複数メンバーで着信を均等に受けられる。ヘルプデスク対応で「特定の人だけ電話が鳴る」問題を解消。ラウンドロビン・同時呼出・最長待機時間順など分配方式も選べる。",
+    "category": "phone",
+    "tips": [
+      "ラウンドロビン方式で対応負荷を均等分散できる",
+      "オーバーフロー設定で全員不在時にボイスメールや別キューに転送",
+      "待ち時間アナウンスを有効にするとユーザー満足度が上がる"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/call-queue",
+    "source": "web",
+    "publishedAt": "2026-05-18T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_003",
+    "title": "Zoom Phone 通話録音のベストプラクティス",
+    "summary": "通話録音は自動録音とオンデマンド録音の2種類。IS管理者はポリシーで部署単位に一括設定可能。録音データはクラウドに保存され、後から検索・再生・ダウンロードできる。",
+    "category": "phone",
+    "tips": [
+      "自動録音はポリシーで部署ごとに有効/無効を切替可能",
+      "録音開始時に相手に通知するビープ音は法的要件に応じて設定",
+      "録音データはZoom管理ポータルから一括エクスポートできる"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/call-recording",
+    "source": "web",
+    "publishedAt": "2026-05-17T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_004",
+    "title": "Zoom Phone ボイスメールを使いこなす",
+    "summary": "ボイスメールは音声メッセージをテキストに自動変換（文字起こし）する機能付き。Slackやメールへの通知転送も可能で、外出中でも内容をすぐ確認できる。共有ボイスメールボックスでチーム対応も。",
+    "category": "phone",
+    "tips": [
+      "ボイスメールの文字起こし機能でメッセージを読むだけで内容把握",
+      "共有ボイスメールボックスを作ればチーム全員が確認・対応可能",
+      "メール通知をONにすれば音声ファイル付きでメールに転送される"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/voicemail",
+    "source": "web",
+    "publishedAt": "2026-05-16T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_005",
+    "title": "Zoom Phone デスクフォンとソフトフォンの使い分け",
+    "summary": "デスクフォン（Poly, Yealink等）とPCソフトフォン・モバイルアプリの併用が可能。オフィスではデスクフォン、外出先ではモバイルアプリとシームレスに切替できる。通話中の端末切替（コールフリップ）も対応。",
+    "category": "phone",
+    "tips": [
+      "コールフリップでデスクフォン↔スマホ間の通話を切替できる",
+      "ホットデスキング機能でフリーアドレスのデスクフォンに一時ログイン",
+      "モバイルアプリでWi-Fi通話を有効にすると電波の弱い場所でも安定"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/desk-phone-softphone",
+    "source": "web",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_006",
+    "title": "Zoom Phone SMS/MMS機能の活用法",
+    "summary": "Zoom Phoneの番号からSMS/MMSの送受信が可能。外部の顧客やベンダーへのテキスト連絡にも使える。グループSMSやファイル添付にも対応しており、電話に出られない場面で便利。",
+    "category": "phone",
+    "tips": [
+      "会社番号からSMS送信できるので個人番号を教えなくてよい",
+      "SMSの自動返信設定で不在時に定型メッセージを送れる",
+      "SMS履歴はZoomアプリ内で検索・管理できる"
+    ],
+    "priority": "medium",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/sms-mms",
+    "source": "web",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_007",
+    "title": "Zoom Phone 緊急通報(E911)の設定と注意点",
+    "summary": "緊急通報を利用するにはNomadic E911の設定が必要。リモートワーカーが自宅から発信する場合、正しい住所が通知されるよう各ユーザーに住所登録を促すことがIS管理者の重要な責務。",
+    "category": "phone",
+    "tips": [
+      "ユーザーが場所を変更したら緊急通報用住所の更新を必ず促す",
+      "管理ポータルでE911未設定ユーザーをレポートで確認できる",
+      "オフィス移転時はE911の住所情報を忘れずに更新する"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/e911-settings",
+    "source": "web",
+    "publishedAt": "2026-05-13T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_008",
+    "title": "Zoom Phone AI要約で通話後のフォローを効率化",
+    "summary": "Zoom PhoneにもAI Companion機能が対応し、通話終了後に自動で要約とアクションアイテムを生成。長い電話の内容を後から振り返る手間が省け、対応漏れも防げる。",
+    "category": "phone",
+    "tips": [
+      "通話後のAI要約は管理者がポリシーで有効化する必要がある",
+      "要約とアクションアイテムはZoomアプリの通話履歴から確認できる",
+      "重要な通話は録音+AI要約の併用で抜け漏れゼロに"
+    ],
+    "priority": "high",
+    "articleType": "ai",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/phone-ai-summary",
+    "source": "web",
+    "publishedAt": "2026-05-12T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_009",
+    "title": "Zoom Phone パワーパック：IS管理者向け分析ダッシュボード",
+    "summary": "Power Packを使うと、通話品質・応答率・待ち時間などをリアルタイムでダッシュボード表示できる。IS部門のKPI管理やボトルネック特定に役立つ。ウォールボードとしてモニター表示も可能。",
+    "category": "phone",
+    "tips": [
+      "リアルタイムウォールボードで現在の待ち呼数・応答率を可視化",
+      "ヒストリカルレポートで曜日・時間帯別の通話傾向を分析",
+      "SLA指標（応答率、放棄率）を設定してアラート通知を受け取れる"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/power-pack",
+    "source": "web",
+    "publishedAt": "2026-05-11T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_010",
+    "title": "Zoom Phone 内線番号の設計と命名規則のコツ",
+    "summary": "内線番号の設計はZoom Phone導入時の重要ポイント。部署コード+連番（例: 営業部=2xxx, IS部=3xxx）のように体系化すると管理しやすい。",
+    "category": "phone",
+    "tips": [
+      "内線番号は部署ごとにレンジを分けると増員・異動時に管理しやすい",
+      "共用エリア電話機（会議室等）は9xxxなど専用レンジを確保",
+      "表示名を「部署名-氏名」にすると着信時にどの部署か一目瞭然"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/extension-design",
+    "source": "web",
+    "publishedAt": "2026-05-10T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_011",
+    "title": "Zoom Phone 通話モニタリング機能で新人教育",
+    "summary": "管理者やスーパーバイザーは通話モニタリング（リッスン・ウィスパー・割り込み）が使える。新人のコール対応をリアルタイムで聞きながら、相手に聞こえない形でアドバイスできる。",
+    "category": "phone",
+    "tips": [
+      "リッスンモードで新人の通話を静かにモニタリングできる",
+      "ウィスパーモードなら新人にだけ聞こえるアドバイスが可能",
+      "バージインで緊急時に通話に割り込んで直接対応できる"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/call-monitoring",
+    "source": "web",
+    "publishedAt": "2026-05-09T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_012",
+    "title": "Zoom Phone 代理応答（コールデリゲーション）の設定",
+    "summary": "役員や管理職の電話をアシスタントが代理応答する機能。代理者は着信を受けたり、代理で発信したりできる。複数の代理者を設定可能で、役職者が会議中でも電話を逃さない。",
+    "category": "phone",
+    "tips": [
+      "コールデリゲーションで秘書が役員の電話を代理応答できる",
+      "代理者は最大10名まで設定可能",
+      "代理発信時は役員の番号が相手に表示される"
+    ],
+    "priority": "medium",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/call-delegation",
+    "source": "web",
+    "publishedAt": "2026-05-08T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_013",
+    "title": "Zoom Phone 共用エリア電話機の設定ガイド",
+    "summary": "会議室・受付・休憩室などに設置する共用エリア電話機の設定方法。個人アカウント不要でライセンスコストを抑えられる。自動プロビジョニングで大量展開も簡単。",
+    "category": "phone",
+    "tips": [
+      "共用エリア電話はCommon Areaライセンスで通常より安い",
+      "MACアドレスで自動プロビジョニングすれば設定不要で使える",
+      "会議室電話にはピックアップグループを設定して近くの人が取れるように"
+    ],
+    "priority": "medium",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/common-area-phone",
+    "source": "web",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_014",
+    "title": "Zoom Phone 番号ポーティング完全ガイド",
+    "summary": "既存の電話番号をZoom Phoneに移行（ポーティング）する手順。移行期間は2〜4週間。移行中も既存回線は使い続けられるため、ダウンタイムなしで切替可能。",
+    "category": "phone",
+    "tips": [
+      "ポーティング申請前にキャリアとの契約内容を確認する",
+      "移行完了まで既存回線は解約しないこと",
+      "テスト用に新規番号を1つ先に取得して動作確認するのがベスト"
+    ],
+    "priority": "medium",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/number-porting",
+    "source": "web",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zp_015",
+    "title": "Zoom Phone CRM連携でSalesforceから直接発信",
+    "summary": "Zoom PhoneとSalesforceを連携すると、Salesforceの連絡先画面からワンクリックで発信可能。通話履歴もSalesforceのアクティビティに自動記録される。",
+    "category": "phone",
+    "tips": [
+      "Salesforce AppExchangeからZoom Phoneアプリをインストール",
+      "通話履歴がSalesforceのタスクに自動記録され入力の手間ゼロ",
+      "着信時にSalesforce上の顧客情報がポップアップ表示される"
+    ],
+    "priority": "high",
+    "articleType": "integration",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/zoom-phone-salesforce",
+    "source": "web",
+    "publishedAt": "2026-05-05T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "mt_001",
+    "title": "ブレイクアウトルームの事前割り当てテクニック",
+    "summary": "ブレイクアウトルームは事前にCSVで参加者を割り当て可能。ワークショップやグループディスカッションで、会議開始前に全グループ分の割り当てを済ませておける。",
+    "category": "meeting",
+    "tips": [
+      "スケジュール時にブレイクアウトルーム > 事前割り当てでCSVインポート",
+      "ルームの自動移動タイマーを設定すれば時間管理も自動化",
+      "参加者がルーム間を自由に移動できる設定もあるので用途に応じて使い分け"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/breakout-rooms",
+    "source": "web",
+    "publishedAt": "2026-05-18T10:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "mt_002",
+    "title": "Zoomミーティングのキーボードショートカット一覧",
+    "summary": "ミュート切替、画面共有、チャット表示などの操作をキーボードだけで実行。マウス操作が減り会議中の操作がスムーズになる。Mac/Windows両対応。",
+    "category": "meeting",
+    "tips": [
+      "Alt+A（Win）/Cmd+Shift+A（Mac）でミュート即切替。発言時に便利",
+      "Alt+S で画面共有メニューを即表示。プレゼン切替がスムーズに",
+      "スペースキー長押しで一時的にミュート解除（Push to Talk）"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/keyboard-shortcuts",
+    "source": "web",
+    "publishedAt": "2026-05-17T10:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "mt_003",
+    "title": "Zoomの投票・クイズ機能で会議をインタラクティブに",
+    "summary": "会議中に投票やクイズを実施して参加者の意見を即座に収集。事前に質問を作成しておけば、ワンクリックで投票を開始できる。結果はCSVでダウンロード可能。",
+    "category": "meeting",
+    "tips": [
+      "ミーティングスケジュール時に「投票」から事前に質問を作成しておく",
+      "匿名投票にすれば率直な意見が集まりやすい",
+      "投票結果はCSVでエクスポートして後から集計・分析できる"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/polls",
+    "source": "web",
+    "publishedAt": "2026-05-16T10:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "mt_004",
+    "title": "Zoom Clips：非同期ビデオメッセージの使い方",
+    "summary": "Zoom Clipsを使えば短い動画メッセージを録画して共有できる。定例ミーティングをClipsに置き換えれば、各自の都合のいい時間に視聴。会議時間の削減に直結する。",
+    "category": "meeting",
+    "tips": [
+      "Zoomアプリ > Clips > 新規録画でカメラ+画面共有の動画を即作成",
+      "再生速度1.5x/2x対応なので視聴者は倍速で効率的に確認",
+      "Clipsにはコメント・リアクション機能がありフィードバックも簡単"
+    ],
+    "priority": "high",
+    "articleType": "new_feature",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/zoom-clips",
+    "source": "web",
+    "publishedAt": "2026-05-15T10:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "mt_005",
+    "title": "会議の自動録画＋クラウド保存で議事録を半自動化",
+    "summary": "クラウド録画を有効にすると会議開始時に自動で録画開始。録画完了後はAIが自動で文字起こしとチャプター分割を行い、後から必要な箇所だけ再生できる。",
+    "category": "meeting",
+    "tips": [
+      "設定 > 録画 > 自動録画をON、保存先をクラウドに設定",
+      "文字起こしはキーワード検索できるので「予算」等で該当箇所に即ジャンプ",
+      "スマートチャプターで議題ごとに自動分割されるので全部見直す必要なし"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/cloud-recording",
+    "source": "web",
+    "publishedAt": "2026-05-14T10:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "mt_006",
+    "title": "Zoom Rooms スマートギャラリーで会議室参加者を個別表示",
+    "summary": "Zoom Roomsのスマートギャラリーは、会議室にいる複数人をAIが検出し、個別のビデオタイルとして表示。リモート参加者と対等な見え方になり、ハイブリッド会議の公平感が向上。",
+    "category": "meeting",
+    "tips": [
+      "スマートギャラリーは管理ポータル > Zoom Rooms > デバイス設定でON",
+      "対応カメラ（Poly, Neat等）が必要。既存カメラの対応状況を確認",
+      "座席配置はカメラから2m以上離すと個別検出精度が上がる"
+    ],
+    "priority": "high",
+    "articleType": "new_feature",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/smart-gallery",
+    "source": "web",
+    "publishedAt": "2026-05-13T10:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "mt_007",
+    "title": "スケジュール特権で他人の会議を代理予約する方法",
+    "summary": "秘書やアシスタントが役員のZoomミーティングを代理で予約できるスケジュール特権機能。Outlook/Googleカレンダー連携と組み合わせると二重管理が不要に。",
+    "category": "meeting",
+    "tips": [
+      "設定 > ミーティング > スケジュール特権で代理者のメールアドレスを追加",
+      "代理者はZoomアプリで「スケジュール元」を切替えるだけで代理予約できる",
+      "Outlookアドインからも代理予約が可能。カレンダー連携すればさらに便利"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/schedule-privilege",
+    "source": "web",
+    "publishedAt": "2026-05-12T10:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "mt_008",
+    "title": "Zoom ホワイトボードでオンラインブレスト",
+    "summary": "Zoom内蔵のホワイトボード機能で付箋・図形・テキストを使ったブレインストーミングが可能。会議後もホワイトボードは保存され、いつでもアクセスできる。テンプレートも豊富。",
+    "category": "meeting",
+    "tips": [
+      "ミーティング中のツールバー > ホワイトボードで即起動",
+      "テンプレートからKJ法・SWOT分析・カンバンボードなどを選べる",
+      "ホワイトボードはPNG/PDFでエクスポートして共有可能"
+    ],
+    "priority": "medium",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/whiteboard",
+    "source": "web",
+    "publishedAt": "2026-05-11T10:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "mt_009",
+    "title": "フォーカスモードで参加者同士の顔を非表示に",
+    "summary": "フォーカスモードを使うと、参加者同士のビデオが見えなくなり、ホストと自分だけが表示される。試験監督やセミナーで集中を促したい場面に最適。",
+    "category": "meeting",
+    "tips": [
+      "ミーティング中 > もっと > フォーカスモードで即切替",
+      "参加者はホストと自分の映像だけ見える状態になる",
+      "画面共有は全員に表示されるのでプレゼンには影響なし"
+    ],
+    "priority": "medium",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/focus-mode",
+    "source": "web",
+    "publishedAt": "2026-05-10T10:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "mt_010",
+    "title": "Zoom ウェビナーと大規模ミーティングの使い分け",
+    "summary": "ウェビナーは視聴者が発言できない一方向型。大規模ミーティングは全員が発言可能。用途に応じた使い分けで、イベント運営をスムーズに。",
+    "category": "meeting",
+    "tips": [
+      "100名以上の説明会・セミナーはウェビナーが運営しやすい",
+      "ウェビナーのQ&A機能で質問を事前承認してから表示できる",
+      "大規模ミーティングは最大1000名まで。双方向の研修ならこちら"
+    ],
+    "priority": "medium",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/webinar-vs-meeting",
+    "source": "web",
+    "publishedAt": "2026-05-09T10:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "sc_001",
+    "title": "待機室カスタマイズで不正入室を完全ブロック",
+    "summary": "待機室を有効にすると、ホストが許可するまで参加者は会議に入れない。待機室の画面にロゴやメッセージを表示してブランディングも可能。",
+    "category": "security",
+    "tips": [
+      "設定 > セキュリティ > 待機室を有効にし、パスコードと併用で二重ガード",
+      "待機室カスタマイズでロゴ・タイトル・説明文を設定して公式感を演出",
+      "特定ドメインのユーザーは待機室をスキップする設定も可能"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/waiting-room",
+    "source": "web",
+    "publishedAt": "2026-05-18T08:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "sc_002",
+    "title": "Zoom E2E暗号化（エンドツーエンド暗号化）の有効化",
+    "summary": "E2E暗号化を有効にすると、Zoom側でも通信内容を復号できなくなる。機密性の高い会議に最適。ただし一部機能（クラウド録画等）が使えなくなるので注意。",
+    "category": "security",
+    "tips": [
+      "設定 > セキュリティ > エンドツーエンド暗号化をON",
+      "E2E有効時はクラウド録画・AI要約・ブレイクアウトルームが使えない",
+      "参加者全員がZoomアプリ5.4.0以上でないとE2Eミーティングに参加不可"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/e2e-encryption",
+    "source": "web",
+    "publishedAt": "2026-05-17T08:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "sc_003",
+    "title": "認証プロファイルで社外参加者の会議参加を制限",
+    "summary": "認証プロファイルを使うと、特定ドメインのZoomアカウントでログインしたユーザーのみ会議に参加可能に。社内ミーティングへの外部者混入を防げる。",
+    "category": "security",
+    "tips": [
+      "管理者 > セキュリティ > 認証プロファイルで自社ドメインを設定",
+      "ミーティングスケジュール時に「認証されたユーザーのみ」をON",
+      "外部ゲストを招く場合は認証なしの別ミーティングを用意する"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/authentication-profiles",
+    "source": "web",
+    "publishedAt": "2026-05-16T08:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "sc_004",
+    "title": "Zoomの「不審なアクティビティ」通知の設定方法",
+    "summary": "Zoom管理ポータルで異常ログイン検出やアカウント侵害の通知を設定可能。海外からの不審なログインや短時間での大量ミーティング作成などを検知してIS管理者にアラート。",
+    "category": "security",
+    "tips": [
+      "管理者 > 詳細 > セキュリティ > 異常検出通知をONにする",
+      "ログイン通知はメールとSlack Webhook両方に送信可能",
+      "2FA（二要素認証）を全ユーザーに強制すると不正ログインリスクが激減"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/suspicious-activity",
+    "source": "web",
+    "publishedAt": "2026-05-15T08:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "sc_005",
+    "title": "情報バリアでグループ間のコミュニケーションを制御",
+    "summary": "情報バリアポリシーを使うと、特定のグループ間でのチャットやミーティング参加を制限できる。インサイダー情報管理やコンプライアンス要件に対応。",
+    "category": "security",
+    "tips": [
+      "管理者 > IM管理 > 情報バリアでグループ間の通信制限を設定",
+      "例：経営企画部と投資部門のチャットを禁止する、など",
+      "情報バリアはZoom Chat・ミーティング・Zoom Phone全てに適用される"
+    ],
+    "priority": "medium",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/information-barriers",
+    "source": "web",
+    "publishedAt": "2026-05-14T08:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "ch_001",
+    "title": "Zoom Team Chatのチャンネル整理術",
+    "summary": "Zoom Team Chatのチャンネルを目的別に整理することで情報が見つけやすくなる。命名規則（proj-○○, team-○○）を統一し、アーカイブ機能で古いチャンネルを整理。",
+    "category": "chat",
+    "tips": [
+      "チャンネル名を「proj-」「team-」「info-」等のプレフィックスで統一",
+      "不要になったチャンネルはアーカイブして検索結果をクリーンに",
+      "チャンネルの説明文に目的と参加条件を書いておくと迷わない"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/team-chat-channels",
+    "source": "web",
+    "publishedAt": "2026-05-18T06:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "ch_002",
+    "title": "Zoom ChatのAI要約で未読メッセージをキャッチアップ",
+    "summary": "AI Companionがチャットの未読メッセージを要約してくれる。休暇明けや会議後に大量の未読があっても、要約を読むだけで重要な内容を把握。スレッド単位の要約も可能。",
+    "category": "chat",
+    "tips": [
+      "チャンネル上部の「AI要約」ボタンで未読メッセージをワンクリック要約",
+      "スレッドが長くなった場合もスレッド内要約で素早くキャッチアップ",
+      "要約の精度は英語>日本語だが、日本語でも要点は十分拾える"
+    ],
+    "priority": "high",
+    "articleType": "ai",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/chat-ai-summary",
+    "source": "web",
+    "publishedAt": "2026-05-17T06:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "ch_003",
+    "title": "Zoom Chatのブックマーク・ピン・リマインダー活用",
+    "summary": "ブックマークで重要なメッセージを保存、ピンでチャンネル全体に固定表示、リマインダーで指定時間に通知。3つの機能を使い分けて情報の取りこぼしを防ぐ。",
+    "category": "chat",
+    "tips": [
+      "メッセージ右クリック > ブックマークで個人的に保存（他の人には見えない）",
+      "ピンはチャンネル上部に固定表示され全員が確認できる",
+      "リマインダーは「30分後」「明日9時」など自由に設定可能"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/chat-bookmark-pin",
+    "source": "web",
+    "publishedAt": "2026-05-16T06:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "ch_004",
+    "title": "Zoom ChatのワークフローでSlack風の自動化",
+    "summary": "Zoom Team Chatのワークフロー機能で、定型作業を自動化。新メンバー参加時の自動ウェルカムメッセージや、定期リマインダーの自動投稿など。",
+    "category": "chat",
+    "tips": [
+      "チャンネル設定 > ワークフローで自動化ルールを作成",
+      "「新メンバー参加時にウェルカムメッセージを自動送信」が便利",
+      "フォーム送信トリガーで申請ワークフローも構築可能"
+    ],
+    "priority": "medium",
+    "articleType": "new_feature",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/chat-workflow",
+    "source": "web",
+    "publishedAt": "2026-05-15T06:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "ch_005",
+    "title": "Zoom Chatの外部連絡先追加で社外ともチャット",
+    "summary": "社外のZoomユーザーを外部連絡先として追加すれば、メールやSlackを使わずにZoom Chat上でやり取り可能。承認制なのでスパムの心配も少ない。",
+    "category": "chat",
+    "tips": [
+      "チャット > 連絡先 > 外部連絡先を追加 でメールアドレスを入力",
+      "相手が承認すると1:1チャットが開始できる",
+      "管理者が外部チャットを無効にしている場合は管理ポータルでONにする必要あり"
+    ],
+    "priority": "medium",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/external-contacts",
+    "source": "web",
+    "publishedAt": "2026-05-14T06:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "ig_001",
+    "title": "Zoom × Outlook連携でカレンダーからワンクリック会議",
+    "summary": "Outlookアドインをインストールすれば、予定作成時にZoomミーティングのリンクを自動追加。Google Calendarでも同様の連携が可能。二重入力の手間がなくなる。",
+    "category": "integration",
+    "tips": [
+      "Outlook > アドインの管理 > Zoom for Outlookをインストール",
+      "予定作成時に「Zoomミーティングを追加」ボタンが表示される",
+      "Google CalendarはZoom Marketplace > Google Calendar連携からセットアップ"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/outlook-plugin",
+    "source": "web",
+    "publishedAt": "2026-05-18T04:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "ig_002",
+    "title": "Zoom Apps: ミーティング中にアプリを使う",
+    "summary": "Zoom Apps機能で会議中にMiro、Asana、Dropboxなどのサードパーティアプリを表示。画面共有せずにボードを共同編集したり、タスクを作成したりできる。",
+    "category": "integration",
+    "tips": [
+      "ミーティング中のツールバー > Apps でアプリ一覧を表示",
+      "Miro連携ならホワイトボードを全員がリアルタイム編集可能",
+      "管理者がZoom Marketplaceで許可アプリを事前承認しておくとスムーズ"
+    ],
+    "priority": "high",
+    "articleType": "new_feature",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/zoom-apps",
+    "source": "web",
+    "publishedAt": "2026-05-17T04:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "ig_003",
+    "title": "Zoom Webhook/APIで会議データを自動収集",
+    "summary": "Zoom WebhookとREST APIを使えば、ミーティングの開始・終了・参加者情報を自動で社内システムに連携できる。勤怠管理や利用統計の自動化に活用できる。",
+    "category": "integration",
+    "tips": [
+      "Zoom Marketplace > アプリ作成 > Webhook Only でイベント通知を受信",
+      "「ミーティング終了」イベントで参加者と時間を社内DBに自動保存",
+      "REST APIで過去のミーティングレポートを一括取得も可能"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/zoom-api-webhook",
+    "source": "web",
+    "publishedAt": "2026-05-16T04:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "ig_004",
+    "title": "Zoom × Microsoft Teams 相互運用の設定",
+    "summary": "ZoomとMicrosoft Teamsの相互運用が可能に。Teamsユーザーを直接Zoomミーティングに招待でき、逆も可能。マルチベンダー環境でも壁なくコラボレーション。",
+    "category": "integration",
+    "tips": [
+      "管理者 > IM管理 > Microsoft Teams相互運用をONにする",
+      "Teamsユーザーとの1:1チャットも可能になる",
+      "相互運用にはAzure AD側の管理者承認も必要"
+    ],
+    "priority": "high",
+    "articleType": "new_feature",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/teams-interop",
+    "source": "web",
+    "publishedAt": "2026-05-15T04:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "ig_005",
+    "title": "Zoom × Zapier/Power Automateで定型業務を自動化",
+    "summary": "ZapierやPower Automateと連携すると「ミーティング終了→Notionに議事録ページ作成」「録画完了→Slackに通知」など、ノーコードで自動化ワークフローを構築できる。",
+    "category": "integration",
+    "tips": [
+      "Zapierの「New Recording」トリガーで録画完了時に自動通知",
+      "Power Automateなら「ミーティング作成→Teamsチャンネルに投稿」も可能",
+      "社内申請→承認→Zoomミーティング自動作成の一気通貫フローも構築可能"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/zapier-power-automate",
+    "source": "web",
+    "publishedAt": "2026-05-14T04:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "pr_001",
+    "title": "Zoom Docsでミーティングメモをリアルタイム共同編集",
+    "summary": "Zoom内蔵のドキュメントツールZoom Docsで、ミーティング中にリアルタイムで議事録やメモを共同編集。AI Companionが会議内容から自動でドキュメントを生成する機能も。",
+    "category": "productivity",
+    "tips": [
+      "ミーティング中のツールバー > Docs でリアルタイム共同編集を開始",
+      "AIが会議の文字起こしから自動でドキュメントドラフトを生成",
+      "テンプレートから議事録・アクションプラン・ブレスト結果など選べる"
+    ],
+    "priority": "high",
+    "articleType": "new_feature",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/zoom-docs",
+    "source": "web",
+    "publishedAt": "2026-05-18T02:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "pr_002",
+    "title": "Zoom Scheduler：日程調整をZoom内で完結",
+    "summary": "Zoom Schedulerを使えば、Calendlyのような日程調整がZoom内で完結。空き時間を自動検出し、候補日をリンクで共有。予約確定で自動的にZoomミーティングが作成される。",
+    "category": "productivity",
+    "tips": [
+      "Zoomアプリ > Scheduler > 予約ページを作成で空き時間を公開",
+      "相手はリンクをクリックして日時を選ぶだけ。アカウント不要",
+      "Google Calendar/Outlookと連携すれば空き時間を自動検出"
+    ],
+    "priority": "high",
+    "articleType": "new_feature",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/zoom-scheduler",
+    "source": "web",
+    "publishedAt": "2026-05-17T02:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "pr_003",
+    "title": "AI Companion 2.0のミーティング要約を最大限活用する方法",
+    "summary": "AI Companionの会議要約は、ただONにするだけでなく設定を最適化すると精度が上がる。要約のカスタムプロンプトや、共有先の自動設定など知られていない機能が多い。",
+    "category": "productivity",
+    "tips": [
+      "設定 > AI Companion > 要約のカスタム指示で「日本語で出力」を指定",
+      "要約の自動メール送信先を「参加者全員」「ホストのみ」から選べる",
+      "AI要約をZoom Docsに自動保存すれば議事録が蓄積されてナレッジベースに"
+    ],
+    "priority": "high",
+    "articleType": "ai",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/ai-companion-settings",
+    "source": "web",
+    "publishedAt": "2026-05-16T02:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "pr_004",
+    "title": "Zoom Mail / Zoom Calendar：全部Zoomで完結する時代",
+    "summary": "Zoomアプリにメールとカレンダーが内蔵。Gmail/OutlookのメールをZoom内で送受信し、カレンダーからワンクリックで会議参加。アプリ切替の手間が激減。",
+    "category": "productivity",
+    "tips": [
+      "Zoomアプリ > Mail タブからGmail/Outlookアカウントを連携",
+      "カレンダータブで予定の確認→ワンクリック参加が可能",
+      "メールからの会議作成もZoom内で完結。Outlookを開く必要なし"
+    ],
+    "priority": "medium",
+    "articleType": "new_feature",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/zoom-mail-calendar",
+    "source": "web",
+    "publishedAt": "2026-05-15T02:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "pr_005",
+    "title": "Zoom管理者ダッシュボードで利用状況を可視化",
+    "summary": "管理ポータルのダッシュボードで、組織全体のZoom利用状況を一目で把握。ミーティング数・参加者数・通話品質・ライセンス消費などをグラフで表示。月次レポートにも活用。",
+    "category": "productivity",
+    "tips": [
+      "管理者 > ダッシュボード > ミーティングで利用率の高い時間帯を確認",
+      "品質ダッシュボードで通話品質スコアの低いユーザーを特定",
+      "レポートはCSVエクスポートして社内報告資料に利用できる"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/admin-dashboard",
+    "source": "web",
+    "publishedAt": "2026-05-14T02:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "pr_006",
+    "title": "Zoomのノイズ除去をカスタマイズしてオフィスBGMを消す",
+    "summary": "Zoomのノイズ除去は「自動」「低」「中」「高」の4段階。オープンオフィスの環境音やカフェのBGMなど、環境に応じて最適なレベルを選べる。キーボード音だけ消すことも可能。",
+    "category": "productivity",
+    "tips": [
+      "設定 > オーディオ > 背景雑音の抑制で「高」にするとほぼ全ての環境音が消える",
+      "楽器演奏や音楽を共有する場合は「低」または「オリジナルサウンド」を使う",
+      "テスト用に設定 > オーディオ > スピーカーテストで確認できる"
+    ],
+    "priority": "medium",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/noise-suppression",
+    "source": "web",
+    "publishedAt": "2026-05-13T02:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "nw_001",
+    "title": "Zoom、2026年版の料金プラン改定を発表",
+    "summary": "Zoom Workplace Businessプランが刷新。AI Companion機能が全プランで標準搭載に。Zoom Phoneのバンドルプランも新設され、トータルコストの削減が見込める。",
+    "category": "other",
+    "tips": [
+      "AI Companion機能が無料プランでも一部利用可能に",
+      "Zoom Phone + Meetings のバンドルプランで個別契約より約20%安くなる",
+      "年額契約で月額契約比15%割引。更新前に料金シミュレーションを"
+    ],
+    "priority": "medium",
+    "articleType": "news",
+    "originalUrl": "https://zoom.us/pricing",
+    "source": "rss",
+    "publishedAt": "2026-05-18T12:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "nw_002",
+    "title": "Zoom Workplace統合プラットフォーム構想",
+    "summary": "ZoomがMeetings・Phone・Chat・Docs・Mailを統合した「Zoom Workplace」を展開。全コミュニケーションを1つのアプリに集約し、ツール乱立を解消する戦略。",
+    "category": "other",
+    "tips": [
+      "Zoom Workplaceは既存のZoomアプリのアップデートで利用可能",
+      "Mail/Calendar/Docsが統合されアプリ切替の回数が減る",
+      "IS部門として全社導入前に部門単位でパイロット導入がおすすめ"
+    ],
+    "priority": "medium",
+    "articleType": "news",
+    "originalUrl": "https://zoom.us/workplace",
+    "source": "rss",
+    "publishedAt": "2026-05-17T12:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "nw_003",
+    "title": "Zoom AI Companionの対応言語が40言語に拡大",
+    "summary": "AI Companionの会議要約・チャット要約が40以上の言語に対応。日本語の精度も大幅に改善され、日英混在の会議でもより正確な要約が生成されるように。",
+    "category": "productivity",
+    "tips": [
+      "日本語会議の要約精度が向上。設定変更不要で自動適用される",
+      "日英混在会議では主要言語を「日本語」に設定すると精度が上がる",
+      "多言語チームでは各参加者のZoom言語設定を確認しておく"
+    ],
+    "priority": "high",
+    "articleType": "ai",
+    "originalUrl": "https://blog.zoom.us/ai-companion-languages/",
+    "source": "rss",
+    "publishedAt": "2026-05-16T12:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "nw_004",
+    "title": "Zoom、AIアバター機能を正式リリース",
+    "summary": "AIアバター機能が正式リリース。自分の顔写真を元にリアルなAIアバターを生成し、カメラOFFでもアバターが表情や動きを再現。Zoom Clips（動画メッセージ）でも利用可能。",
+    "category": "meeting",
+    "tips": [
+      "設定 > AIアバター > 写真をアップロードしてカスタムアバターを作成",
+      "ミーティング中にビデオ設定からアバターに即切替可能",
+      "Zoom Clipsのアバタープレゼンで録画不要の動画メッセージを作成"
+    ],
+    "priority": "high",
+    "articleType": "new_feature",
+    "originalUrl": "https://blog.zoom.us/ai-avatar/",
+    "source": "rss",
+    "publishedAt": "2026-05-15T12:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "nw_005",
+    "title": "リモートワーク企業のZoom活用データ：週平均18時間の会議時間",
+    "summary": "調査によるとリモートワーク企業の従業員は週平均18時間をビデオ会議に費やしている。Zoom AI要約の導入企業は議事録作成時間が73%削減されたとのデータも。",
+    "category": "productivity",
+    "tips": [
+      "AI要約で議事録作成時間を73%削減できるというデータ。まだ未導入なら即設定",
+      "週3回以上の定例会議はZoom Clipsの非同期動画に置き換えを検討",
+      "25分ミーティング設定にすると1日の会議時間を約20%削減できる"
+    ],
+    "priority": "medium",
+    "articleType": "news",
+    "originalUrl": "https://zoom.us/research/remote-work-2026",
+    "source": "rss",
+    "publishedAt": "2026-05-14T12:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
   }
 ]
