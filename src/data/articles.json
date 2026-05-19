@@ -1,6 +1,6 @@
 [
   {
-    "id": "article_mpbug7d6_wc3lcx",
+    "id": "article_mpbuwqz7_8z6dpb",
     "title": "Salesforce、Slack無償提供開始　CRMとA...",
     "summary": "Salesforceは新規顧客にSlack無償版を標準提供すると発表した。CRM連携やAI機能を初期状態で利用可能にし、営業と顧客対応の作業集約を図る。Slackbotは記録更新や要約、通知整理などに対応し、生産性向上を狙う。",
     "category": "integration",
@@ -11,10 +11,10 @@
     "originalUrl": "https://www.itmedia.co.jp/enterprise/articles/2605/13/news033.html",
     "source": "rss",
     "publishedAt": "2026-05-13T01:45:00.000Z",
-    "createdAt": "2026-05-18T23:37:20.970Z"
+    "createdAt": "2026-05-18T23:50:12.884Z"
   },
   {
-    "id": "article_mpbug7g0_kld70a",
+    "id": "article_mpbuwr21_96fmny",
     "title": "Web会議の枠を超える「Zoom AI」活用術　現場の課...",
     "summary": "ZoomのAI機能「AI Companion」はWeb会議の枠を超え、日程調整や対面会議、他社ツール連携へと領域を広げている。本稿ではIT管理者が押さえるべき5つの実践的チップスを、設定手順やROIの可視化手法と合わせて解説する。",
     "category": "integration",
@@ -24,10 +24,10 @@
     "originalUrl": "https://www.itmedia.co.jp/enterprise/articles/2605/11/news020.html",
     "source": "rss",
     "publishedAt": "2026-05-10T22:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:21.072Z"
+    "createdAt": "2026-05-18T23:50:12.985Z"
   },
   {
-    "id": "article_mpbug7iu_yzyvfz",
+    "id": "article_mpbuwr4v_dhlzgg",
     "title": "米ズーム社に1億6000万円支払い命令　ロゴ使用巡り東京...",
     "summary": "米ズーム社に1億6000万円支払い命令 ロゴ使用巡り東京地裁判決 - 日本経済新聞「ZOOM」のロゴをめぐり商標権を侵害されたとして、国内メーカーがビデオ会議システムの米ズーム・コミュニケーションズ（ZC）に損害賠償などを求めた訴訟の判決で、東京地裁は24日、同社に約1億6600万円の支払いを命じた...",
     "category": "meeting",
@@ -36,11 +36,11 @@
     ],
     "originalUrl": "https://www.nikkei.com/article/DGXZQOUD232MN0T20C26A4000000/",
     "source": "rss",
-    "publishedAt": "2026-05-18T23:37:18.266Z",
-    "createdAt": "2026-05-18T23:37:21.174Z"
+    "publishedAt": "2026-05-18T23:50:07.946Z",
+    "createdAt": "2026-05-18T23:50:13.087Z"
   },
   {
-    "id": "article_mpbug7lo_fsdgtv",
+    "id": "article_mpbuwr7p_bzyoh0",
     "title": "日本のズームが米国Zoomに商標権侵害訴訟で勝訴（追記あ...",
     "summary": "日本のズームが米国Zoomに商標権侵害訴訟で勝訴（追記あり）（栗原潔） - エキスパート - Yahoo!ニュース日本の音響機器メーカーであるズーム株式会社（以下、「日本のズーム」）が、米国のビデオ会議サービスプロバイダーであるZoom Communications, Inc. （以下、「米国Zoo...",
     "category": "meeting",
@@ -49,11 +49,11 @@
     ],
     "originalUrl": "https://news.yahoo.co.jp/expert/articles/819b0587e75c26ea1c31436bf9d4cd52aeb43a99",
     "source": "rss",
-    "publishedAt": "2026-05-18T23:37:18.266Z",
-    "createdAt": "2026-05-18T23:37:21.276Z"
+    "publishedAt": "2026-05-18T23:50:07.946Z",
+    "createdAt": "2026-05-18T23:50:13.189Z"
   },
   {
-    "id": "article_mpbug7oi_s0zoj7",
+    "id": "article_mpbuwraj_bvz9nw",
     "title": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償...",
     "summary": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償命令 | NHKニュースオンライン会議システム「Zoom」のロゴについて、音楽用電子機器メーカーの「ズーム」が、「自社のロゴと類似し、商標権を侵害された」と訴えた裁判で、東京地方裁判所はオンライン会議システムの運営企業など2…...",
     "category": "meeting",
@@ -62,11 +62,11 @@
     ],
     "originalUrl": "https://news.web.nhk/newsweb/na/na-k10015107301000",
     "source": "rss",
-    "publishedAt": "2026-05-18T23:37:18.266Z",
-    "createdAt": "2026-05-18T23:37:21.378Z"
+    "publishedAt": "2026-05-18T23:50:07.946Z",
+    "createdAt": "2026-05-18T23:50:13.291Z"
   },
   {
-    "id": "article_mpbug7rc_innitc",
+    "id": "article_mpbuwrdd_pdjtwl",
     "title": "オンラインビデオ会議サービス「Zoom」のアプリ、2年ぶ...",
     "summary": "オンラインビデオ会議サービス「Zoom」のアプリ、2年ぶりのメジャーバージョンアップ／メモリ最適化機能、音声翻訳、カスタム絵文字などの新要素...",
     "category": "meeting",
@@ -75,11 +75,11 @@
     ],
     "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2096333.html",
     "source": "rss",
-    "publishedAt": "2026-05-18T23:37:18.266Z",
-    "createdAt": "2026-05-18T23:37:21.480Z"
+    "publishedAt": "2026-05-18T23:50:07.946Z",
+    "createdAt": "2026-05-18T23:50:13.393Z"
   },
   {
-    "id": "article_mpbug7u7_6a8k6n",
+    "id": "article_mpbuwrg7_d88vai",
     "title": "完全テレワークで入社したのに「やっぱり出社して」と言われ...",
     "summary": "完全テレワークで入社したのに「やっぱり出社して」と言われ…コロナ前の働き方に逆戻りしてミスマッチ拡大中：東京新聞デジタル首都圏のコンサルティング会社に勤務する関西在住の女性（29）は、結婚で関東から引っ越すタイミングで、現在の会社に転職した。当初聞いていたのは完全リモートでの業務。入社後しばらくは、...",
     "category": "other",
@@ -88,11 +88,11 @@
     ],
     "originalUrl": "https://www.tokyo-np.co.jp/article/469403",
     "source": "rss",
-    "publishedAt": "2026-05-18T23:37:18.266Z",
-    "createdAt": "2026-05-18T23:37:21.583Z"
+    "publishedAt": "2026-05-18T23:50:07.946Z",
+    "createdAt": "2026-05-18T23:50:13.495Z"
   },
   {
-    "id": "article_mpbug7x1_ru3u3d",
+    "id": "article_mpbuwrj1_wwtkvy",
     "title": "フランスが「Microsoft Teams」と「Zoom...",
     "summary": "フランスが「Microsoft Teams」と「Zoom」を排除した理由--何に代替するのかフランス政府が米国のテクノロジー企業を信頼していないというのは、あながち間違いではない。実際のところ、フランスは自国のデータやサービスを米国企業に委ねることに強い不信感を抱いている。 フランスの公務・国家改革...",
     "category": "other",
@@ -101,11 +101,11 @@
     ],
     "originalUrl": "https://japan.zdnet.com/article/35243443/",
     "source": "rss",
-    "publishedAt": "2026-05-18T23:37:18.266Z",
-    "createdAt": "2026-05-18T23:37:21.685Z"
+    "publishedAt": "2026-05-18T23:50:07.946Z",
+    "createdAt": "2026-05-18T23:50:13.597Z"
   },
   {
-    "id": "article_mpbug7zu_0apsg5",
+    "id": "article_mpbuwrlv_klbouf",
     "title": "「Zoom」に非認証ユーザーによる権限昇格などの脆弱性 ...",
     "summary": "「Zoom」に非認証ユーザーによる権限昇格などの脆弱性 ～最新版への更新を／最大深刻度は「High」、Windows/macOS版に影響...",
     "category": "productivity",
@@ -114,11 +114,11 @@
     ],
     "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2070456.html",
     "source": "rss",
-    "publishedAt": "2026-05-18T23:37:18.266Z",
-    "createdAt": "2026-05-18T23:37:21.786Z"
+    "publishedAt": "2026-05-18T23:50:07.946Z",
+    "createdAt": "2026-05-18T23:50:13.699Z"
   },
   {
-    "id": "article_mpbug82o_3cu4lc",
+    "id": "article_mpbuwroq_y0yh29",
     "title": "「Cloudflare」に再び障害 ～「Zoom」「メル...",
     "summary": "「Cloudflare」に再び障害 ～「Zoom」「メルカリ」「Square」「Canva」など影響多数【20:20追記】／20時15分現在、障害は解消している模様。すべてのステータスが『Operational』に...",
     "category": "other",
@@ -127,11 +127,11 @@
     ],
     "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2069133.html",
     "source": "rss",
-    "publishedAt": "2026-05-18T23:37:18.266Z",
-    "createdAt": "2026-05-18T23:37:21.888Z"
+    "publishedAt": "2026-05-18T23:50:07.946Z",
+    "createdAt": "2026-05-18T23:50:13.802Z"
   },
   {
-    "id": "article_mpbug85h_gocv1b",
+    "id": "article_mpbuwrrk_hkpnvn",
     "title": "「Zoom」に複数の脆弱性 ～非認証ユーザーによる権限昇...",
     "summary": "「Zoom」に複数の脆弱性 ～非認証ユーザーによる権限昇格など／最大深刻度は「High」、Windows/macOS/Linux/iOS/Android版に影響...",
     "category": "productivity",
@@ -140,11 +140,11 @@
     ],
     "originalUrl": "https://forest.watch.impress.co.jp/docs/news/2062979.html",
     "source": "rss",
-    "publishedAt": "2026-05-18T23:37:18.266Z",
-    "createdAt": "2026-05-18T23:37:21.989Z"
+    "publishedAt": "2026-05-18T23:50:07.946Z",
+    "createdAt": "2026-05-18T23:50:13.904Z"
   },
   {
-    "id": "article_mpbug88a_03hye2",
+    "id": "article_mpbuwrud_bcfvsx",
     "title": "AWSで障害　米国東部リージョンで20サービスが停止・遅...",
     "summary": "AWSで障害 米国東部リージョンで20サービスが停止・遅延 Zoomや任天堂のサービスなどに影響かクラウドサービス「Amazon Web Services」の米国東部リージョン（US-EAST-1）で、10月20日午後4時ごろ（日本時間）から障害が発生している。データベースサービス「Amazon D...",
     "category": "other",
@@ -153,11 +153,11 @@
     ],
     "originalUrl": "https://www.itmedia.co.jp/news/articles/2510/20/news092.html",
     "source": "rss",
-    "publishedAt": "2026-05-18T23:37:18.266Z",
-    "createdAt": "2026-05-18T23:37:22.090Z"
+    "publishedAt": "2026-05-18T23:50:07.946Z",
+    "createdAt": "2026-05-18T23:50:14.005Z"
   },
   {
-    "id": "article_mpbug8b4_connjj",
+    "id": "article_mpbuwrx6_zq4lc0",
     "title": "Zoomの使い方！Web会議・ウェビナーのやり方と、テレ...",
     "summary": "Zoomの使い方！Web会議・ウェビナーのやり方と、テレワークを楽しむ小ワザ集 BOXIL...",
     "category": "meeting",
@@ -167,10 +167,10 @@
     "originalUrl": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1kSEFoY3VranA3MWtDbUM5XzZkWEh2WXdjbDRZMHN5TzJBT3RNeWdLQTF6bWh4SDBtcWh6bUJGTWo?oc=5",
     "source": "rss",
     "publishedAt": "2025-11-26T08:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:22.192Z"
+    "createdAt": "2026-05-18T23:50:14.106Z"
   },
   {
-    "id": "article_mpbug8dy_gl9yoy",
+    "id": "article_mpbuws00_e20hex",
     "title": "テレワークにおすすめのポケット型WiFi5選！在宅勤務で...",
     "summary": "テレワークにおすすめのポケット型WiFi5選！在宅勤務で使えるモバイルWiFiの選び方や注意点 株式会社ALL CONNECT（オールコネクト）...",
     "category": "other",
@@ -180,10 +180,10 @@
     "originalUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMElsV1plRDZ0U3l5VURxdGxkSXBkMmlMX0p4V2dJWFVEOEMwVlo5bFRhejVQU25QeU1ORFdrMERHYVMtV19nTkw4NTJzeUJTdGNkTm4wX2VDVnNjdzVmLXVYMTVOQQ?oc=5",
     "source": "rss",
     "publishedAt": "2026-04-27T07:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:22.294Z"
+    "createdAt": "2026-05-18T23:50:14.208Z"
   },
   {
-    "id": "article_mpbug8gs_qo6d8c",
+    "id": "article_mpbuws2v_a19mug",
     "title": "Zoom×ソニー・ホンダモビリティ、次世代EV「AFEE...",
     "summary": "Zoom×ソニー・ホンダモビリティ、次世代EV「AFEELA」で実現する“走るテレワーク空間”とは ASCII.jp...",
     "category": "other",
@@ -193,10 +193,10 @@
     "originalUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94a2YtU3E2RldzYTV6NF9QeVE5MnlzMUlMZTdVRnpZa1hSdHM5UWhBX1NKck8xZF90dDM0TzMwTVdoWVBZQXE5Ql9DQ1kwN21SRXRaRQ?oc=5",
     "source": "rss",
     "publishedAt": "2026-02-03T08:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:22.397Z"
+    "createdAt": "2026-05-18T23:50:14.311Z"
   },
   {
-    "id": "article_mpbug8jn_hwdt99",
+    "id": "article_mpbuws5p_5l530l",
     "title": "CTCのプロマネ、「Zoomつなぎっぱなし」でテレワーク...",
     "summary": "CTCのプロマネ、「Zoomつなぎっぱなし」でテレワークでも一体感醸成 日経クロステック...",
     "category": "other",
@@ -206,10 +206,10 @@
     "originalUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yRUVlZElndUpsTTdsbWJTMWFvT0JHWUUtWDRHeWZZV2VlS1RRN1FoU0VOWko5R3RlWWo0ZFZGeENHYjAwWDFOcHd6YVJ0ZVB3NDZoNzMyT1FLYm9qT3VYS3BOLWpoNERFcVlUOQ?oc=5",
     "source": "rss",
     "publishedAt": "2025-05-23T07:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:22.499Z"
+    "createdAt": "2026-05-18T23:50:14.413Z"
   },
   {
-    "id": "article_mpbug8mg_ov9dbe",
+    "id": "article_mpbuws8i_jirg8b",
     "title": "CTCのプロマネ、「Zoomつなぎっぱなし」でテレワーク...",
     "summary": "CTCのプロマネ、「Zoomつなぎっぱなし」でテレワークでも一体感醸成 日経クロステック Active...",
     "category": "other",
@@ -219,10 +219,10 @@
     "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03LWZFSW1WY0JqbDRSUkNaY09acC01cXVoS2ZZY2FoU21qVjVseldMeXY2b0VtOUx0VEhKVjFtUnlMc0V5ZWNrTzBSVEVBSThBU0U3SFB0N09jOUxBZFlObXQxQUNGZmdhLXc?oc=5",
     "source": "rss",
     "publishedAt": "2025-07-17T07:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:22.600Z"
+    "createdAt": "2026-05-18T23:50:14.514Z"
   },
   {
-    "id": "article_mpbug8pa_tskltx",
+    "id": "article_mpbuwsbc_3d0dtw",
     "title": "Web会議システム比較20選！選び方・テレワークにおすす...",
     "summary": "Web会議システム比較20選！選び方・テレワークにおすすめのツール BOXIL...",
     "category": "meeting",
@@ -232,10 +232,10 @@
     "originalUrl": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBUWXVndVlXV3IwdVVyZ3hoQklxSzh1UFZCdWFxMXZVMzhncklsa3lmd1dNeFJZZTdnaDNkS3RHTQ?oc=5",
     "source": "rss",
     "publishedAt": "2026-02-18T08:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:22.702Z"
+    "createdAt": "2026-05-18T23:50:14.617Z"
   },
   {
-    "id": "article_mpbug8s4_g8ytvj",
+    "id": "article_mpbuwse6_g0s7op",
     "title": "ウェブ会議「Zoom」、従業員にオフィス勤務を指示 - ...",
     "summary": "ウェブ会議「Zoom」、従業員にオフィス勤務を指示 BBC...",
     "category": "meeting",
@@ -245,10 +245,10 @@
     "originalUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jYm5DLTJQWXd1ajZheUZTakpkZG1mYi1TVlp1YTBlU1ZsaHNpQzMxZkl5ODdBeGxnbjVvRjhyOWo1Y05JdUxLdE44RU1YZ9IBU0FVX3lxTFBWUExzWnpxbVo0TmxKUUdLWjV0TjhiVzIwLXNjNk4yNGRCZXpNSUV1R0Q0VllZaE1NRTdnV3VuRGlvelBDYy1aTWxHSUtDSl9ITGN3?oc=5",
     "source": "rss",
     "publishedAt": "2023-08-08T07:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:22.804Z"
+    "createdAt": "2026-05-18T23:50:14.718Z"
   },
   {
-    "id": "article_mpbug8uy_r4x3gs",
+    "id": "article_mpbuwsh1_1p60w5",
     "title": "松山市でテレワーク専用ワークスペースが無料利用可能に！ ...",
     "summary": "松山市でテレワーク専用ワークスペースが無料利用可能に！ ASCII.jp...",
     "category": "other",
@@ -258,10 +258,10 @@
     "originalUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RMVBCOXdLLW5DYU90T1h5S1JfQ1J0ZGk5YmFCTFN4RXRwOXdiVlJzeWdTNS1icWs1eWtIQThyYzc1d2Zwc1YwRnF5NWdHVTlsbHFNYg?oc=5",
     "source": "rss",
     "publishedAt": "2025-08-30T07:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:22.906Z"
+    "createdAt": "2026-05-18T23:50:14.821Z"
   },
   {
-    "id": "article_mpbug8xr_pptboz",
+    "id": "article_mpbuwsjz_0b0ym8",
     "title": "Microsoft Teams と Zoom を徹底比較...",
     "summary": "Microsoft Teams と Zoom を徹底比較! 無料版と有料版の違いも解説 Microsoft...",
     "category": "other",
@@ -271,10 +271,10 @@
     "originalUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTGM4c3V5dE9BN3g2UHdKczdqNkdOSWp0QUI0SHBvZXJTQmp1TldiTXYxMFhjakZnekc5VmN2SDRNdWNQUzJGamZVQ0h1ODFtV2k0bDlQV25WQzdqTE5NeU55a0VrM3pZVmdwVVdjMk9pUjFVRUNqMENRZDVCMGM?oc=5",
     "source": "rss",
     "publishedAt": "2022-04-15T07:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:23.007Z"
+    "createdAt": "2026-05-18T23:50:14.927Z"
   },
   {
-    "id": "article_mpbug90l_87n80g",
+    "id": "article_mpbuwssg_s2fk4u",
     "title": "国内最大級のZoom背景紹介サイトが “テレワーク、リモ...",
     "summary": "国内最大級のZoom背景紹介サイトが “テレワーク、リモートワーク、ワーケーション情報 専門WEBメディア”『TELESY(テレジー)』としてリニューアル Newscast.jp...",
     "category": "other",
@@ -284,10 +284,10 @@
     "originalUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41ZWV0WDNKaHhZcmRNSVFFenNycVMwbU5GdnEtdTI0dWxzazZYYVlpQ3pMbzU1WFZncVN0eTV4dDI4SXdyZXk1TVFTUnN2S0U?oc=5",
     "source": "rss",
     "publishedAt": "2023-05-12T07:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:23.109Z"
+    "createdAt": "2026-05-18T23:50:15.232Z"
   },
   {
-    "id": "article_mpbug93f_9nww40",
+    "id": "article_mpbuwsx9_4yro3a",
     "title": "ノーコードで実現！Zoom 会議の要約を LINE に自...",
     "summary": "ズーム録画を自動蓄積 https://linedevelopercommunity.connpass.com/event/390267/ ノーコードで「会議が終わったら自動で要約がLINEに届く」仕組みを作ろう 今日作るもの Zoomで会議が終わる ↓ 自動で文字起こしが生成される...",
     "category": "meeting",
@@ -297,10 +297,10 @@
     "originalUrl": "https://zenn.dev/seiya_hirata/articles/713ef51d064493",
     "source": "rss",
     "publishedAt": "2026-05-16T04:55:59.000Z",
-    "createdAt": "2026-05-18T23:37:23.211Z"
+    "createdAt": "2026-05-18T23:50:15.405Z"
   },
   {
-    "id": "article_mpbug969_mu80mz",
+    "id": "article_mpbuwt4g_yaua0q",
     "title": "授業中にスマホをいじる生徒に怒るのをやめた話",
     "summary": "授業中にスマホをいじる生徒に怒るのをやめた話 ～ OBS × Zoom × Slack × Obsidianで作る新時代の職業訓練 ～ 授業中にスマホをいじる生徒に、あなたはどう対応しますか？ 注意する？取り上げる？ 私は逆の発想をしました。スマホを活用した授業をすればいい。 スマホが当たり前の世代...",
     "category": "integration",
@@ -310,10 +310,10 @@
     "originalUrl": "https://zenn.dev/code_mode_road/articles/29e1669ebdae0d",
     "source": "rss",
     "publishedAt": "2026-05-02T05:14:12.000Z",
-    "createdAt": "2026-05-18T23:37:23.313Z"
+    "createdAt": "2026-05-18T23:50:15.664Z"
   },
   {
-    "id": "article_mpbug993_5woi8o",
+    "id": "article_mpbuwt7a_q7iqnk",
     "title": "SlackからGeminiと会話する【MCP化でツール連...",
     "summary": "やりたいこと SlackとGeminiを連携させたこの記事では、 ユーザーの発言からプロンプトを考える 1で考えたプロンプトを実行する の2段階でGeminiを使っていました。 今回はGeminiとの会話部分をMCPクライアントとして実装することで、Zoomなどの外部APIとの連携をツールとして...",
     "category": "integration",
@@ -323,10 +323,10 @@
     "originalUrl": "https://zenn.dev/clapt_dev/articles/3e3490391f9d29",
     "source": "rss",
     "publishedAt": "2026-04-24T01:04:04.000Z",
-    "createdAt": "2026-05-18T23:37:23.415Z"
+    "createdAt": "2026-05-18T23:50:15.766Z"
   },
   {
-    "id": "article_mpbug9bx_r3wvdk",
+    "id": "article_mpbuwta3_omkipd",
     "title": "Zoomで参加している英語講演を、手元のMacで同時翻訳...",
     "summary": "英語の講演やウェビナーにZoomで参加するとき、「内容は追いたいけれど、英語を聞き取り続けるのが大変」という場面があります。そんなときに便利なのが、Macの内部音声を仮想オーディオデバイスに流し、それを翻訳アプリに渡してリアルタイム翻訳させる方法です。 今回は、ChatGPTに相談して実施し、使い勝...",
     "category": "chat",
@@ -336,10 +336,10 @@
     "originalUrl": "https://zenn.dev/k16kgw/articles/4689022225859e",
     "source": "rss",
     "publishedAt": "2026-03-21T02:30:25.000Z",
-    "createdAt": "2026-05-18T23:37:23.517Z"
+    "createdAt": "2026-05-18T23:50:15.867Z"
   },
   {
-    "id": "article_mpbug9eq_lzmm8k",
+    "id": "article_mpbuwtcx_9fe0k8",
     "title": "HP Poly Studio X/Gシリーズ Poly ...",
     "summary": "ややこしいので整理したいなあと常々思っていたトピックです。 HPのビデオ会議デバイス、Poly Studio X/Gシリーズには第一世代、第二世代があります。 第一世代：Poly Studio X30/50/70, G7500 とTC8 第二世代：Poly Studio X32/52/72, Stu...",
     "category": "meeting",
@@ -349,10 +349,10 @@
     "originalUrl": "https://zenn.dev/hiropon71010548/articles/3bdacc05fc477f",
     "source": "rss",
     "publishedAt": "2026-03-09T07:31:11.000Z",
-    "createdAt": "2026-05-18T23:37:23.618Z"
+    "createdAt": "2026-05-18T23:50:15.969Z"
   },
   {
-    "id": "article_mpbug9hk_81sjh7",
+    "id": "article_mpbuwtfq_49ldi2",
     "title": "Claude Codeに会話しながらZoom入退室をLI...",
     "summary": "はじめに 「Zoom会議に誰かが入ったら LINE に通知したい」というシンプルな要望を、Claude Code との会話だけで実装しました。 既存の「Google Calendar → LINE リマインド通知」システム（AWS CDK v2 / Python）があり、そこに Zoom 参加人数通...",
     "category": "meeting",
@@ -362,10 +362,10 @@
     "originalUrl": "https://zenn.dev/ougotti/articles/zoom-notify-line-claude-code",
     "source": "rss",
     "publishedAt": "2026-03-08T00:52:52.000Z",
-    "createdAt": "2026-05-18T23:37:23.720Z"
+    "createdAt": "2026-05-18T23:50:16.070Z"
   },
   {
-    "id": "article_mpbug9ke_qvnk9o",
+    "id": "article_mpbuwtim_uzy3b8",
     "title": "Zoom会議Save transcript完全自動化 -...",
     "summary": "はじめに \"あ、また保存し忘れた...\" Zoom会議が終わった後、この後悔を何度経験したでしょうか。自動文字起こし機能は素晴らしいのに、毎回「Save Transcript」ボタンをクリックしなければ失われてしまう。これは明らかに自動化すべき作業です。 そこで、完全に放置しても自動保存されるシ...",
     "category": "meeting",
@@ -375,10 +375,10 @@
     "originalUrl": "https://zenn.dev/zhu/articles/de61f120061d86",
     "source": "rss",
     "publishedAt": "2025-12-18T15:06:22.000Z",
-    "createdAt": "2026-05-18T23:37:23.822Z"
+    "createdAt": "2026-05-18T23:50:16.174Z"
   },
   {
-    "id": "article_mpbug9n7_tfwp5z",
+    "id": "article_mpbuwtlf_6a6v0k",
     "title": "Ubuntu 24.04 + OBS + Zoom で画...",
     "summary": "やりたいこと Zoom ミーティングで、普通の Web カメラ映像ではなく デスクトップ画面そのもの もしくは事前に録画したスクリーン録画動画 を 「カメラ映像」として常に流したい、というニーズがあります。 Ubuntu 24.04 でこれを実現するために、 OBS Studio v4l2lo...",
     "category": "meeting",
@@ -388,10 +388,10 @@
     "originalUrl": "https://zenn.dev/takashi1728/articles/cfef808e872248",
     "source": "rss",
     "publishedAt": "2025-11-14T18:15:11.000Z",
-    "createdAt": "2026-05-18T23:37:23.923Z"
+    "createdAt": "2026-05-18T23:50:16.275Z"
   },
   {
-    "id": "article_mpbug9q0_h81ecd",
+    "id": "article_mpbuwtoi_slmd2m",
     "title": "[備忘録]Zoom仮想背景画像をサルベージした[自分でア...",
     "summary": "こんにちは、よもぎたです。今日は実現できて個人的に嬉しかったことを書きます。 経緯 Zoomを使い始めた時に自分で仮想背景画像を作ったのですが、そのファイルが行方不明になってしまいました。 世の中、ZoomだけじゃなくTeamsとかGoogle meetもあります。それでも同じ仮想背景を使いた...",
     "category": "other",
@@ -401,10 +401,10 @@
     "originalUrl": "https://zenn.dev/th0x0472/articles/2624b249a068f8",
     "source": "rss",
     "publishedAt": "2025-10-28T12:36:46.000Z",
-    "createdAt": "2026-05-18T23:37:24.024Z"
+    "createdAt": "2026-05-18T23:50:16.386Z"
   },
   {
-    "id": "article_mpbug9st_8bmxat",
+    "id": "article_mpbuwtrb_w2j1t7",
     "title": "Zoom Webhook認証方式を理解する",
     "summary": "Webhook認証の必要性 Webhookは「プッシュ型API」として、リアルタイムなデータ連携を可能にする一方で、独特のセキュリティ課題を抱えています。通常のAPI呼び出しと異なり、Webhookでは受信者側がリクエストの発信者を制御できないため、なりすましや改ざん攻撃のリスクが高くなります。 Z...",
     "category": "security",
@@ -414,10 +414,10 @@
     "originalUrl": "https://zenn.dev/fitness_densuke/articles/2025-07-20-zoom-webhook-authentication",
     "source": "rss",
     "publishedAt": "2025-07-20T16:01:32.000Z",
-    "createdAt": "2026-05-18T23:37:24.125Z"
+    "createdAt": "2026-05-18T23:50:16.487Z"
   },
   {
-    "id": "article_mpbug9vl_7jh4wy",
+    "id": "article_mpbuwtu4_nuitfk",
     "title": "【リモートワーク】自分が最も効率良く動けるように対照実験...",
     "summary": "はじめに https://zenn.dev/noranuko13/articles/b30c8ed65e8e27 対象読者 在宅勤務・リモートワークをしている開発者向け。 対照実験を繰り返して最適解を得る 対照実験という言葉は、小中学校のときの理科の実験で聞いたことがある筈。似たよう...",
     "category": "other",
@@ -427,10 +427,10 @@
     "originalUrl": "https://zenn.dev/noranuko13/articles/458ebc65a293da",
     "source": "rss",
     "publishedAt": "2026-03-06T03:03:01.000Z",
-    "createdAt": "2026-05-18T23:37:24.225Z"
+    "createdAt": "2026-05-18T23:50:16.588Z"
   },
   {
-    "id": "article_mpbug9yf_3s86xy",
+    "id": "article_mpbuwtwx_by54yz",
     "title": "「私はいつでも隣にいます」：リモートワーカーが存在を信頼...",
     "summary": "2007年からWeb系開発に携わり始めて、そろそろ20年近く経つ。 様々な業務に関わったが、中でも一番良好な環境で働けたのは、2010年代後半に約4年間参画した職場だった。 先方は、自社サービスを持つ東京のIT企業だった。当時私は地方のITベンダー勤務で、SESの外部メンバーとして、フルリモートでチ...",
     "category": "integration",
@@ -440,10 +440,10 @@
     "originalUrl": "https://zenn.dev/hiiragi_goshiki/articles/d7a66008ce638b",
     "source": "rss",
     "publishedAt": "2026-03-03T23:55:27.000Z",
-    "createdAt": "2026-05-18T23:37:24.327Z"
+    "createdAt": "2026-05-18T23:50:16.689Z"
   },
   {
-    "id": "article_mpbuga19_1yolqw",
+    "id": "article_mpbuwtzq_ffqwv5",
     "title": "物理キーがないのに押せる？「F13キー」でWindows...",
     "summary": "背景・目的 在宅勤務でのちょっとした離席中や、別PCでのWeb会議中に、作業用PC（またはリモートデスクトップ接続先）の画面がスリープやロックされてしまい、パスワードを再入力するハメになった経験はありませんか？ 特に、セキュリティポリシーで数分でロックされる設定になっていると、地味にストレスが溜まり...",
     "category": "security",
@@ -453,23 +453,23 @@
     "originalUrl": "https://zenn.dev/kzshin/articles/d9742258a3bcf1",
     "source": "rss",
     "publishedAt": "2026-02-24T13:40:36.000Z",
-    "createdAt": "2026-05-18T23:37:24.429Z"
+    "createdAt": "2026-05-18T23:50:16.790Z"
   },
   {
-    "id": "article_mpbuga43_2mb01x",
+    "id": "article_mpbuwu2k_kyrh6y",
     "title": "OpenClawが怖いのでafk-codeでEC2のCl...",
     "summary": "はじめに 最近、「スマホからClaude Codeを遠隔操作したい」というニーズが急速に高まっています。EC2やMac mini上でClaude Codeを動かしておいて、外出先からTelegramやSlackでチャットしながら作業を進められたら最高ですよね。 このジャンルの代表格といえば Open...",
-    "category": "chat",
+    "category": "phone",
     "tips": [
       "Slack連携で効率化"
     ],
     "originalUrl": "https://zenn.dev/daishiro/articles/afk-code-telegram-claude-code",
     "source": "rss",
     "publishedAt": "2026-02-20T08:54:37.000Z",
-    "createdAt": "2026-05-18T23:37:24.531Z"
+    "createdAt": "2026-05-18T23:50:16.892Z"
   },
   {
-    "id": "article_mpbuga6w_tw9zs9",
+    "id": "article_mpbuwu5e_vuqo1l",
     "title": "【リモートワーク】賃貸選びの条件説明が面倒なので、記事に...",
     "summary": "はじめに https://zenn.dev/noranuko13/articles/b30c8ed65e8e27 対象読者 他のITエンジニアの賃貸選び条件に興味がある方向け。 次の更新まで半年を切ったので、ぼちぼち今より安いところに引越を検討中。とはいえ毎回、大幅に条件も変わらないので、...",
     "category": "other",
@@ -479,10 +479,10 @@
     "originalUrl": "https://zenn.dev/noranuko13/articles/eeb0d2af514df4",
     "source": "rss",
     "publishedAt": "2026-02-06T03:03:01.000Z",
-    "createdAt": "2026-05-18T23:37:24.632Z"
+    "createdAt": "2026-05-18T23:50:16.994Z"
   },
   {
-    "id": "article_mpbuga9p_evwiok",
+    "id": "article_mpbuwu86_m5wdal",
     "title": "フルリモートで「周りが敵に見えた」私が、月1の終日コワー...",
     "summary": "はじめに 私は札幌市在住のエンジニアとして、東京にあるアイデアログ開発チームにフルリモートで参加しています。 この記事では、私自身が経験したリモートワーク特有の心理的な課題と、それをきっかけに始めた取り組みについてお話しします。 長期リモートワークで起きた「錯覚」 開発プロジェクトを進める中で、...",
     "category": "integration",
@@ -492,10 +492,10 @@
     "originalUrl": "https://zenn.dev/idealog/articles/b2f1e649fbbdb3",
     "source": "rss",
     "publishedAt": "2026-01-30T02:25:38.000Z",
-    "createdAt": "2026-05-18T23:37:24.733Z"
+    "createdAt": "2026-05-18T23:50:17.094Z"
   },
   {
-    "id": "article_mpbugacj_7ok05p",
+    "id": "article_mpbuwuaz_vgt5sa",
     "title": "8時間デスクにいても成果は出ない：エンジニアの時間管理を...",
     "summary": "リモートワークを5年ほど続けてきて、最近ふと考えることがあります。 「1日8時間働く」という前提、本当にエンジニアの仕事に合っているんだろうか。 結論から言うと、時間で区切る働き方は知識労働には向いていない部分があると感じています。なぜそう思うのか、自分がどう時間を使っているか、書いてみます。",
     "category": "other",
@@ -505,10 +505,10 @@
     "originalUrl": "https://zenn.dev/y_takashi/articles/1d723a2888f5ed",
     "source": "rss",
     "publishedAt": "2026-01-14T13:02:36.000Z",
-    "createdAt": "2026-05-18T23:37:24.835Z"
+    "createdAt": "2026-05-18T23:50:17.195Z"
   },
   {
-    "id": "article_mpbugafd_lc1209",
+    "id": "article_mpbuwudt_52q6ks",
     "title": "リモートワークだと、チームワークを維持するのは難しいのか？",
     "summary": "リモートワークだと、チームワークを維持するのは難しいのか？ 結論から言うと、難しい。 ただしそれは、リモートワークという働き方そのものが問題だからではない。 リモートワークでは、チームを支えているコンテキストが維持されにくいからだ。 リモートワークでは、コンテキストが自然に共有されない 対面で仕...",
     "category": "other",
@@ -518,23 +518,23 @@
     "originalUrl": "https://zenn.dev/jugyo/articles/8eb0bac50b4f27",
     "source": "rss",
     "publishedAt": "2025-12-15T14:52:28.000Z",
-    "createdAt": "2026-05-18T23:37:24.937Z"
+    "createdAt": "2026-05-18T23:50:17.297Z"
   },
   {
-    "id": "article_mpbugai6_23d5i1",
+    "id": "article_mpbuwugm_z2300w",
     "title": "【オンラインMTG】聞こえない・止まるを防ぐ！絶対確認す...",
     "summary": "テレワークやオンラインミーティングが当たり前になりましたが、通話中に「え、今なんて言いました?」「画面が固まってます」といったトラブルで会話が中断すること、ありませんか? 私は普段オンラインで会話をする機会が多いのですが、会話が困難な環境のまま参加されている方をたまに見かけます。 厳しいことを言うよ...",
-    "category": "meeting",
+    "category": "phone",
     "tips": [
       "詳細は元の記事をご確認ください"
     ],
     "originalUrl": "https://zenn.dev/imohuke/articles/online-meeting-checklist-no-stress",
     "source": "rss",
     "publishedAt": "2025-12-12T05:16:53.000Z",
-    "createdAt": "2026-05-18T23:37:25.038Z"
+    "createdAt": "2026-05-18T23:50:17.399Z"
   },
   {
-    "id": "article_mpbugal0_wg0fez",
+    "id": "article_mpbuwujg_besgdg",
     "title": "AWSの利用料を週次でSlackに自動通知する",
     "summary": "AWSを使っていると、気づいたら思わぬコストが発生していることがあります。 Cost Explorerを開けば確認できるのはわかっているのですが、正直なところ自動的に配信される楽さに勝るものはありません。最近は何でもかんでも自動化する時代なのです。 そこで「向こうから教えてくれる仕組み」を作ることに...",
     "category": "integration",
@@ -544,10 +544,10 @@
     "originalUrl": "https://zenn.dev/suit9/articles/80e6a8510541f3",
     "source": "rss",
     "publishedAt": "2026-05-18T13:29:49.000Z",
-    "createdAt": "2026-05-18T23:37:25.140Z"
+    "createdAt": "2026-05-18T23:50:17.500Z"
   },
   {
-    "id": "article_mpbuganu_6x7jg2",
+    "id": "article_mpbuwuma_w2yqwk",
     "title": "OpenClawでX上のデイリー情報収集→要約→Slac...",
     "summary": "概要 OpenClaw と X API を組み合わせることで、X（Twitter）上のデイリー情報収集という毎日のワークフローをスケジュールジョブの形で自動化してみました。 本記事は主に 2 つの部分に分けられています。前半は主にクイックキャッチアップとして、OpenClaw の概念、VPS でイン...",
     "category": "integration",
@@ -557,10 +557,10 @@
     "originalUrl": "https://zenn.dev/givery_ai_lab/articles/347dba95e0bb60",
     "source": "rss",
     "publishedAt": "2026-05-15T05:50:36.000Z",
-    "createdAt": "2026-05-18T23:37:25.242Z"
+    "createdAt": "2026-05-18T23:50:17.602Z"
   },
   {
-    "id": "article_mpbugaqo_xklvwg",
+    "id": "article_mpbuwup4_u34fwo",
     "title": "AIキャッチアップがしんどいので、毎朝SlackにAI朝...",
     "summary": "AIのキャッチアップ、しんどい。 エンジニアとして情けない話ですが、そう思って気分が落ち込む朝がたまにあります。 新しいモデルやAIエディタ、MCP、エージェント実装、各社のアップデートに加えて、毎日のように流れてくる比較記事まで——その中から目を通しておくべき記事を挙げ始めたら、きりがありません。",
     "category": "integration",
@@ -571,10 +571,10 @@
     "originalUrl": "https://zenn.dev/esta_dev/articles/a11b5c05cc6d69",
     "source": "rss",
     "publishedAt": "2026-05-14T03:38:12.000Z",
-    "createdAt": "2026-05-18T23:37:25.344Z"
+    "createdAt": "2026-05-18T23:50:17.704Z"
   },
   {
-    "id": "article_mpbugati_scqcum",
+    "id": "article_mpbuwurz_s3plu7",
     "title": "Notion Custom AgentsでDifyヘルプ...",
     "summary": "はじめに 私たちはコンサルティング/SI事業者として、エンタープライズ企業の生成AI活用支援を行っています。中でも Dify公式販売パートナー として、Difyを導入されたクライアント企業に対して問い合わせ窓口を提供しており、日々さまざまな技術相談や運用相談を受けています。 この社内のDifyヘルプ...",
     "category": "integration",
@@ -585,10 +585,10 @@
     "originalUrl": "https://zenn.dev/upgradetech/articles/bb344f5bc34108",
     "source": "rss",
     "publishedAt": "2026-05-13T06:32:08.000Z",
-    "createdAt": "2026-05-18T23:37:25.446Z"
+    "createdAt": "2026-05-18T23:50:17.807Z"
   },
   {
-    "id": "article_mpbugawc_e8esgg",
+    "id": "article_mpbuwuus_phsh3b",
     "title": "Slackコマンド1つで運用自走 — 社内バッチ基盤「B...",
     "summary": "はじめに 学習塾検索サイト「塾選」を運営するDeltaXでは、日々の運用タスクを Slackスラッシュコマンドから実行できる社内バッチ基盤「BatchWave」 を2024年7月から開発、8月末から運用しています。 本記事では、BatchWaveが生まれた背景、3つのメジャーバージョンそれぞれで直面...",
     "category": "integration",
@@ -598,10 +598,10 @@
     "originalUrl": "https://zenn.dev/deltax/articles/66ccea89eba1e0",
     "source": "rss",
     "publishedAt": "2026-05-13T03:11:37.000Z",
-    "createdAt": "2026-05-18T23:37:25.548Z"
+    "createdAt": "2026-05-18T23:50:17.908Z"
   },
   {
-    "id": "article_mpbugaz5_kpbqii",
+    "id": "article_mpbuwuxm_fbm3qe",
     "title": "フォーム回答のSlack通知をMCPワークフロー境界とし...",
     "summary": "フォーム回答をSlackに通知する実装は、単体で見ると難しくありません。 Webhook URLを用意して、回答が届いたタイミングでJSONをPOSTすれば、チャンネルに通知は出ます。 ただ、MCPサーバーやAIエージェント連携として設計する場合、問題は「Slackに送れるか」ではありません。 問...",
     "category": "integration",
@@ -612,10 +612,10 @@
     "originalUrl": "https://zenn.dev/lova_man/articles/3405c80157da2b",
     "source": "rss",
     "publishedAt": "2026-05-12T02:55:30.000Z",
-    "createdAt": "2026-05-18T23:37:25.649Z"
+    "createdAt": "2026-05-18T23:50:18.010Z"
   },
   {
-    "id": "article_mpbugb21_to177b",
+    "id": "article_mpbuwv0g_x6szit",
     "title": "Agent Platform + ADK で Slack...",
     "summary": "1. はじめに はじめまして。tequila0725 と申します。 普段はスマートフォン向けゲームの運用に、サーバサイドエンジニアとして携わっています。 余暇時間を使い、Claude Code に Slack 駐在 AI Bot アプリを実装してもらいました。 きっかけ きっかけは、以下の Ze...",
     "category": "integration",
@@ -626,10 +626,10 @@
     "originalUrl": "https://zenn.dev/tequila725/articles/slack-ai-claude-code-implementation",
     "source": "rss",
     "publishedAt": "2026-05-11T11:53:14.000Z",
-    "createdAt": "2026-05-18T23:37:25.753Z"
+    "createdAt": "2026-05-18T23:50:18.112Z"
   },
   {
-    "id": "article_mpbugb4u_nm4l8g",
+    "id": "article_mpbuwv3a_veohtl",
     "title": "AWS DevOps AgentのインシデントをSlac...",
     "summary": "はじめに 本記事はAWS DevOps AgentのPoCを4回に分けて解説するシリーズの**最終回（第4回）**です。 前回（第3回）まではCloudWatch Alarm → Webhook経由でAgentの調査を自動トリガーする構成を構築しました。今回はDevOps AgentをSlackのプ...",
     "category": "integration",
@@ -639,10 +639,10 @@
     "originalUrl": "https://zenn.dev/sunaaaap/articles/68b49a156b9622",
     "source": "rss",
     "publishedAt": "2026-05-09T03:00:06.000Z",
-    "createdAt": "2026-05-18T23:37:25.854Z"
+    "createdAt": "2026-05-18T23:50:18.214Z"
   },
   {
-    "id": "article_mpbugb7m_zu9ibp",
+    "id": "article_mpbuwv64_tuxt8z",
     "title": "AI仕様駆動開発ハンズオン──Slack botで学ぶコ...",
     "summary": "「AIにコードを書かせる」を仕様駆動で破綻させない本。 申請・承認フロー Slack bot を題材に、MASTER/PROJECT/ARCHITECTURE/DOMAIN/PATTERNS/TESTING/DEPLOYMENT のコア7文書を1章ずつ手を動かして埋めていきます。 各章はサンプルリポ...",
     "category": "integration",
@@ -653,10 +653,10 @@
     "originalUrl": "https://zenn.dev/futoka/books/ai-spec-driven-development",
     "source": "rss",
     "publishedAt": "2026-05-09T01:39:34.000Z",
-    "createdAt": "2026-05-18T23:37:25.954Z"
+    "createdAt": "2026-05-18T23:50:18.316Z"
   },
   {
-    "id": "article_mpbugbag_cjj97y",
+    "id": "article_mpbuwv8y_m0z3mr",
     "title": "Claude Code × MCPでGA4レポートを毎朝...",
     "summary": "はじめに 「毎朝GA4のダッシュボードを開いて、昨日のセッション数やCV数を目視で確認している」 この作業、地味に面倒ではないでしょうか。数字を見るだけなら数分で終わりますが、前日比を計算したり、チャネル別の変化を把握したりすると、気づけば15分以上かかっていることもあります。 この記事では、Big...",
     "category": "integration",
@@ -666,10 +666,10 @@
     "originalUrl": "https://zenn.dev/web_benriya/articles/claude-code-mcp-ga4-slack-daily-report",
     "source": "rss",
     "publishedAt": "2026-05-06T10:09:52.000Z",
-    "createdAt": "2026-05-18T23:37:26.056Z"
+    "createdAt": "2026-05-18T23:50:18.418Z"
   },
   {
-    "id": "article_mpbugbd9_sc3zes",
+    "id": "article_mpbuwvbr_csndrb",
     "title": "Zoomが月額25円から年間4,000億円の企業へ。驚異...",
     "summary": "「ZoomでMTG予定あります？」 2024年現在、この一言は世界中のオフィスで日常になった。 でもちょっと考えてみてほしい。 Zoomって、ほぼ無料で使えるのに、どうやってこんな巨大な利益を生み出してるんだろう？ 続きをみる...",
     "category": "other",
@@ -679,10 +679,10 @@
     "originalUrl": "https://note.com/tom_nikki11/n/n1976868380fc",
     "source": "rss",
     "publishedAt": "2026-05-18T22:45:21.000Z",
-    "createdAt": "2026-05-18T23:37:26.157Z"
+    "createdAt": "2026-05-18T23:50:18.519Z"
   },
   {
-    "id": "article_mpbugbg4_i70x30",
+    "id": "article_mpbuwvel_b6xevn",
     "title": "【個別Zoomは自信ありますか？】",
     "summary": "オンライン交流会に参加した後は 「個別Zoom」 続きをみる...",
     "category": "other",
@@ -692,10 +692,10 @@
     "originalUrl": "https://note.com/greensmile/n/n33ee7cc1a71e",
     "source": "rss",
     "publishedAt": "2026-05-18T22:31:08.000Z",
-    "createdAt": "2026-05-18T23:37:26.260Z"
+    "createdAt": "2026-05-18T23:50:18.621Z"
   },
   {
-    "id": "article_mpbugbiy_v7uo2z",
+    "id": "article_mpbuwvhe_ojnnta",
     "title": "5/22(金)14:15〜『無料ZOOMお茶会』やってみます",
     "summary": "知り合いに週４勤務の話をしていたら、 ・週４勤務になると給料は減ってしまうの？ ・社会保険はどうなるの？ ・社内でどのくらいの人が週４勤務してる？ ・週４勤務になると給料が減ると思うが、選択する前に家族とどのような話をした？ ・週４勤務をしようと思った理由と実際にやると決めたきっかけ。 ・週４勤務に...",
     "category": "other",
@@ -705,10 +705,10 @@
     "originalUrl": "https://note.com/taaaacchan/n/n049d193b7c06",
     "source": "rss",
     "publishedAt": "2026-05-18T22:01:49.000Z",
-    "createdAt": "2026-05-18T23:37:26.362Z"
+    "createdAt": "2026-05-18T23:50:18.722Z"
   },
   {
-    "id": "article_mpbugblr_81x52b",
+    "id": "article_mpbuwvk8_7em938",
     "title": "ものすごい人に会っちゃった❣️",
     "summary": "スレッズで投稿が上がってきて？ とんとん拍子に話が進んで、当日の夜にzoomすることになったイサさん https://www.threads.com/@isa__o2712?igshid=NTc4MTIwNjQ2YQ== まぁ、これが、zoomしてみると、面白い🤣 続きをみる...",
     "category": "other",
@@ -718,10 +718,10 @@
     "originalUrl": "https://note.com/major_akko/n/nd81b912897dd",
     "source": "rss",
     "publishedAt": "2026-05-18T13:47:04.000Z",
-    "createdAt": "2026-05-18T23:37:26.463Z"
+    "createdAt": "2026-05-18T23:50:18.824Z"
   },
   {
-    "id": "article_mpbugbom_phrsli",
+    "id": "article_mpbuwvn2_zhgozg",
     "title": "副業で65万円を失いかけた話",
     "summary": "✳︎きっかけ ある日、副業アプリでこんな案件を見つけました。 「初心者大歓迎」 「簡単なAI動画の作成」 「技術を丁寧に教えます」 「継続あり」 魅力的な文言が並んでいました。 今思うと怪しいですが当時のあたしは 切羽詰まっていました。。 案件に応募し、担当書とzoom連絡。 AIアプリを使えばすぐ...",
     "category": "productivity",
@@ -731,10 +731,10 @@
     "originalUrl": "https://note.com/light_wasp5466/n/ncc9200cd443d",
     "source": "rss",
     "publishedAt": "2026-05-18T12:34:37.000Z",
-    "createdAt": "2026-05-18T23:37:26.566Z"
+    "createdAt": "2026-05-18T23:50:18.926Z"
   },
   {
-    "id": "article_mpbugbrf_dikq0x",
+    "id": "article_mpbuwvpw_8zvbsx",
     "title": "note記事をプログラミングせよ。Zoom録画から記事化...",
     "summary": "AIで記事を書くときに難しいのは、文章そのものよりも「素材をどう渡すか」です。 最初からきれいな構成案を作ろうとすると、記事を書く前に疲れます。逆に、雑なメモや録画だけをAIに投げると、読者に渡せる品質にならないこともあります。 続きをみる...",
     "category": "productivity",
@@ -744,10 +744,10 @@
     "originalUrl": "https://note.com/meru2002/n/ne3356c79fafb",
     "source": "rss",
     "publishedAt": "2026-05-18T05:01:24.000Z",
-    "createdAt": "2026-05-18T23:37:26.667Z"
+    "createdAt": "2026-05-18T23:50:19.028Z"
   },
   {
-    "id": "article_mpbugbu8_z978gq",
+    "id": "article_mpbuwvsq_zdciby",
     "title": "仏教でいう心の話",
     "summary": "意外かもしれないが 心や、意識や、思考について 仏教では非常に科学的に説明している。 信仰がどうのというより 心のあり方、 意識を含めた知覚が対象を認識する方法、 思考によるイメージの捉え方や それ故におこる思い込みなど、 心、意識という対象を台にのせて 客観的にどういうものであるかを精査してい...",
     "category": "other",
@@ -757,10 +757,10 @@
     "originalUrl": "https://note.com/dechenblog/n/n7135f2e2e484",
     "source": "rss",
     "publishedAt": "2026-05-18T03:41:39.000Z",
-    "createdAt": "2026-05-18T23:37:26.768Z"
+    "createdAt": "2026-05-18T23:50:19.130Z"
   },
   {
-    "id": "article_mpbugbx2_4cup6g",
+    "id": "article_mpbuwvvk_vsqcbe",
     "title": "「Zoom登録できません」——2週間、AIが黙って止まっ...",
     "summary": "「Zoom登録できません」——2週間、AIが黙って止まっていた話 もしあなたが今、何かの業務をAIに「任せている」つもりなら——今日中に、その機能を実際に動かして確認してください。 続きをみる...",
     "category": "productivity",
@@ -770,10 +770,10 @@
     "originalUrl": "https://note.com/restar10/n/n8e5ab9833d30",
     "source": "rss",
     "publishedAt": "2026-05-17T22:30:13.000Z",
-    "createdAt": "2026-05-18T23:37:26.870Z"
+    "createdAt": "2026-05-18T23:50:19.232Z"
   },
   {
-    "id": "article_mpbugbzv_zihvmt",
+    "id": "article_mpbuwvyd_7hhsk8",
     "title": "Zoomの自己紹介を「物語」に変える。9枚の写真ワーク",
     "summary": "オンラインの場で「では、順番に自己紹介をお願いします」と言われることがあります。 名前。所属。最近関心のあること。今日参加した理由。 続きをみる...",
     "category": "other",
@@ -783,10 +783,10 @@
     "originalUrl": "https://note.com/mtazawa/n/n1104371c44bd",
     "source": "rss",
     "publishedAt": "2026-05-17T21:30:00.000Z",
-    "createdAt": "2026-05-18T23:37:26.971Z"
+    "createdAt": "2026-05-18T23:50:19.333Z"
   },
   {
-    "id": "article_mpbugc2p_0ungm6",
+    "id": "article_mpbuww17_eg5kkv",
     "title": "タイミング逃さず出来る事を一緒に楽しむ",
     "summary": "今日は、珍しく法務無く、夕方からのzoom会議のみゆえ寺で雑務の予定でしたが、長女が次女三女と共にライブに行く事と孫①が水泳の大会ありパパと出かけ、孫②、孫③、孫④を見る者が居ないとなり、2時から寺の方に３人来たので、せっかくゆえ、白い大きめの紙に私がザックリと鯉のぼりを描き、3人に色付けを頼みまし...",
     "category": "meeting",
@@ -796,10 +796,10 @@
     "originalUrl": "https://note.com/katombo44/n/n00fbaba8c2cc",
     "source": "rss",
     "publishedAt": "2026-05-17T12:47:51.000Z",
-    "createdAt": "2026-05-18T23:37:27.073Z"
+    "createdAt": "2026-05-18T23:50:19.435Z"
   },
   {
-    "id": "article_mpbugc5j_1x83t3",
+    "id": "article_mpbuww42_qp6i1k",
     "title": "【徹底解説】AOPEN 16PM1QBbmiuuxは買い...",
     "summary": "※本記事には楽天・Amazonなどのプロモーションが含まれています。 テレワークの普及やノマドワークの増加に伴い、「ノートパソコンの画面だけでは作業スペースが足りない」「外出先でもデュアルモニター環境を作りたい」と悩む方が増えています。 続きをみる...",
     "category": "other",
@@ -809,10 +809,10 @@
     "originalUrl": "https://note.com/shinkouya_1453/n/n07c227f5e663",
     "source": "rss",
     "publishedAt": "2026-05-18T21:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:27.175Z"
+    "createdAt": "2026-05-18T23:50:19.538Z"
   },
   {
-    "id": "article_mpbugc8c_pqejp6",
+    "id": "article_mpbuww6w_3apsov",
     "title": "テレワークで質問のハードルが上がった時にやってる3つの工夫",
     "summary": "新人時代、私は質問のチャットを打つのに1時間かけたことがある人間です。 「すいません、○○について質問なんですが…」と書いては消し、書いては消し、結局送れずに半日が溶けた経験は、過去の記事にも書きました。 続きをみる...",
     "category": "chat",
@@ -822,10 +822,10 @@
     "originalUrl": "https://note.com/real_hosta768/n/nff6ca4fd882b",
     "source": "rss",
     "publishedAt": "2026-05-18T14:10:37.000Z",
-    "createdAt": "2026-05-18T23:37:27.276Z"
+    "createdAt": "2026-05-18T23:50:19.640Z"
   },
   {
-    "id": "article_mpbugcb6_1yced7",
+    "id": "article_mpbuww9q_la2oua",
     "title": "東京を離れる、私たちのもうひとつの居場所。データで見る「...",
     "summary": "「いつかは、都心を離れて自然豊かな場所に拠点を持ちたい」 そんな風に思ったことはありませんか？ コロナ期には、「密」を避けるために、軽井沢や箱根といった、別荘地の問い合わせを多くいただきました。近年、リモートワークの定着やライフスタイルの多様化によって、別荘や二拠点生活（デュアルライフ）がぐっと身...",
     "category": "other",
@@ -835,10 +835,10 @@
     "originalUrl": "https://note.com/my_koukishin237/n/n44d5c3d3d1f9",
     "source": "rss",
     "publishedAt": "2026-05-18T12:30:41.000Z",
-    "createdAt": "2026-05-18T23:37:27.378Z"
+    "createdAt": "2026-05-18T23:50:19.742Z"
   },
   {
-    "id": "article_mpbugce0_ge2lor",
+    "id": "article_mpbuwwcl_14uu87",
     "title": "フレックスタイム・テレワークの罠。制度を使いこなし、夫婦...",
     "summary": "育休からの復職を控えた時期、あるいは復職直後のカオスな日々のなかで、多くの共働き夫婦が希望を託す制度があります。 それがフレックスタイム制とテレワーク（在宅勤務）です。 通勤時間が消え、中抜けや時間の前倒し・後ろ倒しができるこの仕組みは、一見すると仕事と育児の両立を完璧に叶える魔法のチケットのように...",
     "category": "integration",
@@ -848,10 +848,10 @@
     "originalUrl": "https://note.com/fufu_yohaku/n/ncee2590febeb",
     "source": "rss",
     "publishedAt": "2026-05-18T10:50:02.000Z",
-    "createdAt": "2026-05-18T23:37:27.480Z"
+    "createdAt": "2026-05-18T23:50:19.845Z"
   },
   {
-    "id": "article_mpbugcgu_nriub1",
+    "id": "article_mpbuwwfe_4ri2u6",
     "title": "夏のテレワーク、お尻のムレが集中力を奪ってた話",
     "summary": "※本記事はアフィリエイト広告を含みます（PR）。 こんにちは！ 続きをみる...",
     "category": "other",
@@ -861,10 +861,10 @@
     "originalUrl": "https://note.com/today_try_ai/n/n1d0936291e62",
     "source": "rss",
     "publishedAt": "2026-05-18T06:01:33.000Z",
-    "createdAt": "2026-05-18T23:37:27.583Z"
+    "createdAt": "2026-05-18T23:50:19.946Z"
   },
   {
-    "id": "article_mpbugcjo_n55tjt",
+    "id": "article_mpbuwwi8_ak6st6",
     "title": "【テレワーク雑記 vol.26】関係人口は、「暮らし」の...",
     "summary": "最近、「関係人口」という言葉を改めてよく考えています。 前回の雑記では、働く場所を「点」ではなく「面」で捉えるようになってきた、という話を書きました。 東京、三重、大阪、京都、そして八丈島。移動しているようでいて、全部が地続きになっている。そんな感覚です。 続きをみる...",
     "category": "other",
@@ -874,10 +874,10 @@
     "originalUrl": "https://note.com/japan_telework/n/n78e4f827c386",
     "source": "rss",
     "publishedAt": "2026-05-18T04:43:31.000Z",
-    "createdAt": "2026-05-18T23:37:27.684Z"
+    "createdAt": "2026-05-18T23:50:20.048Z"
   },
   {
-    "id": "article_mpbugcmg_cygbag",
+    "id": "article_mpbuwwl2_k6r6p4",
     "title": "Web会議の「映り・聞こえ・見た目」を全部改善！おすすめ...",
     "summary": "こんにちは。まめすけです！ 「Web会議で『聞こえにくい』と言われた」 「画面が暗くて表情が見えない」 「背景が散らかっていて恥ずかしい」 続きをみる...",
     "category": "meeting",
@@ -887,10 +887,10 @@
     "originalUrl": "https://note.com/lithe_viper8252/n/n7596e086ddc2",
     "source": "rss",
     "publishedAt": "2026-05-18T02:10:07.000Z",
-    "createdAt": "2026-05-18T23:37:27.784Z"
+    "createdAt": "2026-05-18T23:50:20.150Z"
   },
   {
-    "id": "article_mpbugcpa_9au8sh",
+    "id": "article_mpbuwwnx_iuqbz1",
     "title": "【社員募集中】テレワーク中心ワーママの弊社での１日につい...",
     "summary": "こんにちは！ 東京オフィス戸嶋です。 小学生と保育園児の子をもつワーママです。 弊社は東京と札幌にオフィスがあり、 社員は10名にも満たない小さい会社です。 営業職・開発職ともに社員募集中のため、 何かの参考になるのかわかりませんが、私の働き方などを雑記してみます。 ほんとにありがとう会社。 続き...",
     "category": "other",
@@ -900,10 +900,10 @@
     "originalUrl": "https://note.com/noiltex_blog/n/n5b3ee2696920",
     "source": "rss",
     "publishedAt": "2026-05-17T23:37:57.000Z",
-    "createdAt": "2026-05-18T23:37:27.886Z"
+    "createdAt": "2026-05-18T23:50:20.253Z"
   },
   {
-    "id": "article_mpbugcs4_gdid6q",
+    "id": "article_mpbuwwqq_rqlcmq",
     "title": "テレワーク時代、我々の下半身は想像以上に危険かもしれない",
     "summary": "最近、平日は普通に9時から23時くらいまで自宅でテレワークしている。 それだけでキツイな〜って思うことも増えたけど、子を持つと週末はさらに離乳食作りやら1週間分の食料品の買い物やら大人分の食事の準備やらで、てんてこ舞いで終わっていく。 続きをみる...",
     "category": "other",
@@ -913,10 +913,10 @@
     "originalUrl": "https://note.com/papa_saka/n/n1d70a8df5c4e",
     "source": "rss",
     "publishedAt": "2026-05-17T13:53:11.000Z",
-    "createdAt": "2026-05-18T23:37:27.988Z"
+    "createdAt": "2026-05-18T23:50:20.354Z"
   },
   {
-    "id": "article_mpbugcuy_ka74a3",
+    "id": "article_mpbuwwtk_ej83fv",
     "title": "Wi-Fi 7、最新規格に飛びつく前に考えてほしい3つのこと",
     "summary": "「ネット環境」は副業の見えないインフラ 副業を始めようか迷っているとき、多くの人はスキルや時間の確保ばかり考えます。でも実際に走り出してみると、地味に効いてくるのが通信環境です。Web会議が固まる、ファイルのアップロードに時間を取られる、画面共有がカクつく——こうした小さなストレスは、副業のように「...",
     "category": "meeting",
@@ -926,10 +926,10 @@
     "originalUrl": "https://note.com/brainy_sage6526/n/n12027a9aa0c5",
     "source": "rss",
     "publishedAt": "2026-05-17T11:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:28.090Z"
+    "createdAt": "2026-05-18T23:50:20.456Z"
   },
   {
-    "id": "article_mpbugcxs_pgpq91",
+    "id": "article_mpbuwwwf_8ro8y8",
     "title": "第3月曜日のエレベーター",
     "summary": "今日は月曜日。 リモートワーク後、ジムに行くつもりで、いつも通りの時間に家を出た。 仕事の疲れはあるが、ストレッチをして筋トレをするのだ。そのほうが却って疲れが取れる気がする。気温も高くなったし、気持ち良く汗がかけるだろう。スッキリして帰る自分を想像する。 続きをみる...",
     "category": "other",
@@ -939,10 +939,10 @@
     "originalUrl": "https://note.com/calm_koala2462/n/n49b7bef3a6d8",
     "source": "rss",
     "publishedAt": "2026-05-18T22:37:16.000Z",
-    "createdAt": "2026-05-18T23:37:28.192Z"
+    "createdAt": "2026-05-18T23:50:20.559Z"
   },
   {
-    "id": "article_mpbugd0m_hghryg",
+    "id": "article_mpbuwwz8_wf6nuu",
     "title": "在宅勤務の一日《１９：３０就寝》",
     "summary": "6:20 腹をくくって起床。 朝の家事をこなす。 乾太くんのおかげで、始業前には洗濯物は畳み終わっている。 続きをみる...",
     "category": "other",
@@ -952,10 +952,10 @@
     "originalUrl": "https://note.com/nadapunto888/n/n6899dfd5fb77",
     "source": "rss",
     "publishedAt": "2026-05-18T22:14:14.000Z",
-    "createdAt": "2026-05-18T23:37:28.294Z"
+    "createdAt": "2026-05-18T23:50:20.660Z"
   },
   {
-    "id": "article_mpbugd3g_sdeeer",
+    "id": "article_mpbuwx22_gckg27",
     "title": "周りの人のリモート環境",
     "summary": "💻出勤したから聞けた話 久しぶりに出勤した時、みんなどんな環境でリモートワークしているのかという話になった。 続きをみる...",
     "category": "other",
@@ -965,10 +965,10 @@
     "originalUrl": "https://note.com/miu_notes/n/n8bf42b987636",
     "source": "rss",
     "publishedAt": "2026-05-18T22:09:28.000Z",
-    "createdAt": "2026-05-18T23:37:28.396Z"
+    "createdAt": "2026-05-18T23:50:20.762Z"
   },
   {
-    "id": "article_mpbugd6a_ldj8hh",
+    "id": "article_mpbuwx4w_52qeg6",
     "title": "旅する日本語教師ストーリーで学ぶ、海外リモートワークのリ...",
     "summary": "「海外で働きながら、自由に暮らす。」 そんな働き方に憧れていても、 英語に自信がない リモートワークの始め方が分からない 副業につながるスキルがない 続きをみる...",
     "category": "other",
@@ -978,10 +978,10 @@
     "originalUrl": "https://note.com/note_shun1/n/nf545c0507a37",
     "source": "rss",
     "publishedAt": "2026-05-18T20:32:14.000Z",
-    "createdAt": "2026-05-18T23:37:28.498Z"
+    "createdAt": "2026-05-18T23:50:20.864Z"
   },
   {
-    "id": "article_mpbugd94_84gekl",
+    "id": "article_mpbuwx7p_xojy6a",
     "title": "【徹底解説】AOPEN 16PM1QBbmiuuxは買い...",
     "summary": "※本記事には楽天・Amazonなどのプロモーションが含まれています。 テレワークの普及やノマドワークの増加に伴い、「ノートパソコンの画面だけでは作業スペースが足りない」「外出先でもデュアルモニター環境を作りたい」と悩む方が増えています。 続きをみる...",
     "category": "other",
@@ -991,10 +991,10 @@
     "originalUrl": "https://note.com/shinkouya_1453/n/n07c227f5e663",
     "source": "rss",
     "publishedAt": "2026-05-18T21:00:00.000Z",
-    "createdAt": "2026-05-18T23:37:28.600Z"
+    "createdAt": "2026-05-18T23:50:20.965Z"
   },
   {
-    "id": "article_mpbugdby_nnnnar",
+    "id": "article_mpbuwxai_h8v5vi",
     "title": "テレワークで質問のハードルが上がった時にやってる3つの工夫",
     "summary": "新人時代、私は質問のチャットを打つのに1時間かけたことがある人間です。 「すいません、○○について質問なんですが…」と書いては消し、書いては消し、結局送れずに半日が溶けた経験は、過去の記事にも書きました。 続きをみる...",
     "category": "chat",
@@ -1004,10 +1004,10 @@
     "originalUrl": "https://note.com/real_hosta768/n/nff6ca4fd882b",
     "source": "rss",
     "publishedAt": "2026-05-18T14:10:37.000Z",
-    "createdAt": "2026-05-18T23:37:28.702Z"
+    "createdAt": "2026-05-18T23:50:21.066Z"
   },
   {
-    "id": "article_mpbugdes_clzwz7",
+    "id": "article_mpbuwxdc_t4rrw0",
     "title": "地方リモートワークだと、投資に回せるお金が増える？可処分...",
     "summary": "こんにちは、ゆるかぶです。（13本目） 前回、こどもNISAの口座開設について調べてみました。今回はちょっと視点を変えて、「住んでいる場所によって、手元に残るお金って変わるのでは」という話を書いてみます。 続きをみる...",
     "category": "other",
@@ -1017,10 +1017,10 @@
     "originalUrl": "https://note.com/yurukabu/n/n6180a8d50ec2",
     "source": "rss",
     "publishedAt": "2026-05-18T13:49:42.000Z",
-    "createdAt": "2026-05-18T23:37:28.804Z"
+    "createdAt": "2026-05-18T23:50:21.168Z"
   },
   {
-    "id": "article_mpbugdhl_67k6k3",
+    "id": "article_mpbuwxg5_khorq7",
     "title": "フリーランス5年→年収900万会社員×フリーランスになっ...",
     "summary": "はじめまして、みぃみぃです。 グラフィックデザイナーとして10年以上働いていて今はフリーランスと会社員を掛け持ちしながら、都内でリモートワーク中心の暮らしをしています。 続きをみる...",
     "category": "other",
@@ -1030,10 +1030,10 @@
     "originalUrl": "https://note.com/miymiy_design/n/nb3a6d7db49e6",
     "source": "rss",
     "publishedAt": "2026-05-18T13:45:37.000Z",
-    "createdAt": "2026-05-18T23:37:28.906Z"
+    "createdAt": "2026-05-18T23:50:21.269Z"
   },
   {
-    "id": "article_mpbugdke_50svcm",
+    "id": "article_mpbuwxj0_iigyrt",
     "title": "リモートワーク採用が変えた障害者採用市場。特例子会社は、...",
     "summary": "障害者採用の環境は、大きく変わっています。 その変化の一つが、リモートワーク採用の広がりです。 続きをみる...",
     "category": "other",
@@ -1043,10 +1043,10 @@
     "originalUrl": "https://note.com/bizeye/n/n9bb5bc83912b",
     "source": "rss",
     "publishedAt": "2026-05-18T13:00:52.000Z",
-    "createdAt": "2026-05-18T23:37:29.006Z"
+    "createdAt": "2026-05-18T23:50:21.372Z"
   },
   {
-    "id": "article_mpbugdn8_9sklf7",
+    "id": "article_mpbuwxlt_b48sir",
     "title": "HyprlandでZoom画面共有をする方法（設定メモ）",
     "summary": "環境 OS:Manjaro 方法 sudo pacman -S pipewire wireplumber xdg-desktop-portal-hyprland sudo pacman -S xdg-desktop-portal-hyprland 設定変更 ~/.c...",
     "category": "other",
@@ -1056,36 +1056,36 @@
     "originalUrl": "https://qiita.com/iintyou/items/0b7d78dbeaf811f4d49f",
     "source": "rss",
     "publishedAt": "2026-05-15T08:38:34.000Z",
-    "createdAt": "2026-05-18T23:37:29.108Z"
+    "createdAt": "2026-05-18T23:50:21.473Z"
   },
   {
-    "id": "article_mpbugdq2_prwqpq",
+    "id": "article_mpbuwxon_jvzx1n",
     "title": "Zoom Phone × Zoho CRM：AI 通話サ...",
     "summary": "1. はじめに Zoho CRM には Zoom Phone for Zoho という標準の PhoneBridge 連携が用意されており、Zoom Phone の通話履歴を CRM の「通話」モジュールに自動同期できます。 これだけでも十分便利ですが、今回は連携のご紹...",
-    "category": "integration",
+    "category": "phone",
     "tips": [
       "AI機能を活用して業務効率化"
     ],
     "originalUrl": "https://qiita.com/michitakasugi/items/6aa03411294bfd475b07",
     "source": "rss",
     "publishedAt": "2026-05-11T08:08:06.000Z",
-    "createdAt": "2026-05-18T23:37:29.210Z"
+    "createdAt": "2026-05-18T23:50:21.575Z"
   },
   {
-    "id": "article_mpbugdsw_to72ft",
+    "id": "article_mpbuwxrh_ruzxbb",
     "title": "Mac M2で写真1枚からZoomアバターを動かしたい ...",
     "summary": "はじめに Zoomのビデオ通話で、自分の顔の代わりに写真1枚から生成したアバターをリアルタイムに動かして映したい。 2020年頃に話題になった Avatarify と同じことを、2026年のMac (Apple Silicon) でやりたいというのが今回の出発点です。 ...",
-    "category": "other",
+    "category": "phone",
     "tips": [
       "AIアバターで会議参加の負担軽減"
     ],
     "originalUrl": "https://qiita.com/ryun818/items/6dd10f7039a8684e5018",
     "source": "rss",
     "publishedAt": "2026-04-28T22:42:54.000Z",
-    "createdAt": "2026-05-18T23:37:29.312Z"
+    "createdAt": "2026-05-18T23:50:21.677Z"
   },
   {
-    "id": "article_mpbugdvq_z4po6u",
+    "id": "article_mpbuwxue_yh3zpr",
     "title": "Zoom MCP Serverの仕様を読み解く — ミニ...",
     "summary": "はじめに Model Context Protocol（MCP） は、AIエージェントが外部ツールやデータソースとやり取りするための標準プロトコルとして急速に普及しています。 Zoomも自社のミーティングデータにアクセスするための MCP Server の公開を開始しま...",
     "category": "productivity",
@@ -1095,10 +1095,10 @@
     "originalUrl": "https://qiita.com/michitakasugi/items/3b9df76cb8d450409de4",
     "source": "rss",
     "publishedAt": "2026-04-28T09:15:51.000Z",
-    "createdAt": "2026-05-18T23:37:29.414Z"
+    "createdAt": "2026-05-18T23:50:21.782Z"
   },
   {
-    "id": "article_mpbugdyk_puhwuv",
+    "id": "article_mpbuwxx7_dffpxr",
     "title": "Claude Code×MCP×Slack連携をまとめて...",
     "summary": "「Slackにバグ報告が来るたびに、手動でIssueを起票してコードを直してPRを出して通知して……この流れ、毎回やるの正直きつい」と感じていませんか？ Claude CodeとSlackをMCP経由でつなぐと、その一連の作業が自然言語の一言で完結するようになります。この記...",
     "category": "integration",
@@ -1108,10 +1108,10 @@
     "originalUrl": "https://qiita.com/kamome_susume/items/37754eb0e275fc78eef1",
     "source": "rss",
     "publishedAt": "2026-05-16T02:52:42.000Z",
-    "createdAt": "2026-05-18T23:37:29.516Z"
+    "createdAt": "2026-05-18T23:50:21.883Z"
   },
   {
-    "id": "article_mpbuge1e_ktjg70",
+    "id": "article_mpbuwy01_s76jli",
     "title": "情シスが選ぶビジネスチャットAI：Google Chat...",
     "summary": "Google Chat、Slack、Microsoft Teamsといった主要なビジネスチャットツールでは、それぞれAI機能の提供が進んでいます。これらのAI機能は、チャットの要約やメッセージ作成支援など、業務効率向上に役立つと期待されています。 この記事を読んだほうが良...",
     "category": "chat",
@@ -1122,10 +1122,10 @@
     "originalUrl": "https://qiita.com/drasenas/items/3dd935b4bf7d91a92665",
     "source": "rss",
     "publishedAt": "2026-05-15T09:53:40.000Z",
-    "createdAt": "2026-05-18T23:37:29.618Z"
+    "createdAt": "2026-05-18T23:50:21.985Z"
   },
   {
-    "id": "article_mpbuge47_r2anj7",
+    "id": "article_mpbuwy2v_vl4e99",
     "title": "Slack × Backlog Wiki × 生成AI ...",
     "summary": "はじめに この記事自体も、実際に作成した社内QA Bot と同様に生成AIを活用しながら整理・執筆しています。 構成整理や文章のたたき台生成には Claude / ChatGPT を活用していますが、実際の設計・運用・ハマりどころは実体験ベースです。 社内問い合わせ対応...",
     "category": "chat",
@@ -1136,10 +1136,10 @@
     "originalUrl": "https://qiita.com/okum_mitsu/items/d990cd62d5cdbe9f0486",
     "source": "rss",
     "publishedAt": "2026-05-15T08:00:30.000Z",
-    "createdAt": "2026-05-18T23:37:29.719Z"
+    "createdAt": "2026-05-18T23:50:22.087Z"
   },
   {
-    "id": "article_mpbuge71_84c378",
+    "id": "article_mpbuwy5o_c8awpa",
     "title": "GASでGoogleフォームの回答を自動でメール＆Sla...",
     "summary": "はじめに Googleフォームで問い合わせや申込みを受け付けているとき、こんな不満はないでしょうか。 スプレッドシートを毎回開いて確認しないといけない 回答に気づくのが遅れて対応が後手になる 複数人で共有したいのに全員がスプレッドシートを開くのは非効率 Google ...",
     "category": "integration",
@@ -1149,10 +1149,400 @@
     "originalUrl": "https://qiita.com/datarou/items/5d803a54584fbc52d56d",
     "source": "rss",
     "publishedAt": "2026-05-15T01:25:52.000Z",
-    "createdAt": "2026-05-18T23:37:29.821Z"
+    "createdAt": "2026-05-18T23:50:22.188Z"
   },
   {
-    "id": "article_mpbuge9x_013nt0",
+    "id": "article_mpbuwy8h_g18db6",
+    "title": "[導入事例] みずほ銀行、リモート営業組織に Zoom ...",
+    "summary": "[導入事例] みずほ銀行、リモート営業組織に Zoom Phone を導入 | ZVC JAPAN 株式会社のプレスリリース PR TIMES...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tSl93SHQ2TjFzUnc2NUNBdGwyQjRLTW5iWnJLa1NhUDVNa05Cc29yVnFUZXUydWN4NmJXY2hpSzh4Y0xuS040blEzTjU1ekJfSW5zRmJiWFRXeFh2VW40VzVnN2xmTUZkSmc?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-02-18T08:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:22.289Z"
+  },
+  {
+    "id": "article_mpbuwybb_jp2n7d",
+    "title": "「Arcstar IP Voice Connect」にお...",
+    "summary": "「Arcstar IP Voice Connect」において「Zoom Phone/Zoom Contact Centerプラン」の提供を開始 NTTドコモビジネス...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13WUgzLUk1SDNSVHVPTTJCdW5Vd01LWXRKOExCbTdCZXRiLUMxbzFaM1NHbzhqamxPd1VNYkFOSkkxdFBwM0JvdDJ6RDVmWnRId3I5SnZYdllOeWZJN0VLZHhZWTloa0RpMllR?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-01-30T08:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:22.391Z"
+  },
+  {
+    "id": "article_mpbuwye4_ujkf3k",
+    "title": "“電話のプロ集団”光通信が選んだZoom Phone 通...",
+    "summary": "“電話のプロ集団”光通信が選んだZoom Phone 通話コスト3億円から6000万円への劇的削減 Zoom...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBWDM1azZNbGJoMFY5ZlROck1oZzk5ckoxblFfTURkQVBSdmdkb0g2V0VueFYxaWw0MXAyYkdRcGVKRWxQb0lpUGxSYXN2Wm9hdDJGTTZHSFh6MGpRSzJDUEhmcUFXQWs?oc=5",
+    "source": "rss",
+    "publishedAt": "2025-11-24T08:47:16.000Z",
+    "createdAt": "2026-05-18T23:50:22.492Z"
+  },
+  {
+    "id": "article_mpbuwygy_i6jcx7",
+    "title": "Timers、「Zoom Phone」とAIを連携させた...",
+    "summary": "Timers、「Zoom Phone」とAIを連携させたセールスイネーブルメント基盤を構築 SalesZine...",
+    "category": "phone",
+    "tips": [
+      "AI機能を活用して業務効率化"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SZ2ZHYWZONnNYdWx3UktkQm5sOUpWUzhNYXYzeFlvdHp3MElhU0RIWG56dzg1NGxpRjJUazBYQy1aR2JmMFpyOU5pX01mSUY4c3c?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-05-09T04:37:13.000Z",
+    "createdAt": "2026-05-18T23:50:22.594Z"
+  },
+  {
+    "id": "article_mpbuwyjr_pprvf0",
+    "title": "ブイキューブ：株式会社Timers、「Zoom Phon...",
+    "summary": "ブイキューブ：株式会社Timers、「Zoom Phone」とAIを連携させたセールスイネーブルメント基盤を構築 日本経済新聞...",
+    "category": "phone",
+    "tips": [
+      "AI機能を活用して業務効率化"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mRFNPNXplZGV2NW90TGN2U0Q1TDZFWWJ5QlM4UlhoNUJoREM2d1ZlQ0htODJtU2xRS2VYM3NZa3RVaS16U2RvSlJSVXNHdno0WDhjMTUyTy1pSlAzMUNRYUJCSTJPS0Q3Ync?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-04-28T07:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:22.695Z"
+  },
+  {
+    "id": "article_mpbuwyml_y482a7",
+    "title": "NEC、グループ全社の従業員11万人に「Zoom Pho...",
+    "summary": "NEC、グループ全社の従業員11万人に「Zoom Phone」導入--電話関連コストを7割削減 ZDNET Japan...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUTzFUUk5TWlpzWHdOQmprM3psQkpBUDFNSzc2dmhDWm9RZkxXWFVpTG9GT2s4YlZWdENXZU1nNV9UbzBaOXdXR2lQOUZQWVB2UkhR?oc=5",
+    "source": "rss",
+    "publishedAt": "2025-09-19T07:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:22.797Z"
+  },
+  {
+    "id": "article_mpbuwypd_gqnir7",
+    "title": "関西学院が「Cloud Calling for Zoom...",
+    "summary": "関西学院が「Cloud Calling for Zoom Phone」を全学的に導入～9拠点で約2,000回線の固定電話をクラウドへ移行～ Digital PR Platform...",
+    "category": "phone",
+    "tips": [
+      "ミーティングの生産性を向上"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBEZk5DSUpTRTlLM0dpUHNzMHo5QVlYbExURGlxQTFic25nbDY4QWVoZnYxaU9sZUlHWS1TcGJtem0zRGc?oc=5",
+    "source": "rss",
+    "publishedAt": "2025-12-08T08:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:22.897Z"
+  },
+  {
+    "id": "article_mpbuwys6_xdr145",
+    "title": "Zoom Phoneオーディオ品質レポート2025 - ...",
+    "summary": "Zoom Phoneオーディオ品質レポート2025 Zoom...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tYmZkTjBTcko1MGtzNGh1c09KUFFMV0N5dThoa3IxZEtQQ1FpYWJmekdDbHhnNWVWSHM5Z1dsNU9hTXl5T2VXMFkxMnNFSEljRVdEWXBmalB3UkxBSVE1ZVZiRVBIMGxTOHZqYllVcGZqN3F1?oc=5",
+    "source": "rss",
+    "publishedAt": "2025-11-19T00:46:47.000Z",
+    "createdAt": "2026-05-18T23:50:22.998Z"
+  },
+  {
+    "id": "article_mpbuwyv0_wg50st",
+    "title": "株式会社Timers、「Zoom Phone」とAIを連...",
+    "summary": "株式会社Timers、「Zoom Phone」とAIを連携させたセールスイネーブルメント基盤を構築 PR TIMES...",
+    "category": "phone",
+    "tips": [
+      "AI機能を活用して業務効率化"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrenV5NmxiWHlDZGt3TkloNTd5aXNQYWJkOHhHemMzbDJZVmt3bGNqYU1rRzJPQ1M3NU0yZmlBTXlYZ2I1UTdReFZNUVlTNEdXOE5ZMUJwYWV2Y0o5X0o4N1kzSGpRMTZWdkE?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-04-28T07:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:23.100Z"
+  },
+  {
+    "id": "article_mpbuwyxt_l3m9h8",
+    "title": "Zoom Phone 世界で 1,000 万ライセンスを...",
+    "summary": "Zoom Phone 世界で 1,000 万ライセンスを突破、AI 時代のビジネス コミュニケーションを変革 PR TIMES...",
+    "category": "phone",
+    "tips": [
+      "AI機能を活用して業務効率化"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rTkRhSXlVN25jMUNVRnhwUDFCSzVjTUJvRzhGYmJRaXFsalZxUlU4VDlVY1BvZTRCVy1zcE52UVR0Nm1JWG1NbkdlV190ZzFQRWRtQlBpRWZ2c3RUWGxKN2N5OUtlUFRXQkE?oc=5",
+    "source": "rss",
+    "publishedAt": "2025-10-15T07:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:23.201Z"
+  },
+  {
+    "id": "article_mpbuwz0n_ays7ii",
+    "title": "『【クラウドPBX販売パートナー募集】地方に広がる番号ポ...",
+    "summary": "『【クラウドPBX販売パートナー募集】地方に広がる番号ポータビリティを商機に変える』というテーマのウェビナーを開催 PR TIMES...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWTA2S1Q1RjlXb3huc1dGOFUySzYwem1BNFlpTUxjU0ZoY0hsX3NOWWRrY08tQUo1Wkx1SmRvVWhHZWNTaEFrS0ttRjVPVHJJRFZMNE9JWUY0a202enJMSGxwb2xhSnBjdWc?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-05-18T00:00:02.000Z",
+    "createdAt": "2026-05-18T23:50:23.303Z"
+  },
+  {
+    "id": "article_mpbuwz3g_7hg9nh",
+    "title": "コムスクエアが提案する地方企業向けクラウドPBXの新たな...",
+    "summary": "コムスクエアが提案する地方企業向けクラウドPBXの新たな収益モデルと商機 ニュースメディアVOIX...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WTzVvZTB1RmlmX0U3U2NZMGxlWUVPb1hUSmFzRk1vNVo0RndZcVNMZlkzUHNJd2pGRm41TGxJazhVVU5zT1VhZmpDU29uVXhNU1g3V19US0tyaGYzdUdoNVdRUQ?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-05-18T03:01:37.000Z",
+    "createdAt": "2026-05-18T23:50:23.404Z"
+  },
+  {
+    "id": "article_mpbuwz6a_hiblrh",
+    "title": "『【クラウドPBX販売パートナー募集】地方に広がる番号ポ...",
+    "summary": "『【クラウドPBX販売パートナー募集】地方に広がる番号ポータビリティを商機に変える』というテーマのウェビナーを開催 ライブドアニュース...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CaXNoRjllS2FFYnNncUxnUjNIWXE0UkFwWjRMem83TTd2S3RuWVJZQWI3TWtUWmFaUkVuSks0ZE03R2wtbmpTQzdjM09KLWtqQ3haZmZvX0xSUEhZckxmX2R3?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-05-18T00:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:23.506Z"
+  },
+  {
+    "id": "article_mpbuwz94_54f1nk",
+    "title": "プロディライト[5580]：お客様からの評価が特に高い、...",
+    "summary": "プロディライト[5580]：お客様からの評価が特に高い、クラウドPBX「INNOVERA」の機能についてのWEBページを公開しました。 2026年5月11日(適時開示) ：日経会社情報DIGITAL 日本経済新聞...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNcVpxWFBrN01vVVhwQmN2LUQwQms5OEpPQXdRQ0d5UFNaNG1oRV9HNlFhSzlWY1QzbzFyako0MXVPcXlUa1k2WjNKTGk4VUdtaTQ3aFJyZTBEYlJ3OTQ3NmQ3UXBzUXdoSnc?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-05-11T06:30:00.000Z",
+    "createdAt": "2026-05-18T23:50:23.608Z"
+  },
+  {
+    "id": "article_mpbuwzbx_qawhox",
+    "title": "クラウドPBX比較15選！料金調査からわかる安いサービス...",
+    "summary": "クラウドPBX比較15選！料金調査からわかる安いサービスと選び方 BOXIL...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFA0aEZmTFpCSXlLdzAzNm5jT2cwZ1NGREtCcjZybHZTVVBVcDJDcm1rNVN4ZnA0bWxkY0diTGI2czE?oc=5",
+    "source": "rss",
+    "publishedAt": "2025-12-28T08:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:23.709Z"
+  },
+  {
+    "id": "article_mpbuwzeq_c9fvtn",
+    "title": "固定電話システムをスマートフォン・クラウドPBXに更新し...",
+    "summary": "固定電話システムをスマートフォン・クラウドPBXに更新し 住民サービスの品質向上と職員の働き方を改善 自治体通信Online...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aMThwMENIYi1iTWx1ZXlLUGp1MEhlbE4waUhlNDZXcV90cGRiTWpncWM2ZENxbmVYTG5OdkFnbGNDWkIyeUNYQkx3bkZsSTE4dVlBWlduS0hGWTlCZjZrM295MFJpeXBUcEprUlM3QzZMa1k?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-02-26T08:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:23.810Z"
+  },
+  {
+    "id": "article_mpbuwzhk_7e6219",
+    "title": "「なんで私が取るの？」女性会社員の2人に1人が電話取次ぎ...",
+    "summary": "「なんで私が取るの？」女性会社員の2人に1人が電話取次ぎで仕事の集中力を奪われている【企業の電話業務実態調査2026／クラウドPBX MOT/TEL調査】 日刊工業新聞...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WRWZ6bE4tMGpEbkdKc0lfRDRHNHppQ1dPM2RndjJ0eVRJWHVxcXJsX0RZZ3NITlBoMGFxNllsLTMtVVFJdVRuN1g4LUgyM0dwWjB2cmN1NFk?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-05-15T07:19:34.000Z",
+    "createdAt": "2026-05-18T23:50:23.912Z"
+  },
+  {
+    "id": "article_mpbuwzke_geom8j",
+    "title": "株式会社まほろば工房、クラウドPBX「じむクラ」を提供開...",
+    "summary": "株式会社まほろば工房、クラウドPBX「じむクラ」を提供開始 朝日新聞...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6cTFRUHFJcFJMVlBEM21zdkhmcEVWWERJYy1jdTlMdXRvT1pDV3FlZUVRUFhtUExiWVZCaFlHMk1Ub2lBR1BYcFl3MDA1TkZJeXhwZnpFeldUQnM?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-05-12T03:01:39.000Z",
+    "createdAt": "2026-05-18T23:50:24.014Z"
+  },
+  {
+    "id": "article_mpbuwzn8_hwg726",
+    "title": "双方向番号ポータビリティ開始を機に“脱オンプレミス”を決...",
+    "summary": "双方向番号ポータビリティ開始を機に“脱オンプレミス”を決断 NTTドコモビジネスとの協業でクラウド電話システムを全国展開 NTTドコモビジネス...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGt6ZTJuRWhYX2gzNUdFZ0dKUlVZemkxTmhLZ3JyZnhOd0FfY3lBSFZyT2Y5amFwSFVMU3hsMmN5V29GWDVUYjY0aDcwd0J3X3djbmVfcjNwekVNamZQZDZHNVVOc3BWcTZtMXFYb1VSS0dZd2Rwa0RKUldYcG5sWWY1Q0pRT2M?oc=5",
+    "source": "rss",
+    "publishedAt": "2025-12-11T09:33:34.000Z",
+    "createdAt": "2026-05-18T23:50:24.116Z"
+  },
+  {
+    "id": "article_mpbuwzq1_kq47jf",
+    "title": "みずほ銀行のリモート完結型法人営業組織、クラウドPBXで...",
+    "summary": "みずほ銀行のリモート完結型法人営業組織、クラウドPBXで「暗黙知」を「組織知」に ZDNET Japan...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdUtSaUszVDBuVjYteThWekd2dzRqVjVIU1liSllDN1RrZGpxak1Sb1RILWp3bXp1cllUTHY1NVlMamxfenM5ZUE5NGNKZW9TUklz?oc=5",
+    "source": "rss",
+    "publishedAt": "2026-02-24T08:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:24.217Z"
+  },
+  {
+    "id": "article_mpbuwzsv_aakfsq",
+    "title": "[Zoom AI Companion]Zoom Phon...",
+    "summary": "こんにちは～ 続きをみる...",
+    "category": "phone",
+    "tips": [
+      "AI機能を活用して業務効率化"
+    ],
+    "originalUrl": "https://note.com/cute_wolf5807/n/n44cad81c5a08",
+    "source": "rss",
+    "publishedAt": "2026-05-07T06:13:11.000Z",
+    "createdAt": "2026-05-18T23:50:24.319Z"
+  },
+  {
+    "id": "article_mpbuwzvo_fksq9x",
+    "title": "Zoom Phoneで営業架電を劇的に効率化する完全ガイド",
+    "summary": "こんにちは！ユニコ🦄です！ 続きをみる...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://note.com/unikoukokun/n/n41f0e30ceaf4",
+    "source": "rss",
+    "publishedAt": "2026-04-26T07:03:41.000Z",
+    "createdAt": "2026-05-18T23:50:24.420Z"
+  },
+  {
+    "id": "article_mpbuwzyg_i9807k",
+    "title": "[Asana]Zoom PhoneボイスメールをAsan...",
+    "summary": "こんにちは～ 続きをみる...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://note.com/cute_wolf5807/n/nc36812390a49",
+    "source": "rss",
+    "publishedAt": "2026-03-04T06:32:51.000Z",
+    "createdAt": "2026-05-18T23:50:24.520Z"
+  },
+  {
+    "id": "article_mpbux01a_5t9vnn",
+    "title": "[Zoom Workplace App]Zoomの通知が...",
+    "summary": "こんにちは～ 続きをみる...",
+    "category": "other",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://note.com/cute_wolf5807/n/na97329445d18",
+    "source": "rss",
+    "publishedAt": "2026-02-20T00:22:53.000Z",
+    "createdAt": "2026-05-18T23:50:24.622Z"
+  },
+  {
+    "id": "article_mpbux045_nrbqus",
+    "title": "【アップデート報告】Zoom Phone連携の完全マニュ...",
+    "summary": "こんにちは。テレアポ自動化アプリ「TFT」開発チームです。 TFTは、「現場の営業パーソンが本当に使いやすいツール」を目指し、日々皆様からのフィードバックをもとに進化を続けています。 本日は、直近で実施した3つの重要なアップデートと改善についてご報告します。 続きをみる...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://note.com/clever_godwit352/n/n7bda0f440739",
+    "source": "rss",
+    "publishedAt": "2026-02-19T02:46:15.000Z",
+    "createdAt": "2026-05-18T23:50:24.725Z"
+  },
+  {
+    "id": "article_mpbux06z_h1k2g5",
+    "title": "[Zoom Phone]通話転送時に「それまでの通話要約...",
+    "summary": "こんにちは～ 続きをみる...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://note.com/cute_wolf5807/n/n426a00541ebb",
+    "source": "rss",
+    "publishedAt": "2025-12-26T07:45:21.000Z",
+    "createdAt": "2026-05-18T23:50:24.827Z"
+  },
+  {
+    "id": "article_mpbux09t_8iggcb",
+    "title": "「電話が、働き方を変える」Zoomtopiaで見たZoo...",
+    "summary": "10月15日、東京で開催された「Zoomtopia On The Road」。 テーマは「AIと共に新しい働き方、繋がり、文化を築く」。 このイベントを通して強く感じたのは、 「電話」が、もう一度“働き方の中心”に戻ってきているということでした。 しかもそれは、昔の黒電話やビジネスフォンの話ではあり...",
+    "category": "phone",
+    "tips": [
+      "AI機能を活用して業務効率化"
+    ],
+    "originalUrl": "https://note.com/biz_growth/n/nc313245418fa",
+    "source": "rss",
+    "publishedAt": "2025-10-19T01:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:24.929Z"
+  },
+  {
+    "id": "article_mpbux0cn_3ceth1",
+    "title": "【Zoom Phone】とっても簡単なPoly Edge...",
+    "summary": "Poly Edgeが管理者パスワードやMACアドレス入力なしで工場出荷時リセットができるようになりました。 Zoomでプロビジョニングしておけば、対応バージョンに上がります。 方法 続きをみる...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://note.com/ne_collabo_han/n/n992e016787e2",
+    "source": "rss",
+    "publishedAt": "2025-09-20T05:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:25.031Z"
+  },
+  {
+    "id": "article_mpbux0fh_3egygj",
+    "title": "【Zoom Phone】コールキューメンバがオンライン(...",
+    "summary": "Zoomコミュニティで教えてもらいました。 Zoom CommunityJapan User GroupThe Zoom Community: A collaborative place for customers to ficommunity.zoom.com 続きをみる...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://note.com/ne_collabo_han/n/n58c86ff2cc5f",
+    "source": "rss",
+    "publishedAt": "2025-09-04T10:00:00.000Z",
+    "createdAt": "2026-05-18T23:50:25.133Z"
+  },
+  {
+    "id": "article_mpbux0ib_coag8m",
+    "title": "【Zoom Phone】iPhoneのZoomモバイルア...",
+    "summary": "前回はiPhoneを共用エリアデバイスとして設定、使う方法を書きました。 続きをみる...",
+    "category": "phone",
+    "tips": [
+      "詳細は元の記事をご確認ください"
+    ],
+    "originalUrl": "https://note.com/ne_collabo_han/n/nd136e43f2572",
+    "source": "rss",
+    "publishedAt": "2025-09-04T07:30:00.000Z",
+    "createdAt": "2026-05-18T23:50:25.235Z"
+  },
+  {
+    "id": "article_mpbux0l8_0oi39r",
     "title": "How I Get Free Traffic from ...",
     "summary": "Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: \"What's t...",
     "category": "chat",
@@ -1163,10 +1553,10 @@
     "originalUrl": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
     "source": "rss",
     "publishedAt": "2025-12-04T05:37:00.000Z",
-    "createdAt": "2026-05-18T23:37:29.925Z"
+    "createdAt": "2026-05-18T23:50:25.340Z"
   },
   {
-    "id": "article_mpbugecr_clmvke",
+    "id": "article_mpbux0o2_pvee19",
     "title": "Top 10 AI Tools That Will Tr...",
     "summary": "Looking to level up your content creation game in 2025? You're in the right place! The digital landscape has evolved dramatically, and AI tools have b...",
     "category": "chat",
@@ -1178,10 +1568,10 @@
     "originalUrl": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
     "source": "rss",
     "publishedAt": "2025-01-02T09:26:00.000Z",
-    "createdAt": "2026-05-18T23:37:30.027Z"
+    "createdAt": "2026-05-18T23:50:25.442Z"
   },
   {
-    "id": "article_mpbugefl_04m0er",
+    "id": "article_mpbux0qw_dvox6e",
     "title": "Ahrefs vs SEMrush: Which SEO...",
     "summary": "SEMrush and Ahrefs are among the most popular tools in the SEO industry. Both companies have been in business for years and have thousands of customer...",
     "category": "integration",
@@ -1192,10 +1582,10 @@
     "originalUrl": "https://techncruncher.blogspot.com/2022/03/ahrefs-vs-semrush-which-seo-tool-should.html",
     "source": "rss",
     "publishedAt": "2022-03-01T12:16:00.000Z",
-    "createdAt": "2026-05-18T23:37:30.129Z"
+    "createdAt": "2026-05-18T23:50:25.545Z"
   },
   {
-    "id": "article_mpbugeif_gdck3p",
+    "id": "article_mpbux0tr_p3bzwp",
     "title": "Top 10 Best PLR(Private Labe...",
     "summary": "Content creation is one of the biggest struggles for many marketers and business owners. It often requires both time and financial resources, especial...",
     "category": "security",
@@ -1206,10 +1596,10 @@
     "originalUrl": "https://techncruncher.blogspot.com/2022/02/top-10-best-plrprivate-label-rights.html",
     "source": "rss",
     "publishedAt": "2022-02-26T13:36:00.000Z",
-    "createdAt": "2026-05-18T23:37:30.231Z"
+    "createdAt": "2026-05-18T23:50:25.647Z"
   },
   {
-    "id": "article_mpbugel9_ec1giw",
+    "id": "article_mpbux0wm_t3mkki",
     "title": "Canva Review 2022: Details, ...",
     "summary": "Are you looking for a new graphic design tool? Would you like to read a detailed review of Canva? As it's one of the tools I love using. I am also wri...",
     "category": "integration",
@@ -1220,13 +1610,13 @@
     "originalUrl": "https://techncruncher.blogspot.com/2022/02/canva-review-2022-details-pricing.html",
     "source": "rss",
     "publishedAt": "2022-02-20T12:02:00.000Z",
-    "createdAt": "2026-05-18T23:37:30.333Z"
+    "createdAt": "2026-05-18T23:50:25.750Z"
   },
   {
-    "id": "article_mpbugeo3_919fpi",
+    "id": "article_mpbux0zh_pz4v2e",
     "title": "10 Best Chrome Extensions Th...",
     "summary": "Are you a great Chrome user? That’s nice to hear. But first, consider whether or not there are any essential Chrome extensions you are currently missi...",
-    "category": "security",
+    "category": "phone",
     "tips": [
       "AI機能を活用して業務効率化",
       "ミーティングの生産性を向上",
@@ -1235,10 +1625,23 @@
     "originalUrl": "https://techncruncher.blogspot.com/2022/01/10-best-chrome-extensions-that-are.html",
     "source": "rss",
     "publishedAt": "2022-01-31T10:56:00.000Z",
-    "createdAt": "2026-05-18T23:37:30.435Z"
+    "createdAt": "2026-05-18T23:50:25.853Z"
   },
   {
-    "id": "article_mpbugeqx_971w6r",
+    "id": "article_mpbux12b_n6hpjq",
+    "title": "7 Free Websites Every Conten...",
+    "summary": "Do you have the desire to become a content creator, but not have the money to start? Here are 7 free websites every content creator needs to know. 1....",
+    "category": "productivity",
+    "tips": [
+      "AI機能を活用して業務効率化"
+    ],
+    "originalUrl": "https://techncruncher.blogspot.com/2022/01/7-free-websites-every-content-creator.html",
+    "source": "rss",
+    "publishedAt": "2022-01-27T15:19:00.000Z",
+    "createdAt": "2026-05-18T23:50:25.955Z"
+  },
+  {
+    "id": "article_mpbux155_5apn9g",
     "title": "Zoomで知らなかった便利機能！ミーティング中に「Alt...",
     "summary": "Zoomで知らなかった便利機能！ミーティング中に「Alt+Y」で手を挙げられるって知ってました？大人数の会議で発言したい時に便利です。#ZoomTips #リモートワーク...",
     "category": "meeting",
@@ -1248,10 +1651,10 @@
     "originalUrl": "https://twitter.com/tech_tips_jp/status/1234567890",
     "source": "twitter",
     "publishedAt": "2024-03-17T10:30:00.000Z",
-    "createdAt": "2026-05-18T23:37:30.537Z"
+    "createdAt": "2026-05-18T23:50:26.057Z"
   },
   {
-    "id": "article_mpbugetr_vr7ffk",
+    "id": "article_mpbux17z_c5z5yz",
     "title": "今日発見したZoomの新機能。ミーティング後に自動で要約...",
     "summary": "今日発見したZoomの新機能。ミーティング後に自動で要約が生成されるようになってた！これでメモ取りながら会議に集中しなくても良くなった。AI時代すごい。 #Zoom #AI #生産性向上...",
     "category": "productivity",
@@ -1261,10 +1664,10 @@
     "originalUrl": "https://twitter.com/remote_worker_123/status/1234567891",
     "source": "twitter",
     "publishedAt": "2024-03-16T14:20:00.000Z",
-    "createdAt": "2026-05-18T23:37:30.639Z"
+    "createdAt": "2026-05-18T23:50:26.159Z"
   },
   {
-    "id": "article_mpbugewl_68q3ea",
+    "id": "article_mpbux1at_ccj8m8",
     "title": "Zoomのバーチャル背景、最近は動画も設定できるようにな...",
     "summary": "Zoomのバーチャル背景、最近は動画も設定できるようになってるんですね。自分の部屋が散らかってても安心w #Zoom #在宅勤務 #バーチャル背景...",
     "category": "other",
@@ -1274,10 +1677,10 @@
     "originalUrl": "https://twitter.com/wfh_life/status/1234567892",
     "source": "twitter",
     "publishedAt": "2024-03-15T09:45:00.000Z",
-    "createdAt": "2026-05-18T23:37:30.741Z"
+    "createdAt": "2026-05-18T23:50:26.261Z"
   },
   {
-    "id": "article_mpbugezf_ziea3u",
+    "id": "article_mpbux1dn_vhafxp",
     "title": "Zoom×Slack連携を設定してみた。Slackから直...",
     "summary": "Zoom×Slack連携を設定してみた。Slackから直接ミーティング開始できるの便利すぎる。/zoomコマンドだけでOK。もっと早く知りたかった... #Zoom #Slack #業務効率化...",
     "category": "integration",
@@ -1287,10 +1690,10 @@
     "originalUrl": "https://twitter.com/productivity_hack/status/1234567893",
     "source": "twitter",
     "publishedAt": "2024-03-14T16:10:00.000Z",
-    "createdAt": "2026-05-18T23:37:30.843Z"
+    "createdAt": "2026-05-18T23:50:26.363Z"
   },
   {
-    "id": "article_mpbugf29_uq8005",
+    "id": "article_mpbux1gh_kk8efu",
     "title": "Zoomのブレイクアウトルーム、事前に参加者を割り当てて...",
     "summary": "Zoomのブレイクアウトルーム、事前に参加者を割り当てておけるの知ってました？ワークショップ運営がめっちゃ楽になる。CSVでインポートもできます。 #Zoom #オンラインセミナー #Tips...",
     "category": "other",
@@ -1300,10 +1703,10 @@
     "originalUrl": "https://twitter.com/online_event_pro/status/1234567894",
     "source": "twitter",
     "publishedAt": "2024-03-13T11:25:00.000Z",
-    "createdAt": "2026-05-18T23:37:30.945Z"
+    "createdAt": "2026-05-18T23:50:26.465Z"
   },
   {
-    "id": "article_mpbugf53_5zif89",
+    "id": "article_mpbux1jb_c5po8m",
     "title": "Zoomの録画、クラウドに保存すると自動で文字起こしされ...",
     "summary": "Zoomの録画、クラウドに保存すると自動で文字起こしされるの神機能。議事録作成の時間が半分になった。有料プランだけど元は取れてる。 #Zoom #議事録 #時短...",
     "category": "other",
@@ -1313,6 +1716,156 @@
     "originalUrl": "https://twitter.com/meeting_master/status/1234567895",
     "source": "twitter",
     "publishedAt": "2024-03-12T13:50:00.000Z",
-    "createdAt": "2026-05-18T23:37:31.047Z"
+    "createdAt": "2026-05-18T23:50:26.567Z"
+  },
+  {
+    "id": "article_zp_tips_001",
+    "title": "Zoom Phone 自動応答(IVR)設定ガイド",
+    "summary": "Zoom Phoneの自動応答（IVR）を使えば、着信時に「1を押すと営業部、2を押すと技術サポート」のように振り分けが可能。営業時間外のメッセージも設定でき、IS部門の電話対応負荷を大幅に軽減できる。",
+    "category": "phone",
+    "tips": [
+      "IVRは最大10階層までネスト可能。シンプルに2階層以内がベスト",
+      "営業時間と休日カレンダーを設定すれば時間外は自動で留守電に切替",
+      "IVRの音声は録音アップロードの他、テキスト読み上げ（TTS）も使える"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/setting-up-auto-receptionist",
+    "source": "web",
+    "publishedAt": "2026-05-19T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "article_zp_tips_002",
+    "title": "Zoom Phone コールキュー活用術",
+    "summary": "コールキューを使うと、複数メンバーで着信を均等に受けられる。IS部門のヘルプデスク対応で「特定の人だけ電話が鳴る」問題を解消。ラウンドロビン・同時呼出・最長待機時間順など分配方式も選べる。",
+    "category": "phone",
+    "tips": [
+      "ラウンドロビン方式で対応負荷を均等分散できる",
+      "オーバーフロー設定で全員不在時にボイスメールや別キューに転送",
+      "待ち時間アナウンスを有効にするとユーザー満足度が上がる"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/call-queue",
+    "source": "web",
+    "publishedAt": "2026-05-18T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "article_zp_tips_003",
+    "title": "Zoom Phone 通話録音のベストプラクティス",
+    "summary": "Zoom Phoneの通話録音は自動録音とオンデマンド録音の2種類。IS管理者はポリシーで部署単位に一括設定可能。録音データはクラウドに保存され、後から検索・再生・ダウンロードできる。コンプライアンス対応にも有効。",
+    "category": "phone",
+    "tips": [
+      "自動録音はポリシーで部署ごとに有効/無効を切替可能",
+      "録音開始時に相手に通知する「録音ビープ音」は法的要件に応じて設定",
+      "録音データはZoom管理ポータルから一括エクスポートできる"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/call-recording",
+    "source": "web",
+    "publishedAt": "2026-05-17T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "article_zp_tips_004",
+    "title": "Zoom Phone ボイスメールを使いこなす",
+    "summary": "Zoom Phoneのボイスメールは音声メッセージをテキストに自動変換（文字起こし）する機能付き。Slackやメールへの通知転送も可能で、外出中でも内容をすぐ確認できる。共有ボイスメールボックスでチーム対応も。",
+    "category": "phone",
+    "tips": [
+      "ボイスメールの文字起こし機能でメッセージを読むだけで内容把握",
+      "共有ボイスメールボックスを作ればチーム全員が確認・対応可能",
+      "メール通知をONにすれば音声ファイル付きでメールに転送される"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/voicemail",
+    "source": "web",
+    "publishedAt": "2026-05-16T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "article_zp_tips_005",
+    "title": "Zoom Phone デスクフォンとソフトフォンの使い分け",
+    "summary": "Zoom Phoneはデスクフォン（Poly, Yealink等）とPCソフトフォン・モバイルアプリの併用が可能。オフィスではデスクフォン、外出先ではモバイルアプリとシームレスに切替できる。通話中の端末切替（コールフリップ）も対応。",
+    "category": "phone",
+    "tips": [
+      "コールフリップでデスクフォン↔スマホ間の通話を切替できる",
+      "ホットデスキング機能でフリーアドレスのデスクフォンに一時ログイン",
+      "モバイルアプリでWi-Fi通話を有効にすると電波の弱い場所でも安定"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/desk-phone-softphone",
+    "source": "web",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "article_zp_tips_006",
+    "title": "Zoom Phone SMS/MMS機能の活用法",
+    "summary": "Zoom Phoneの番号からSMS/MMSの送受信が可能。社内連絡だけでなく、外部の顧客やベンダーへのテキスト連絡にも使える。グループSMSやファイル添付にも対応しており、電話に出られない場面で便利。",
+    "category": "phone",
+    "tips": [
+      "Zoom PhoneのSMSは会社番号から送信できるので個人番号を教えなくてよい",
+      "SMSの自動返信設定で不在時に定型メッセージを送れる",
+      "SMS履歴はZoomアプリ内で検索・管理できる"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/sms-mms",
+    "source": "web",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "article_zp_tips_007",
+    "title": "Zoom Phone 緊急通報(E911)の設定と注意点",
+    "summary": "Zoom Phoneで緊急通報（日本では110/119）を利用するにはNomadic E911の設定が必要。リモートワーカーが自宅から発信する場合、正しい住所が通知されるよう各ユーザーに住所登録を促すことがIS管理者の重要な責務。",
+    "category": "phone",
+    "tips": [
+      "ユーザーが場所を変更したら緊急通報用住所の更新を必ず促す",
+      "管理ポータルでE911未設定ユーザーをレポートで確認できる",
+      "オフィス移転時はE911の住所情報を忘れずに更新する"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/e911-settings",
+    "source": "web",
+    "publishedAt": "2026-05-13T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "article_zp_tips_008",
+    "title": "Zoom Phone AI要約で通話後のフォローを効率化",
+    "summary": "Zoom PhoneにもAI Companion機能が対応し、通話終了後に自動で要約とアクションアイテムを生成。長い電話の内容を後から振り返る手間が省け、対応漏れも防げる。要約はチームメンバーへの共有も可能。",
+    "category": "phone",
+    "tips": [
+      "通話後のAI要約は管理者がポリシーで有効化する必要がある",
+      "要約とアクションアイテムはZoomアプリの通話履歴から確認できる",
+      "重要な通話は録音+AI要約の併用で抜け漏れゼロに"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/phone-ai-summary",
+    "source": "web",
+    "publishedAt": "2026-05-12T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "article_zp_tips_009",
+    "title": "Zoom Phone パワーパック：IS管理者向け分析ダッシュボード",
+    "summary": "Zoom Phone Power Packを使うと、通話品質・応答率・待ち時間などをリアルタイムでダッシュボード表示できる。IS部門のKPI管理や、コールキューのボトルネック特定に役立つ。ウォールボードとしてモニター表示も可能。",
+    "category": "phone",
+    "tips": [
+      "リアルタイムウォールボードで現在の待ち呼数・応答率を可視化",
+      "ヒストリカルレポートで曜日・時間帯別の通話傾向を分析",
+      "SLA指標（応答率、放棄率）を設定してアラート通知を受け取れる"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/power-pack",
+    "source": "web",
+    "publishedAt": "2026-05-11T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "article_zp_tips_010",
+    "title": "Zoom Phone 内線番号の設計と命名規則のコツ",
+    "summary": "内線番号の設計はZoom Phone導入時の重要ポイント。部署コード+連番（例: 営業部=2xxx, IS部=3xxx）のように体系化すると管理しやすい。表示名もルール化すれば、社員の着信時に所属がすぐわかる。",
+    "category": "phone",
+    "tips": [
+      "内線番号は部署ごとにレンジを分けると増員・異動時に管理しやすい",
+      "共用エリア電話機（会議室等）は9xxxなど専用レンジを確保",
+      "表示名を「部署名-氏名」にすると着信時にどの部署か一目瞭然"
+    ],
+    "originalUrl": "https://support.zoom.us/hc/ja/articles/extension-design",
+    "source": "web",
+    "publishedAt": "2026-05-10T00:00:00.000Z",
+    "createdAt": "2026-05-19T00:00:00.000Z"
   }
 ]
