@@ -1,5 +1,5 @@
 import OpenAI from 'openai';
-import { RawContent, Article, ArticleSummary, Category, WeeklyDigest } from '../types';
+import { RawContent, Article, ArticleSummary, Category, Priority, ArticleType, WeeklyDigest } from '../types';
 import { generateId, stripHtml, getWeekRange, formatDateJa } from '../utils';
 
 // OpenAI クライアントの初期化
@@ -13,38 +13,48 @@ function getOpenAIClient(): OpenAI | null {
 }
 
 // 英語記事の日本語タイトル・要約マッピング
-const articleTranslations: Record<string, { title: string; summary: string; tips: string[] }> = {
+const articleTranslations: Record<string, { title: string; summary: string; tips: string[]; priority: Priority; articleType: ArticleType }> = {
   'zoom introduces an ai-powered': {
     title: 'Zoom、AI搭載オフィススイートを発表',
     summary: 'ZoomがAI搭載のオフィススイートを発表。ミーティング用のAIアバター機能も近日公開予定。リアルタイムのディープフェイク検出技術も導入される。',
-    tips: ['AI機能で会議の生産性を向上', 'AIアバターで会議参加の負担軽減', 'ディープフェイク検出でセキュリティ強化'],
+    tips: ['管理ポータル > AI Companion > 「会議要約」をONで自動議事録生成', '設定 > ビデオ > AIアバターを有効化でカメラOFF時も表情付きで参加', 'セキュリティ > ディープフェイク検出をONで不正参加を防止'],
+    priority: 'high',
+    articleType: 'new_feature',
   },
   'zoom brings its ai assistant': {
     title: 'Zoom AIアシスタント、無料ユーザーにも提供開始',
     summary: 'ZoomがAIアシスタント機能をWeb版で提供開始。無料ユーザーも限定的に利用可能に。会議の要約やアクションアイテムの抽出が可能。',
-    tips: ['無料プランでもAI機能を試せる', 'Web版でAIアシスタントを活用', '会議要約機能で議事録作成を効率化'],
+    tips: ['無料プランでもzoom.usのWeb版からAIアシスタントを試せる', '会議中にAI Companionパネルを開くとリアルタイム要約が表示される', '会議終了後、メール通知の要約リンクからアクションアイテムを確認'],
+    priority: 'high',
+    articleType: 'hack',
   },
   'zoom ceo eric yuan says ai will': {
     title: 'Zoom CEO「AIで週3〜4日勤務が実現する」',
     summary: 'Zoom CEOのエリック・ユアン氏が、数年後にはAIの進化により週3〜4日勤務が実現するとの見解を示した。',
-    tips: ['AIによる業務効率化を推進', '将来の働き方の変化に備える', 'AI活用で生産性を高める'],
+    tips: ['AI Companionの会議要約機能で議事録作成時間を削減', '定型会議はAI要約+録画で非同期化を検討', 'Zoom Docs連携でAI要約から直接ドキュメント生成'],
+    priority: 'medium',
+    articleType: 'news',
   },
   'zoom launches a cross-application ai notetaker': {
     title: 'Zoom、アプリ横断AI議事録機能をリリース',
-    summary: 'Zoomがアプリ横断型のAI議事録機能とAIアバター機能をリリース。ミーティングと生産性プラットフォームの最新アップデート。',
-    tips: ['AI議事録で会議内容を自動記録', 'AIアバターでビデオ会議に参加', '複数アプリ間でシームレスに連携'],
+    summary: 'Zoomがアプリ横断型のAI議事録機能とAIアバター機能をリリース。Teams/Google MeetにもZoom AI議事録ボットを参加させられる。',
+    tips: ['設定 > AI Companion > 「外部ミーティング対応」をONでTeams会議にもAI議事録を適用', 'AIアバター > カスタムアバターを作成すれば自分そっくりのアバターで参加可能', 'AI議事録はZoom Docsに自動保存され、後からキーワード検索できる'],
+    priority: 'high',
+    articleType: 'new_feature',
   },
   'after klarna': {
     title: 'Zoom CEOもAIアバターで決算発表',
     summary: 'KlarnaのCEOに続き、Zoom CEOも決算発表でAIアバターを使用。AIアバターによるビデオコミュニケーションの活用が広がる。',
-    tips: ['AIアバターの活用事例として参考に', 'オンライン会議の新しい形を検討', 'AI技術の進化に注目'],
+    tips: ['Zoom Clips > AIアバターで動画メッセージを作成すれば録画不要', '定例報告をAIアバター動画に置き換えて会議時間を削減', 'AIアバターは26言語対応。海外拠点への案内動画にも活用可能'],
+    priority: 'medium',
+    articleType: 'ai',
   },
 };
 
 /**
  * 記事タイトルから翻訳データを検索
  */
-function findTranslation(title: string): { title: string; summary: string; tips: string[] } | null {
+function findTranslation(title: string): { title: string; summary: string; tips: string[]; priority: Priority; articleType: ArticleType } | null {
   const lowerTitle = title.toLowerCase();
   for (const [key, value] of Object.entries(articleTranslations)) {
     if (lowerTitle.includes(key)) {
@@ -75,13 +85,36 @@ ${content.title}
 【記事内容】
 ${stripHtml(content.content).substring(0, 2000)}
 
+【記事タイプの優先順位（上から優先）】
+1. hack（★★★最優先）: 実践テクニック、設定方法、効率化手法、「こうすればできる」系
+2. new_feature（★★）: 新機能の紹介で「何ができるか」が具体的にわかる記事
+3. ai（★★）: AI Companion、AI要約などAI活用の具体的な方法
+4. news（★）: 業界動向、パートナー情報
+
+【除外すべき記事の特徴】（該当する場合はpriority=lowにする）
+- 「○○社が導入」のような活用事例・導入事例
+- エラー対処、障害対応などのトラブルシューティング
+- 抽象的で「AIがすごい」だけの記事（具体的な操作手順がない）
+- Zoom以外の製品が主役の記事
+
 【出力形式】
 {
   "title": "日本語のわかりやすいタイトル（30文字以内）",
-  "summary": "記事の要約（日本語で100-150文字程度）",
+  "summary": "「何が具体的にできるか」を明記した要約（日本語100-150文字）",
   "category": "以下から1つ選択: meeting, phone, chat, security, integration, productivity, other",
-  "tips": ["実践的なTips1（日本語）", "実践的なTips2（日本語）", "実践的なTips3（日本語）"]
+  "tips": [
+    "今日から試せる具体的なTips1（設定手順や操作方法を含む）",
+    "今日から試せる具体的なTips2",
+    "今日から試せる具体的なTips3"
+  ],
+  "priority": "high または medium（lowは保存しない）",
+  "articleType": "hack, new_feature, ai, news のいずれか"
 }
+
+【Tipsの書き方ルール】
+- 「○○を活用」のような曖昧な表現は禁止
+- 「設定 > ○○ > △△をONにすると□□ができる」のように具体的に書く
+- 読んだ人が「やってみたい！」「そんなことできるんだ！」と思える内容にする
 
 JSONのみを出力してください。
 `;
@@ -91,15 +124,15 @@ JSONのみを出力してください。
       messages: [
         {
           role: 'system',
-          content: 'あなたはZoomの専門家です。記事を分析し、必ず日本語で要約を生成します。',
+          content: 'あなたはZoomの専門家でIS部門の管理者です。記事を分析し、読者が「やってみたい！」「そんなことできるんだ！」と思える実践的なTipsを抽出します。必ず日本語で出力してください。',
         },
         {
           role: 'user',
           content: prompt,
         },
       ],
-      temperature: 0.7,
-      max_tokens: 500,
+      temperature: 0.5,
+      max_tokens: 600,
     });
 
     const responseText = response.choices[0]?.message?.content || '';
@@ -109,7 +142,15 @@ JSONのみを出力してください。
       jsonText = jsonMatch[1];
     }
 
-    const summary: ArticleSummary = JSON.parse(jsonText);
+    const parsed = JSON.parse(jsonText);
+    const summary: ArticleSummary = {
+      title: parsed.title,
+      summary: parsed.summary,
+      category: parsed.category || 'other',
+      tips: parsed.tips || [],
+      priority: parsed.priority || 'medium',
+      articleType: parsed.articleType || 'news',
+    };
     return summary;
   } catch (error) {
     console.error('OpenAI API エラー:', error);
@@ -148,6 +189,8 @@ function generateMockSummary(content: RawContent): ArticleSummary {
       summary: translation.summary,
       category,
       tips: translation.tips,
+      priority: translation.priority,
+      articleType: translation.articleType,
     };
   }
 
@@ -164,16 +207,33 @@ function generateMockSummary(content: RawContent): ArticleSummary {
     summary += '...';
   }
 
-  // Tipsを生成
+  // Tipsを生成（具体的なアクションを含める）
   const tips: string[] = [];
-  if (text.includes('ai')) tips.push('AI機能を活用して業務効率化');
-  if (text.includes('meeting') || text.includes('call')) tips.push('ミーティングの生産性を向上');
-  if (text.includes('avatar')) tips.push('AIアバターで会議参加の負担軽減');
-  if (text.includes('security')) tips.push('セキュリティ設定を確認・強化');
-  if (text.includes('slack')) tips.push('Slack連携で効率化');
+  if (text.includes('ai') && text.includes('companion')) tips.push('設定 > AI Companion でAI要約機能をONにすると会議後に自動で議事録が生成される');
+  else if (text.includes('ai')) tips.push('Zoom管理ポータル > AI機能タブから利用可能な機能を確認してみよう');
+  if (text.includes('meeting') || text.includes('call')) tips.push('ミーティング設定 > 自動録画をONにすれば録画忘れがなくなる');
+  if (text.includes('avatar')) tips.push('AIアバターを使えばカメラOFFでも表情豊かに会議参加できる');
+  if (text.includes('security')) tips.push('セキュリティ > 待機室を有効にし、パスコード必須にする');
+  if (text.includes('slack')) tips.push('Slack連携を設定すれば/zoomコマンドでワンクリック会議開始');
+  if (text.includes('phone') || text.includes('電話')) tips.push('Zoom Phone設定 > コールキューで着信を複数人に分散できる');
+  if (text.includes('background') || text.includes('背景')) tips.push('設定 > 背景とエフェクト > 会社ロゴ入り背景をアップロードして統一感を出す');
 
   if (tips.length === 0) {
     tips.push('詳細は元の記事をご確認ください');
+  }
+
+  // 記事タイプと重要度を推測
+  let articleType: ArticleType = 'news';
+  let priority: Priority = 'medium';
+  if (text.includes('設定') || text.includes('方法') || text.includes('手順') || text.includes('tips') || text.includes('コツ')) {
+    articleType = 'hack';
+    priority = 'high';
+  } else if (text.includes('新機能') || text.includes('リリース') || text.includes('アップデート') || text.includes('new feature')) {
+    articleType = 'new_feature';
+    priority = 'high';
+  } else if (text.includes('ai')) {
+    articleType = 'ai';
+    priority = 'medium';
   }
 
   return {
@@ -181,6 +241,8 @@ function generateMockSummary(content: RawContent): ArticleSummary {
     summary,
     category,
     tips: tips.slice(0, 3),
+    priority,
+    articleType,
   };
 }
 
@@ -196,6 +258,8 @@ export async function processContent(content: RawContent): Promise<Article> {
     summary: summary.summary,
     category: summary.category,
     tips: summary.tips,
+    priority: summary.priority,
+    articleType: summary.articleType,
     originalUrl: content.url,
     source: content.source,
     publishedAt: content.publishedAt.toISOString(),

@@ -11,11 +11,25 @@ interface ArticleCardProps {
 
 const categoryColors: Record<string, string> = {
   meeting: '#3b82f6',
+  phone: '#14b8a6',
   chat: '#10b981',
   security: '#f43f5e',
   integration: '#8b5cf6',
   productivity: '#f59e0b',
   other: '#6b7280',
+};
+
+const articleTypeLabels: Record<string, { label: string; color: string }> = {
+  hack: { label: '実践Tips', color: '#f59e0b' },
+  new_feature: { label: '新機能', color: '#3b82f6' },
+  ai: { label: 'AI連携', color: '#8b5cf6' },
+  news: { label: 'ニュース', color: '#6b7280' },
+};
+
+const priorityStyles: Record<string, { border: string; glow: string }> = {
+  high: { border: '1px solid rgba(245, 158, 11, 0.4)', glow: '0 0 12px rgba(245, 158, 11, 0.1)' },
+  medium: { border: '1px solid #27272a', glow: 'none' },
+  low: { border: '1px solid #1f1f23', glow: 'none' },
 };
 
 const sourceIcons: Record<string, string> = {
@@ -30,15 +44,19 @@ export function ArticleCard({ article }: ArticleCardProps) {
   const color = categoryColors[article.category] || categoryColors.other;
   const icon = sourceIcons[article.source] || '📄';
   const label = CATEGORY_LABELS[article.category];
+  const priority = article.priority || 'medium';
+  const typeInfo = articleTypeLabels[article.articleType] || articleTypeLabels.news;
+  const pStyle = priorityStyles[priority] || priorityStyles.medium;
 
   return (
     <>
       <div style={{
         backgroundColor: '#18181b',
-        border: '1px solid #27272a',
+        border: pStyle.border,
         borderRadius: '12px',
         overflow: 'hidden',
         transition: 'transform 0.2s, box-shadow 0.2s',
+        boxShadow: pStyle.glow,
       }}>
         {/* Color bar */}
         <div style={{ height: '3px', backgroundColor: color }} />
@@ -46,16 +64,32 @@ export function ArticleCard({ article }: ArticleCardProps) {
         <div style={{ padding: '16px' }}>
           {/* Header */}
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
-            <span style={{
-              backgroundColor: color,
-              color: '#fff',
-              fontSize: '11px',
-              fontWeight: '600',
-              padding: '4px 10px',
-              borderRadius: '6px'
-            }}>
-              {label}
-            </span>
+            <div style={{ display: 'flex', gap: '6px', alignItems: 'center' }}>
+              <span style={{
+                backgroundColor: color,
+                color: '#fff',
+                fontSize: '11px',
+                fontWeight: '600',
+                padding: '4px 10px',
+                borderRadius: '6px'
+              }}>
+                {label}
+              </span>
+              <span style={{
+                backgroundColor: `${typeInfo.color}20`,
+                color: typeInfo.color,
+                fontSize: '10px',
+                fontWeight: '600',
+                padding: '3px 8px',
+                borderRadius: '4px',
+                border: `1px solid ${typeInfo.color}40`,
+              }}>
+                {typeInfo.label}
+              </span>
+              {priority === 'high' && (
+                <span style={{ fontSize: '12px' }} title="重要度: 高">★</span>
+              )}
+            </div>
             <span style={{ fontSize: '11px', color: '#71717a' }}>
               {getRelativeTime(article.publishedAt)}
             </span>

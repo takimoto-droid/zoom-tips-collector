@@ -30,6 +30,8 @@ export interface Article {
   summary: string;
   category: Category;
   tips: string[];
+  priority: Priority;
+  articleType: ArticleType;
   originalUrl: string;
   source: SourceType;
   publishedAt: string;
@@ -66,12 +68,20 @@ export interface SlackBlockElement {
   url?: string;
 }
 
+// 記事の優先度
+export type Priority = 'high' | 'medium' | 'low';
+
+// 記事タイプ（優先順: hack > new_feature > ai > news）
+export type ArticleType = 'hack' | 'new_feature' | 'ai' | 'news';
+
 // OpenAI API レスポンス用
 export interface ArticleSummary {
   title: string;
   summary: string;
   category: Category;
   tips: string[];
+  priority: Priority;
+  articleType: ArticleType;
 }
 
 // 週次ダイジェスト
