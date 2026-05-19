@@ -1077,5 +1077,175 @@
     "source": "rss",
     "publishedAt": "2026-05-14T12:00:00.000Z",
     "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "zra_001",
+    "title": "ZRA入門：営業通話をAIで自動分析する方法",
+    "summary": "Zoom Revenue Accelerator（ZRA）を有効にすると、Zoom Phone/Meetingsの営業通話が自動で文字起こし・要約される。キーワード検出で競合メンションや購買シグナルも抽出。Gongのような会話インテリジェンスをZoom内で完結できる。",
+    "category": "phone",
+    "tips": [
+      "管理ポータル > アカウント管理 > Revenue Accelerator でライセンスを有効化",
+      "Zoom Phoneの通話も自動分析対象。営業チームの電話が即ナレッジに変わる",
+      "トピック検出で「競合名」「価格」「次のステップ」等のキーワードを自動抽出"
+    ],
+    "priority": "high",
+    "articleType": "new_feature",
+    "originalUrl": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059301",
+    "source": "web",
+    "publishedAt": "2026-05-20T00:00:00.000Z",
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "zra_002",
+    "title": "ZRA AIスコアカードで営業スキルを数値化",
+    "summary": "ZRAのAIスコアカード機能で、各営業担当の通話品質を自動評価。ヒアリング比率・質問数・話速・沈黙時間などを数値化し、トップパフォーマーとの差分を可視化。新人育成の指標にもなる。",
+    "category": "phone",
+    "tips": [
+      "スコアカードは設定 > Revenue Accelerator > スコアカードテンプレートから作成",
+      "トークリッスン比率（話す/聞く割合）が営業成績と相関するデータあり",
+      "マネージャーはスコア低下時にアラートを受け取り、1on1コーチングに活用"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://www.zoom.com/en/blog/zoom-revenue-accelerator/",
+    "source": "web",
+    "publishedAt": "2026-05-19T22:00:00.000Z",
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "zra_003",
+    "title": "ZRA ライブガイダンス：通話中にリアルタイムでヒントを表示",
+    "summary": "ZRAのライブガイダンス機能は、営業通話中にリアルタイムでバトルカード・異議対応策・関連資料を画面に表示。顧客が競合名を言った瞬間に差別化ポイントが表示され、即座に対応できる。",
+    "category": "phone",
+    "tips": [
+      "管理ポータル > ZRA > ライブガイダンスで表示するコンテンツを事前登録",
+      "競合名・価格交渉・技術質問などのトリガーワードを設定しておく",
+      "バトルカードはMarkdown形式で作成可能。簡潔に3行以内がベスト"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://www.zoom.com/en/products/conversation-intelligence/",
+    "source": "web",
+    "publishedAt": "2026-05-19T20:00:00.000Z",
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "zra_004",
+    "title": "ZRA × Salesforce連携で商談データを自動同期",
+    "summary": "ZRAとSalesforceを連携すると、通話の要約・アクションアイテム・次のステップが自動でSalesforceの商談レコードに記録される。営業担当のCRM入力工数がほぼゼロに。",
+    "category": "integration",
+    "tips": [
+      "ZRA設定 > CRM連携 > SalesforceでOAuth認証を完了するだけ",
+      "通話ごとの要約がSalesforceのアクティビティに自動追加される",
+      "ディールステージの変更提案もAIが行い、マネージャーが承認するフロー"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://www.zoom.com/en/blog/zoom-revenue-accelerator-alternative-to-gong/",
+    "source": "web",
+    "publishedAt": "2026-05-19T18:00:00.000Z",
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "zra_005",
+    "title": "ZRA AIプレイブックでセールス手法を標準化",
+    "summary": "AIプレイブック機能で、MEDDIC・BANT・SPINなどのセールス手法に基づいて通話を自動分析。各商談がプレイブックのどのステップまで完了しているか一目で把握できる。",
+    "category": "phone",
+    "tips": [
+      "設定 > プレイブック > テンプレートからMEDDIC/BANT等を選択して即利用開始",
+      "プレイブックの達成率がダッシュボードに表示。未完了項目を次回通話で解消",
+      "カスタムプレイブックも作成可能。自社独自のセールスプロセスに合わせて設計"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://www.zoom.com/en/products/conversation-intelligence/",
+    "source": "web",
+    "publishedAt": "2026-05-19T16:00:00.000Z",
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "zra_006",
+    "title": "ZRA ディールインテリジェンスで案件リスクを早期検知",
+    "summary": "ZRAのディールインテリジェンスは会話データとCRMデータを統合し、案件の健全性を自動評価。「連絡頻度が低下」「決裁者未参加」「競合メンション増加」などのリスクシグナルを検知してアラート。",
+    "category": "phone",
+    "tips": [
+      "ディールボードで全案件の健全性スコアを一覧表示。赤い案件から優先対応",
+      "リスクアラートはSlack/メールに通知設定可能。見逃しを防ぐ",
+      "フォーキャスト精度が向上。会話データに基づくので「感覚」より正確"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://www.zoom.com/en/products/conversation-intelligence/resources/revenue-growth-sales/",
+    "source": "web",
+    "publishedAt": "2026-05-19T14:00:00.000Z",
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "zra_007",
+    "title": "ZRAでTeams/Google Meetの商談も分析する方法",
+    "summary": "ZRAはZoom以外の会議も分析可能。Microsoft TeamsやGoogle Meetの商談にZRAレコーダーを追加するだけで、同じ分析・要約・CRM連携が適用される。マルチベンダー環境でも漏れなくカバー。",
+    "category": "integration",
+    "tips": [
+      "ZRA設定 > レコーダー > 外部ミーティング対応をONにする",
+      "Teams/Google Meetの招待にZRAレコーダーのメールアドレスを追加するだけ",
+      "カレンダー連携すれば全商談に自動でレコーダーが参加する設定も可能"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://www.zoom.com/en/blog/conversation-intelligence/",
+    "source": "web",
+    "publishedAt": "2026-05-19T12:00:00.000Z",
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "zra_008",
+    "title": "ZRA vs Gong：Zoom環境ならZRAが有利な理由",
+    "summary": "Gongは強力な会話インテリジェンスツールだが、既にZoomを使っている環境ならZRAの方が有利。追加アプリ不要・Zoom Phone完全統合・ライセンスコストの一元管理などのメリットがある。",
+    "category": "other",
+    "tips": [
+      "ZRAはZoomのアドオンなので別途アプリのインストール・管理が不要",
+      "Zoom Phoneの通話分析はGongでは別途設定が必要だがZRAはネイティブ対応",
+      "Zoomの契約に含められるので調達・請求がシンプルになる"
+    ],
+    "priority": "medium",
+    "articleType": "news",
+    "originalUrl": "https://www.zoom.com/en/blog/zoom-revenue-accelerator-alternative-to-gong/",
+    "source": "web",
+    "publishedAt": "2026-05-19T10:00:00.000Z",
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "zra_009",
+    "title": "ZRA 新人オンボーディング：ベスト通話ライブラリの活用",
+    "summary": "ZRAではトップパフォーマーの通話を「ベスト通話」としてライブラリに保存し、新人研修の教材として活用できる。実際の商談音声で学べるので座学より定着率が高い。",
+    "category": "phone",
+    "tips": [
+      "優秀な通話にスター★を付けてベスト通話ライブラリに追加",
+      "通話の特定箇所にコメントを付けてポイントを解説できる",
+      "プレイリスト機能で「異議対応集」「クロージング集」などテーマ別に整理"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://www.zoom.com/en/blog/zoom-revenue-accelerator/",
+    "source": "web",
+    "publishedAt": "2026-05-19T08:00:00.000Z",
+    "createdAt": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "zra_010",
+    "title": "ZRA アナリティクスダッシュボードの活用法",
+    "summary": "ZRAの分析ダッシュボードでは、チーム全体のトークリッスン比率・平均通話時間・キーワード出現頻度・成約率との相関などを一覧表示。データドリブンな営業改善の起点になる。",
+    "category": "productivity",
+    "tips": [
+      "ダッシュボード > トレンド分析で「成約した商談」と「失注した商談」の会話パターンを比較",
+      "特定キーワード（価格、競合名等）の出現頻度の推移をモニタリング",
+      "チームメンバー別のスコア推移で、コーチング効果を定量的に測定"
+    ],
+    "priority": "high",
+    "articleType": "hack",
+    "originalUrl": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059299",
+    "source": "web",
+    "publishedAt": "2026-05-19T06:00:00.000Z",
+    "createdAt": "2026-05-20T00:00:00.000Z"
   }
 ]
