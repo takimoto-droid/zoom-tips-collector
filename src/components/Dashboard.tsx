@@ -49,10 +49,10 @@ export function Dashboard() {
       if (data.success) {
         await fetchArticles();
       } else {
-        setError(data.error || '情報収集に失敗しました');
+        setError(data.error || '情報収集に失敗しました。RSSフィードの取得に時間がかかっている可能性があります。');
       }
     } catch (err) {
-      setError('情報収集中にエラーが発生しました');
+      setError('情報収集に失敗しました。しばらくしてから再度お試しください。');
     } finally {
       setIsCollecting(false);
     }

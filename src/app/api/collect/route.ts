@@ -2,12 +2,14 @@ import { NextResponse } from 'next/server';
 import { manualCollect } from '@/lib/scheduler/cron';
 import { ApiResponse, Article } from '@/lib/types';
 
+export const maxDuration = 60;
+
 export async function POST() {
   try {
     console.log('📡 手動収集開始...');
 
     const articles = await manualCollect({
-      useMock: false, // 実際のRSSフィードから取得
+      useMock: !process.env.OPENAI_API_KEY,
     });
 
     console.log(`✅ ${articles.length}件の記事を収集しました`);
