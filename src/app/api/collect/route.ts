@@ -8,8 +8,10 @@ export async function POST() {
   try {
     console.log('📡 手動収集開始...');
 
+    const isVercel = !!process.env.VERCEL;
     const articles = await manualCollect({
       useMock: !process.env.OPENAI_API_KEY,
+      saveToFile: !isVercel,
     });
 
     console.log(`✅ ${articles.length}件の記事を収集しました`);

@@ -120,8 +120,9 @@ export async function runWeeklyJob(options: {
  */
 export async function manualCollect(options: {
   useMock?: boolean;
+  saveToFile?: boolean;
 } = {}): Promise<Article[]> {
-  const { useMock = true } = options;
+  const { useMock = true, saveToFile = true } = options;
 
   // 情報収集
   const rawContents = await collectAllSources(useMock);
@@ -132,8 +133,14 @@ export async function manualCollect(options: {
   // AI処理
   const articles = await processMultipleContents(uniqueContents);
 
-  // 保存
-  await saveArticles(articles);
+  // 保存（Vercel等の読み取り専用環境ではスキップ）
+  if (saveToFile) {
+    try {
+      await saveArticles(articles);
+    } catch (e) {
+      console.warn('ファイル保存をスキップ（読み取り専用環境）');
+    }
+  }
 
   return articles;
 }
